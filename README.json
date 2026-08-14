@@ -123,7 +123,7 @@
           "repo_info": {
             "archived": false,
             "language": "Clojure",
-            "last_commit": "2025-10-11T09:46:42Z",
+            "last_commit": "2026-08-13T18:07:25Z",
             "owner": "tonsky",
             "repo": "datascript",
             "stars": 5781
@@ -137,7 +137,7 @@
           "repo_info": {
             "archived": false,
             "language": "Clojure",
-            "last_commit": "2026-08-12T21:25:06Z",
+            "last_commit": "2026-08-13T23:23:23Z",
             "owner": "replikativ",
             "repo": "konserve",
             "stars": 317
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T07:14:57.445Z",
+    "last_updated": "2026-08-14T07:12:17.557Z",
     "original_repository": "hantuzun/awesome-clojurescript",
     "original_repository_sha": "7a0d49986a459d14065c7681903514fca58de221",
     "enhanced_repository": "enhansome/enhansome-clojurescript",
