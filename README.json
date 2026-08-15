@@ -202,7 +202,7 @@
             "last_commit": "2026-08-10T17:44:03Z",
             "owner": "thheller",
             "repo": "shadow-cljs",
-            "stars": 2402
+            "stars": 2403
           }
         },
         {
@@ -494,7 +494,7 @@
             "last_commit": "2026-04-24T23:37:43Z",
             "owner": "quil",
             "repo": "quil",
-            "stars": 3049
+            "stars": 3050
           }
         },
         {
@@ -610,7 +610,7 @@
             "last_commit": "2024-01-16T21:37:58Z",
             "owner": "noprompt",
             "repo": "garden",
-            "stars": 1366
+            "stars": 1367
           }
         },
         {
@@ -832,7 +832,7 @@
             "last_commit": "2025-04-14T15:10:29Z",
             "owner": "tonsky",
             "repo": "rum",
-            "stars": 1825
+            "stars": 1826
           }
         },
         {
@@ -1170,7 +1170,7 @@
             "last_commit": "2025-12-30T19:39:58Z",
             "owner": "clojure",
             "repo": "test.check",
-            "stars": 1150
+            "stars": 1151
           }
         },
         {
@@ -1384,7 +1384,7 @@
             "last_commit": "2026-08-06T11:24:30Z",
             "owner": "taoensso",
             "repo": "sente",
-            "stars": 1787
+            "stars": 1788
           }
         },
         {
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T07:12:17.557Z",
+    "last_updated": "2026-08-15T06:22:55.327Z",
     "original_repository": "hantuzun/awesome-clojurescript",
     "original_repository_sha": "7a0d49986a459d14065c7681903514fca58de221",
     "enhanced_repository": "enhansome/enhansome-clojurescript",

@@ -96,7 +96,7 @@
 ### Development
 
 * [lein-figwheel](https://github.com/bhauman/lein-figwheel) ⭐ 2,875 | 🐛 98 | 🌐 Clojure | 📅 2024-03-26 – Leiningen plugin that pushes ClojureScript code changes to the client.
-* [shadow-cljs](https://github.com/thheller/shadow-cljs) ⭐ 2,402 | 🐛 43 | 🌐 Clojure | 📅 2026-08-10 – ClojureScript compilation made easy
+* [shadow-cljs](https://github.com/thheller/shadow-cljs) ⭐ 2,403 | 🐛 43 | 🌐 Clojure | 📅 2026-08-10 – ClojureScript compilation made easy
 * [Lumo](https://github.com/anmonteiro/lumo) ⚠️ Archived – Fast, cross-platform, standalone ClojureScript environment.
 * [Devcards](https://github.com/bhauman/devcards) ⭐ 1,535 | 🐛 30 | 🌐 Clojure | 📅 2023-09-17 – Devcards aims to provide a visual REPL experience for ClojureScript.
 * [cljs-devtools](https://github.com/binaryage/cljs-devtools) ⭐ 1,127 | 🐛 19 | 🌐 Clojure | 📅 2023-04-08 – Better presentation of ClojureScript values in Chrome Devtools.
@@ -128,7 +128,7 @@
 
 ### Graphics
 
-* [Quil](https://github.com/quil/quil) ⭐ 3,049 | 🐛 47 | 🌐 Clojure | 📅 2026-04-24 – A processing and graphics programming library.
+* [Quil](https://github.com/quil/quil) ⭐ 3,050 | 🐛 47 | 🌐 Clojure | 📅 2026-04-24 – A processing and graphics programming library.
 * [geom](https://github.com/thi-ng/geom) ⭐ 997 | 🐛 33 | 🌐 Clojure | 📅 2025-03-22 – A 2D/3D geometry toolkit for Clojure/Clojurescript.
 
 ### HTTP Handler
@@ -149,7 +149,7 @@
 
 ### CSS tools
 
-* [Garden](https://github.com/noprompt/garden) ⭐ 1,366 | 🐛 45 | 🌐 Clojure | 📅 2024-01-16 – A library for rendering CSS in Clojure and ClojureScript.
+* [Garden](https://github.com/noprompt/garden) ⭐ 1,367 | 🐛 45 | 🌐 Clojure | 📅 2024-01-16 – A library for rendering CSS in Clojure and ClojureScript.
 * [stylefy](https://github.com/jarzka/stylefy) ⭐ 321 | 🐛 13 | 🌐 Clojure | 📅 2025-07-21 – stylefy makes it possible to define UI component styles as Clojure data and attach them into components easily without writing CSS selectors
 
 ### Miscellaneous
@@ -170,7 +170,7 @@
 ### [React.js](https://facebook.github.io/react/) Interface
 
 * [Om](https://github.com/omcljs/om) ⭐ 6,623 | 🐛 80 | 🌐 Clojure | 📅 2020-08-17 – A powerful interface to React, makes use of its object oriented structures.
-* [Rum](https://github.com/tonsky/rum) ⭐ 1,825 | 🐛 23 | 🌐 HTML | 📅 2025-04-14 – Decomplected, extensible, simple.
+* [Rum](https://github.com/tonsky/rum) ⭐ 1,826 | 🐛 23 | 🌐 HTML | 📅 2025-04-14 – Decomplected, extensible, simple.
 * [re-com](https://github.com/Day8/re-com) ⭐ 822 | 🐛 51 | 🌐 Clojure | 📅 2026-08-02 – A ClojureScript library of reusable components for Reagent.
 * [Helix](https://github.com/lilactown/helix) ⭐ 674 | 🐛 15 | 🌐 Clojure | 📅 2026-01-05 – A simple, easy to use library for React development in ClojureScript with very few semantics on top of React.
 * [Quiescent](https://github.com/levand/quiescent) ⭐ 609 | 🐛 4 | 🌐 Clojure | 📅 2017-12-11 – It favors functional style, fully stateless.
@@ -207,7 +207,7 @@
 ### Testing
 
 * [cljs.test](https://github.com/clojure/clojurescript/wiki/Testing) ⭐ 9,390 | 🐛 7 | 🌐 Clojure | 📅 2026-08-10 – Integrated test framework for ClojureScript (merged from [clojurescript.test](https://github.com/cemerick/clojurescript.test) ⭐ 164 | 🐛 1 | 🌐 Clojure | 📅 2015-11-25)
-* [test.check](https://github.com/clojure/test.check) ⭐ 1,150 | 🐛 0 | 🌐 Clojure | 📅 2025-12-30 – A generative property-based testing tool inspired by QuickCheck.
+* [test.check](https://github.com/clojure/test.check) ⭐ 1,151 | 🐛 0 | 🌐 Clojure | 📅 2025-12-30 – A generative property-based testing tool inspired by QuickCheck.
 * [Speclj](https://github.com/slagyr/speclj) ⭐ 488 | 🐛 29 | 🌐 Clojure | 📅 2026-04-30 – A TDD/BDD framework for Clojure and ClojureScript.
 * [Expectations](http://jayfields.com/expectations/) – A minimalist's unit testing framework.
 
@@ -238,7 +238,7 @@
 
 ### WebSockets
 
-* [Sente](https://github.com/ptaoussanis/sente) ⭐ 1,787 | 🐛 3 | 🌐 Clojure | 📅 2026-08-06 – Clojure(Script) + core.async + WebSockets/Ajax.
+* [Sente](https://github.com/ptaoussanis/sente) ⭐ 1,788 | 🐛 3 | 🌐 Clojure | 📅 2026-08-06 – Clojure(Script) + core.async + WebSockets/Ajax.
 * [Chord](https://github.com/jarohen/chord) ⭐ 442 | 🐛 7 | 🌐 Clojure | 📅 2020-07-12 – Designed to bridge the gap between the triad of CLJ/CLJS, web-sockets and core.async.
 
 ***
@@ -257,4 +257,4 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
