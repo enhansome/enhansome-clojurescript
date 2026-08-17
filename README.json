@@ -137,7 +137,7 @@
           "repo_info": {
             "archived": false,
             "language": "Clojure",
-            "last_commit": "2026-08-16T05:20:18Z",
+            "last_commit": "2026-08-17T05:16:36Z",
             "owner": "replikativ",
             "repo": "konserve",
             "stars": 317
@@ -1156,7 +1156,7 @@
             "last_commit": "2026-08-10T01:25:46Z",
             "owner": "clojure",
             "repo": "clojurescript",
-            "stars": 9390
+            "stars": 9388
           }
         },
         {
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T06:25:41.665Z",
+    "last_updated": "2026-08-17T06:37:20.591Z",
     "original_repository": "hantuzun/awesome-clojurescript",
     "original_repository_sha": "7a0d49986a459d14065c7681903514fca58de221",
     "enhanced_repository": "enhansome/enhansome-clojurescript",
