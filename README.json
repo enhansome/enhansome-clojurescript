@@ -818,7 +818,7 @@
             "last_commit": "2020-08-17T12:30:25Z",
             "owner": "omcljs",
             "repo": "om",
-            "stars": 6623
+            "stars": 6624
           }
         },
         {
@@ -860,7 +860,7 @@
             "last_commit": "2026-01-05T17:37:44Z",
             "owner": "lilactown",
             "repo": "helix",
-            "stars": 674
+            "stars": 675
           }
         },
         {
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T06:28:54.224Z",
+    "last_updated": "2026-08-19T06:30:04.932Z",
     "original_repository": "hantuzun/awesome-clojurescript",
     "original_repository_sha": "7a0d49986a459d14065c7681903514fca58de221",
     "enhanced_repository": "enhansome/enhansome-clojurescript",
