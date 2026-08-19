@@ -1,1423 +1,1514 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Resources"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Monet",
+              "description": "A small ClojureScript library to make it easier to work with canvas and visuals.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5833602,
+                "language": "Clojure",
+                "last_commit": "2017-01-06T18:10:42Z",
+                "owner": "rm-hull",
+                "repo": "monet",
+                "stars": 170
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quamolit",
+              "description": "A tiny declarative animation library , inspired by React.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 341102081,
+                "language": "Cirru",
+                "last_commit": "2024-04-01T07:31:27Z",
+                "owner": "Quamolit",
+                "repo": "quamolit",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Canvas"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cljs-ajax",
+              "description": "A simple Ajax client for ClojureScript and Clojure.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9328057,
+                "language": "Clojure",
+                "last_commit": "2026-08-05T04:49:41Z",
+                "owner": "JulianBirch",
+                "repo": "cljs-ajax",
+                "stars": 676
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fetch",
+              "description": "A ClojureScript library that makes client/server interaction painless.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 3355500,
+                "language": "Clojure",
+                "last_commit": "2020-10-25T07:46:03Z",
+                "owner": "LightTable",
+                "repo": "fetch",
+                "stars": 206
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Client/Server Communication"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Transit",
+              "description": "A data interchange format and set of libraries for conveying values between applications written in different programming languages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20066525,
+                "language": "Clojure",
+                "last_commit": "2024-07-15T19:49:11Z",
+                "owner": "cognitect",
+                "repo": "transit-cljs",
+                "stars": 327
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cljson",
+              "description": "Clojure/ClojureScript library for accelerated browser data deserialization.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10609283,
+                "language": "Clojure",
+                "last_commit": "2015-10-21T00:49:48Z",
+                "owner": "tailrecursion",
+                "repo": "cljson",
+                "stars": 62
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Data Serialization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datascript",
+              "description": "An immutable in-memory database and Datalog query engine in ClojureScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18800032,
+                "language": "Clojure",
+                "last_commit": "2026-08-15T16:29:25Z",
+                "owner": "tonsky",
+                "repo": "datascript",
+                "stars": 5781
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Konserve",
+              "description": "A clojuresque key-value/document store protocol with core.async.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41630938,
+                "language": "Clojure",
+                "last_commit": "2026-08-18T05:19:36Z",
+                "owner": "replikativ",
+                "repo": "konserve",
+                "stars": 317
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "specql",
+              "description": "Library for simple PostgreSQL queries with namespaced keys.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83840037,
+                "language": "Clojure",
+                "last_commit": "2024-09-20T10:19:35Z",
+                "owner": "tatut",
+                "repo": "specql",
+                "stars": 135
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jaki",
+              "description": "A simple ClojureScript CouchDB client.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2940176,
+                "language": "Clojure",
+                "last_commit": "2012-10-10T12:26:10Z",
+                "owner": "pandeiro",
+                "repo": "jaki",
+                "stars": 16
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Database"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "lein-figwheel",
+              "description": "Leiningen plugin that pushes ClojureScript code changes to the client.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18901345,
+                "language": "Clojure",
+                "last_commit": "2024-03-26T22:29:38Z",
+                "owner": "bhauman",
+                "repo": "lein-figwheel",
+                "stars": 2875
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "shadow-cljs",
+              "description": "ClojureScript compilation made easy",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43973779,
+                "language": "Clojure",
+                "last_commit": "2026-08-10T17:44:03Z",
+                "owner": "thheller",
+                "repo": "shadow-cljs",
+                "stars": 2403
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lumo",
+              "description": "Fast, cross-platform, standalone ClojureScript environment.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 69415002,
+                "language": "Clojure",
+                "last_commit": "2022-05-16T17:17:30Z",
+                "owner": "anmonteiro",
+                "repo": "lumo",
+                "stars": 1873
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Devcards",
+              "description": "Devcards aims to provide a visual REPL experience for ClojureScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19621689,
+                "language": "Clojure",
+                "last_commit": "2023-09-17T15:16:13Z",
+                "owner": "bhauman",
+                "repo": "devcards",
+                "stars": 1535
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cljs-devtools",
+              "description": "Better presentation of ClojureScript values in Chrome Devtools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29934632,
+                "language": "Clojure",
+                "last_commit": "2023-04-08T21:20:05Z",
+                "owner": "binaryage",
+                "repo": "cljs-devtools",
+                "stars": 1127
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lein-cljsbuild",
+              "description": "A Leiningen plugin to make ClojureScript development easy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3067051,
+                "language": "Clojure",
+                "last_commit": "2021-03-19T16:43:38Z",
+                "owner": "emezeske",
+                "repo": "lein-cljsbuild",
+                "stars": 1093
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Planck",
+              "description": "A stand-alone ClojureScript REPL for macOS and Linux based on JavaScriptCore.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39191344,
+                "language": "C",
+                "last_commit": "2024-08-28T05:06:34Z",
+                "owner": "planck-repl",
+                "repo": "planck",
+                "stars": 1040
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ambly",
+              "description": "A ClojureScript REPL into iOS JavaScriptCore.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29021547,
+                "language": "Objective-C",
+                "last_commit": "2022-07-29T19:49:10Z",
+                "owner": "mfikes",
+                "repo": "ambly",
+                "stars": 538
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Truss",
+              "description": "An opinionated assertions API for Clojure/ClojureScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45588181,
+                "language": "Clojure",
+                "last_commit": "2026-07-29T07:44:15Z",
+                "owner": "taoensso",
+                "repo": "truss",
+                "stars": 328
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Instaparse",
+              "description": "It aims to be the simplest way to build parsers in ClojureScript.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 22835050,
+                "language": "Clojure",
+                "last_commit": "2017-03-01T20:15:56Z",
+                "owner": "lbradstreet",
+                "repo": "instaparse-cljs",
+                "stars": 88
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Development"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dommy",
+              "description": "A no-nonsense ClojureScript templating and DOM manipulation library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7586000,
+                "language": "Clojure",
+                "last_commit": "2018-01-07T00:14:06Z",
+                "owner": "plumatic",
+                "repo": "dommy",
+                "stars": 755
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sablono",
+              "description": "Lisp/Hiccup style templating for Facebook's React in ClojureScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15357315,
+                "language": "Clojure",
+                "last_commit": "2020-08-04T21:21:30Z",
+                "owner": "r0man",
+                "repo": "sablono",
+                "stars": 688
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hickory",
+              "description": "It parses HTML into Clojure data structures, so you can analyze, transform, and output back to HTML.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4355933,
+                "language": "Clojure",
+                "last_commit": "2026-04-20T09:05:28Z",
+                "owner": "clj-commons",
+                "repo": "hickory",
+                "stars": 678
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kioo",
+              "description": "DOM manipulation and templating library for Facebook's React and Om in ClojureScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15848869,
+                "language": "Clojure",
+                "last_commit": "2018-05-01T18:25:21Z",
+                "owner": "ckirkendall",
+                "repo": "kioo",
+                "stars": 400
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Freactive",
+              "description": "A high-performance, pure Clojurescript, declarative DOM library inspired by reagent, om, reflex and hiccup.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21708146,
+                "language": "Clojure",
+                "last_commit": "2015-11-12T03:28:26Z",
+                "owner": "aaronc",
+                "repo": "freactive",
+                "stars": 384
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Respo",
+              "description": "A responsive DOM library, inspired by React.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52154978,
+                "language": "Cirru",
+                "last_commit": "2025-08-25T16:39:05Z",
+                "owner": "Respo",
+                "repo": "respo.cljs",
+                "stars": 236
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Crate",
+              "description": "A ClojureScript implementation of Hiccup.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3355576,
+                "language": "Clojure",
+                "last_commit": "2015-11-02T21:08:01Z",
+                "owner": "ibdknox",
+                "repo": "crate",
+                "stars": 223
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hiccups",
+              "description": "A ClojureScript port of the Hiccup.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2168216,
+                "language": "Clojure",
+                "last_commit": "2020-11-06T18:17:22Z",
+                "owner": "teropa",
+                "repo": "hiccups",
+                "stars": 218
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "json-html",
+              "description": "Provide JSON and get a DOM node with a human representation of that JSON.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17928504,
+                "language": "Clojure",
+                "last_commit": "2020-05-30T16:06:14Z",
+                "owner": "yogthos",
+                "repo": "json-html",
+                "stars": 164
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dominator",
+              "description": "Virtual-Dom in ClojureScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33261423,
+                "language": "JavaScript",
+                "last_commit": "2015-06-09T02:00:38Z",
+                "owner": "dubiousdavid",
+                "repo": "dominator",
+                "stars": 73
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cljs-binding",
+              "description": "It binds html elements to ClojureScript functions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4067994,
+                "language": "JavaScript",
+                "last_commit": "2012-10-16T14:40:42Z",
+                "owner": "fluentforward",
+                "repo": "cljs-binding",
+                "stars": 57
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Document Object Model"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Quil",
+              "description": "A processing and graphics programming library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3625126,
+                "language": "Clojure",
+                "last_commit": "2026-04-24T23:37:43Z",
+                "owner": "quil",
+                "repo": "quil",
+                "stars": 3050
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "geom",
+              "description": "A 2D/3D geometry toolkit for Clojure/Clojurescript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16990539,
+                "language": "Clojure",
+                "last_commit": "2025-03-22T14:59:18Z",
+                "owner": "thi-ng",
+                "repo": "geom",
+                "stars": 997
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Graphics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Tower",
+              "description": "A Clojure(Script) i18n & L10n library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4606623,
+                "language": "Clojure",
+                "last_commit": "2024-03-19T14:27:07Z",
+                "owner": "taoensso",
+                "repo": "tower",
+                "stars": 278
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tempura",
+              "description": "A Clojure(Script) i18n library, succeeding Tower",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50273946,
+                "language": "Clojure",
+                "last_commit": "2024-06-05T10:25:30Z",
+                "owner": "taoensso",
+                "repo": "tempura",
+                "stars": 264
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Internationalization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Jayq",
+              "description": "A ClojureScript wrapper for jQuery.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3355509,
+                "language": "Clojure",
+                "last_commit": "2018-02-23T18:47:45Z",
+                "owner": "ibdknox",
+                "repo": "jayq",
+                "stars": 412
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pylon",
+              "description": "A Javascript class system in 100% Clojurescript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7391581,
+                "language": "Clojure",
+                "last_commit": "2013-01-27T16:07:26Z",
+                "owner": "bodil",
+                "repo": "pylon",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Purnam",
+              "description": "A ClojureScript library designed to provide better clojurescript/javascript interop, testing and documentation tools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139168200,
+                "language": "Clojure",
+                "last_commit": "2018-06-29T15:35:16Z",
+                "owner": "zcaudate",
+                "repo": "purnam",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "JavaScript Interoperability"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Garden",
+              "description": "A library for rendering CSS in Clojure and ClojureScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9311911,
+                "language": "Clojure",
+                "last_commit": "2024-01-16T21:37:58Z",
+                "owner": "noprompt",
+                "repo": "garden",
+                "stars": 1367
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stylefy",
+              "description": "stylefy makes it possible to define UI component styles as Clojure data and attach them into components easily without writing CSS selectors",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91590750,
+                "language": "Clojure",
+                "last_commit": "2025-07-21T10:31:14Z",
+                "owner": "Jarzka",
+                "repo": "stylefy",
+                "stars": 321
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CSS tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "core.async",
+              "description": "A Clojure(Script) library designed to provide facilities for async programming and communication.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10082287,
+                "language": "Clojure",
+                "last_commit": "2026-06-12T14:30:05Z",
+                "owner": "clojure",
+                "repo": "core.async",
+                "stars": 2049
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Automat",
+              "description": "A Clojure(Script) library for defining and using finite-state automata, inspired by Ragel.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 12030653,
+                "language": "Clojure",
+                "last_commit": "2018-09-09T08:08:06Z",
+                "owner": "ztellman",
+                "repo": "automat",
+                "stars": 591
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "markdown-clj",
+              "description": "Markdown parser in Clojure/ClojureScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2551308,
+                "language": "Clojure",
+                "last_commit": "2026-08-05T19:35:49Z",
+                "owner": "yogthos",
+                "repo": "markdown-clj",
+                "stars": 575
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "om-tools",
+              "description": "It aims to provide higher-order abstractions and utilities frequently useful when building components with Om's API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19601606,
+                "language": "Clojure",
+                "last_commit": "2018-07-07T17:28:45Z",
+                "owner": "plumatic",
+                "repo": "om-tools",
+                "stars": 433
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "reagent-forms",
+              "description": "Bootstrap form components for Reagent.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22842787,
+                "language": "HTML",
+                "last_commit": "2020-04-27T13:32:54Z",
+                "owner": "reagent-project",
+                "repo": "reagent-forms",
+                "stars": 341
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "inflections-clj",
+              "description": "Rails-like inflection library for Clojure and ClojureScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 511849,
+                "language": "Clojure",
+                "last_commit": "2025-08-14T10:58:26Z",
+                "owner": "r0man",
+                "repo": "inflections-clj",
+                "stars": 222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "reforms",
+              "description": "Beautiful Bootstrap 3 forms for Om and Reagent.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37600803,
+                "language": "Clojure",
+                "last_commit": "2017-02-08T16:30:27Z",
+                "owner": "bilus",
+                "repo": "reforms",
+                "stars": 168
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bardo",
+              "description": "A Clojure(Script) library for functional interpolation and transitions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19505990,
+                "language": "Clojure",
+                "last_commit": "2018-10-24T21:11:01Z",
+                "owner": "pleasetrythisathome",
+                "repo": "bardo",
+                "stars": 95
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Keybind",
+              "description": "Library for handling key bindings (shortcuts) in browser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22420156,
+                "language": "Clojure",
+                "last_commit": "2017-11-27T09:05:33Z",
+                "owner": "sansolovyov",
+                "repo": "keybind",
+                "stars": 85
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Entanglement",
+              "description": "It creates atoms from other atoms and links the data together.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30100763,
+                "language": "Clojure",
+                "last_commit": "2016-08-22T23:52:29Z",
+                "owner": "Frozenlock",
+                "repo": "entanglement",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sepal.clj",
+              "description": "A library to generate Clojure code from a vector of strings and vectors with macro system.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40444270,
+                "language": "Cirru",
+                "last_commit": "2025-08-25T16:31:46Z",
+                "owner": "Cirru",
+                "repo": "sepal.clj",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "namespacefy",
+              "description": "A simple Clojure(Script) library which aims to make it easy to keep map keys namespaced, no matter where your data comes from.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89011929,
+                "language": "Clojure",
+                "last_commit": "2023-03-11T10:38:40Z",
+                "owner": "Jarzka",
+                "repo": "namespacefy",
+                "stars": 21
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Miscellaneous"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Om",
+              "description": "A powerful interface to React, makes use of its object oriented structures.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15115183,
+                "language": "Clojure",
+                "last_commit": "2020-08-17T12:30:25Z",
+                "owner": "omcljs",
+                "repo": "om",
+                "stars": 6624
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rum",
+              "description": "Decomplected, extensible, simple.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28252701,
+                "language": "HTML",
+                "last_commit": "2025-04-14T15:10:29Z",
+                "owner": "tonsky",
+                "repo": "rum",
+                "stars": 1826
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "re-com",
+              "description": "A ClojureScript library of reusable components for Reagent.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21813295,
+                "language": "Clojure",
+                "last_commit": "2026-08-02T21:25:53Z",
+                "owner": "day8",
+                "repo": "re-com",
+                "stars": 823
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Helix",
+              "description": "A simple, easy to use library for React development in ClojureScript with very few semantics on top of React.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 223447339,
+                "language": "Clojure",
+                "last_commit": "2026-01-05T17:37:44Z",
+                "owner": "lilactown",
+                "repo": "helix",
+                "stars": 675
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quiescent",
+              "description": "It favors functional style, fully stateless.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16621691,
+                "language": "Clojure",
+                "last_commit": "2017-12-11T21:04:43Z",
+                "owner": "levand",
+                "repo": "quiescent",
+                "stars": 609
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hx",
+              "description": "Another simple, easy to use library for React development in ClojureScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136633406,
+                "language": "Clojure",
+                "last_commit": "2026-04-15T08:02:52Z",
+                "owner": "nosco",
+                "repo": "hx",
+                "stars": 245
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Brutha",
+              "description": "A simple and functional ClojureScript interface to React.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34585260,
+                "language": "Clojure",
+                "last_commit": "2016-08-19T22:28:03Z",
+                "owner": "weavejester",
+                "repo": "brutha",
+                "stars": 139
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cljsx",
+              "description": "JSX for Clojure and ClojureScript, also works with Inferno, Nerv, Preact, Snabbdome and others.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 178456262,
+                "language": "Clojure",
+                "last_commit": "2022-06-22T06:25:14Z",
+                "owner": "peterhudec",
+                "repo": "cljsx",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React.js Interface"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Javelin",
+              "description": "A Functional Reactive Programming library for ClojureScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8204897,
+                "language": "Clojure",
+                "last_commit": "2023-10-31T12:50:48Z",
+                "owner": "hoplon",
+                "repo": "javelin",
+                "stars": 825
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Reagi",
+              "description": "An FRP library for Clojure and ClojureScript, built on top of core.async.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10017707,
+                "language": "Clojure",
+                "last_commit": "2016-03-04T19:50:04Z",
+                "owner": "weavejester",
+                "repo": "reagi",
+                "stars": 232
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Manifold-cljs",
+              "description": "A port of Manifold to ClojureScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75775287,
+                "language": "Clojure",
+                "last_commit": "2019-12-20T14:59:52Z",
+                "owner": "dm3",
+                "repo": "manifold-cljs",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rx-cljs",
+              "description": "A ClojureScript wrapper for Reactive Extensions (Rx) for Javascript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10190514,
+                "language": "Clojure",
+                "last_commit": "2013-05-21T09:55:34Z",
+                "owner": "theleoborges",
+                "repo": "rx-cljs",
+                "stars": 44
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Reactive Programming"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bidi",
+              "description": "A Clojure(script) data driven routing library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15347209,
+                "language": "Clojure",
+                "last_commit": "2023-03-15T10:46:57Z",
+                "owner": "juxt",
+                "repo": "bidi",
+                "stars": 998
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Secretary",
+              "description": "A client-side router for ClojureScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3684333,
+                "language": "Clojure",
+                "last_commit": "2020-12-13T18:45:07Z",
+                "owner": "clj-commons",
+                "repo": "secretary",
+                "stars": 773
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Silk",
+              "description": "An isomorphic routing library for Clojure & ClojureScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21293746,
+                "language": "Clojure",
+                "last_commit": "2022-01-04T23:48:51Z",
+                "owner": "domkm",
+                "repo": "silk",
+                "stars": 224
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Router",
+              "description": "Bidirectional Ring router for Clojure/Script. REST oriented.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67718006,
+                "language": "Clojure",
+                "last_commit": "2017-04-30T14:48:23Z",
+                "owner": "darkleaf",
+                "repo": "router",
+                "stars": 80
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Routing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "component",
+              "description": "Managed lifecycle of stateful objects in Clojure(Script).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13760299,
+                "language": "Clojure",
+                "last_commit": "2025-10-25T16:10:36Z",
+                "owner": "stuartsierra",
+                "repo": "component",
+                "stars": 2160
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mount",
+              "description": "A beautifl idiomatic state management library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44562759,
+                "language": "Clojure",
+                "last_commit": "2026-06-11T01:45:59Z",
+                "owner": "tolitius",
+                "repo": "mount",
+                "stars": 1255
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "storage-atom",
+              "description": "ClojureScript atoms backed by HTML5 web storage.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7834293,
+                "language": "Clojure",
+                "last_commit": "2022-10-28T09:07:52Z",
+                "owner": "alandipert",
+                "repo": "storage-atom",
+                "stars": 194
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Waltz",
+              "description": "A ClojureScript library that helps manage state in client-side applications using non-deterministic finite state machines.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3355512,
+                "language": "Clojure",
+                "last_commit": "2012-04-10T12:15:05Z",
+                "owner": "ibdknox",
+                "repo": "waltz",
+                "stars": 90
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "plato",
+              "description": "Incrementally persists atom state to Local Storage in ClojureScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16641546,
+                "language": "Clojure",
+                "last_commit": "2014-12-11T14:14:14Z",
+                "owner": "eneroth",
+                "repo": "plato",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tuck",
+              "description": "A micro framework for building Reagent apps that have a clean separation of view code and event processing code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66100853,
+                "language": "Clojure",
+                "last_commit": "2020-08-28T07:47:43Z",
+                "owner": "tatut",
+                "repo": "tuck",
+                "stars": 30
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "State Management"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cljs.test",
+              "description": "Integrated test framework for ClojureScript (merged from clojurescript.test)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2080922,
+                "language": "Clojure",
+                "last_commit": "2026-08-10T01:25:46Z",
+                "owner": "clojure",
+                "repo": "clojurescript",
+                "stars": 9390
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "test.check",
+              "description": "A generative property-based testing tool inspired by QuickCheck.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14901072,
+                "language": "Clojure",
+                "last_commit": "2025-12-30T19:39:58Z",
+                "owner": "clojure",
+                "repo": "test.check",
+                "stars": 1151
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Speclj",
+              "description": "A TDD/BDD framework for Clojure and ClojureScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1063787,
+                "language": "Clojure",
+                "last_commit": "2026-04-30T17:00:36Z",
+                "owner": "slagyr",
+                "repo": "speclj",
+                "stars": 488
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Testing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bouncer",
+              "description": "A validation DSL for Clojure & Clojurescript applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7436058,
+                "language": "Clojure",
+                "last_commit": "2021-07-12T03:10:36Z",
+                "owner": "theleoborges",
+                "repo": "bouncer",
+                "stars": 361
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "form-validator-cljs",
+              "description": "Validate forms with spec and fn.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 154028855,
+                "language": "Clojure",
+                "last_commit": "2019-11-22T18:18:07Z",
+                "owner": "kwladyka",
+                "repo": "form-validator-cljs",
+                "stars": 55
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Validation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "re-frame",
+              "description": "A Reagent Framework For Writing SPAs, in Clojurescript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27587921,
+                "language": "Clojure",
+                "last_commit": "2026-05-05T15:55:07Z",
+                "owner": "day8",
+                "repo": "re-frame",
+                "stars": 5541
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chestnut",
+              "description": "An Application template for ClojureScript/Om with live reloading.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 23293363,
+                "language": "Clojure",
+                "last_commit": "2022-06-23T20:16:06Z",
+                "owner": "plexus",
+                "repo": "chestnut",
+                "stars": 1303
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Precept",
+              "description": "A declarative programming framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84245891,
+                "language": "Clojure",
+                "last_commit": "2022-12-06T17:35:30Z",
+                "owner": "CoNarrative",
+                "repo": "precept",
+                "stars": 662
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "descjop",
+              "description": "A template for Web based desktop application with Electron.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 34098295,
+                "language": "Clojure",
+                "last_commit": "2017-10-06T12:45:50Z",
+                "owner": "karad",
+                "repo": "lein_template_descjop",
+                "stars": 394
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Macchiato",
+              "description": "It aims to provide an easy to use platform for Node.js.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74981715,
+                "language": "Clojure",
+                "last_commit": "2025-12-31T15:19:57Z",
+                "owner": "macchiato-framework",
+                "repo": "macchiato-core",
+                "stars": 385
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mies",
+              "description": "A minimal ClojureScript project template.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13915123,
+                "language": "Clojure",
+                "last_commit": "2018-07-05T16:09:13Z",
+                "owner": "swannodette",
+                "repo": "mies",
+                "stars": 367
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WebFUI",
+              "description": "Client-Side Web Framework for ClojureScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6696037,
+                "language": "Clojure",
+                "last_commit": "2013-01-30T18:40:04Z",
+                "owner": "drcode",
+                "repo": "webfui",
+                "stars": 237
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Clops",
+              "description": "An opinionated, full stack and easy to use web framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29478709,
+                "language": "Clojure",
+                "last_commit": "2020-12-31T20:36:15Z",
+                "owner": "sveri",
+                "repo": "closp",
+                "stars": 175
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electron-template",
+              "description": "A template for creating web based desktop applications with Electron, ClojureScript and Reagent.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39562905,
+                "language": "JavaScript",
+                "last_commit": "2016-03-15T10:41:44Z",
+                "owner": "ducky427",
+                "repo": "electron-template",
+                "stars": 116
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "atw-om",
+              "description": "A web application template with Clojure/Compojure, ClojureScript/Om & core.async.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16620783,
+                "language": "Clojure",
+                "last_commit": "2014-12-26T23:41:19Z",
+                "owner": "zaiste",
+                "repo": "atw-om",
+                "stars": 41
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web Framework & Template"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Sente",
+              "description": "Clojure(Script) + core.async + WebSockets/Ajax.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17054460,
+                "language": "Clojure",
+                "last_commit": "2026-08-06T11:24:30Z",
+                "owner": "taoensso",
+                "repo": "sente",
+                "stars": 1789
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chord",
+              "description": "Designed to bridge the gap between the triad of CLJ/CLJS, web-sockets and core.async.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11863945,
+                "language": "Clojure",
+                "last_commit": "2020-07-12T09:57:33Z",
+                "owner": "jarohen",
+                "repo": "chord",
+                "stars": 442
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "WebSockets"
+        }
+      ],
       "title": "Awesome ClojureScript"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Monet",
-          "description": "A small ClojureScript library to make it easier to work with canvas and visuals.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2017-01-06T18:10:42Z",
-            "owner": "rm-hull",
-            "repo": "monet",
-            "stars": 170
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quamolit",
-          "description": "A tiny declarative animation library , inspired by React.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Cirru",
-            "last_commit": "2024-04-01T07:31:27Z",
-            "owner": "Quamolit",
-            "repo": "quamolit",
-            "stars": 7
-          }
-        }
-      ],
-      "title": "Canvas"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "cljs-ajax",
-          "description": "A simple Ajax client for ClojureScript and Clojure.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2026-08-05T04:49:41Z",
-            "owner": "JulianBirch",
-            "repo": "cljs-ajax",
-            "stars": 676
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fetch",
-          "description": "A ClojureScript library that makes client/server interaction painless.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Clojure",
-            "last_commit": "2020-10-25T07:46:03Z",
-            "owner": "LightTable",
-            "repo": "fetch",
-            "stars": 206
-          }
-        }
-      ],
-      "title": "Client/Server Communication"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Transit",
-          "description": "A data interchange format and set of libraries for conveying values between applications written in different programming languages.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2024-07-15T19:49:11Z",
-            "owner": "cognitect",
-            "repo": "transit-cljs",
-            "stars": 327
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cljson",
-          "description": "Clojure/ClojureScript library for accelerated browser data deserialization.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2015-10-21T00:49:48Z",
-            "owner": "tailrecursion",
-            "repo": "cljson",
-            "stars": 62
-          }
-        }
-      ],
-      "title": "Data Serialization"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Datascript",
-          "description": "An immutable in-memory database and Datalog query engine in ClojureScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2026-08-15T16:29:25Z",
-            "owner": "tonsky",
-            "repo": "datascript",
-            "stars": 5781
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Konserve",
-          "description": "A clojuresque key-value/document store protocol with core.async.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2026-08-18T05:19:36Z",
-            "owner": "replikativ",
-            "repo": "konserve",
-            "stars": 317
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "specql",
-          "description": "Library for simple PostgreSQL queries with namespaced keys.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2024-09-20T10:19:35Z",
-            "owner": "tatut",
-            "repo": "specql",
-            "stars": 135
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Jaki",
-          "description": "A simple ClojureScript CouchDB client.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2012-10-10T12:26:10Z",
-            "owner": "pandeiro",
-            "repo": "jaki",
-            "stars": 16
-          }
-        }
-      ],
-      "title": "Database"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "lein-figwheel",
-          "description": "Leiningen plugin that pushes ClojureScript code changes to the client.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2024-03-26T22:29:38Z",
-            "owner": "bhauman",
-            "repo": "lein-figwheel",
-            "stars": 2875
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "shadow-cljs",
-          "description": "ClojureScript compilation made easy",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2026-08-10T17:44:03Z",
-            "owner": "thheller",
-            "repo": "shadow-cljs",
-            "stars": 2403
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lumo",
-          "description": "Fast, cross-platform, standalone ClojureScript environment.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Clojure",
-            "last_commit": "2022-05-16T17:17:30Z",
-            "owner": "anmonteiro",
-            "repo": "lumo",
-            "stars": 1873
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Devcards",
-          "description": "Devcards aims to provide a visual REPL experience for ClojureScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2023-09-17T15:16:13Z",
-            "owner": "bhauman",
-            "repo": "devcards",
-            "stars": 1535
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cljs-devtools",
-          "description": "Better presentation of ClojureScript values in Chrome Devtools.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2023-04-08T21:20:05Z",
-            "owner": "binaryage",
-            "repo": "cljs-devtools",
-            "stars": 1127
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lein-cljsbuild",
-          "description": "A Leiningen plugin to make ClojureScript development easy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2021-03-19T16:43:38Z",
-            "owner": "emezeske",
-            "repo": "lein-cljsbuild",
-            "stars": 1093
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Planck",
-          "description": "A stand-alone ClojureScript REPL for macOS and Linux based on JavaScriptCore.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-08-28T05:06:34Z",
-            "owner": "planck-repl",
-            "repo": "planck",
-            "stars": 1040
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ambly",
-          "description": "A ClojureScript REPL into iOS JavaScriptCore.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2022-07-29T19:49:10Z",
-            "owner": "mfikes",
-            "repo": "ambly",
-            "stars": 538
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Truss",
-          "description": "An opinionated assertions API for Clojure/ClojureScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2026-07-29T07:44:15Z",
-            "owner": "taoensso",
-            "repo": "truss",
-            "stars": 328
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Instaparse",
-          "description": "It aims to be the simplest way to build parsers in ClojureScript.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Clojure",
-            "last_commit": "2017-03-01T20:15:56Z",
-            "owner": "lbradstreet",
-            "repo": "instaparse-cljs",
-            "stars": 88
-          }
-        }
-      ],
-      "title": "Development"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Dommy",
-          "description": "A no-nonsense ClojureScript templating and DOM manipulation library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2018-01-07T00:14:06Z",
-            "owner": "plumatic",
-            "repo": "dommy",
-            "stars": 755
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sablono",
-          "description": "Lisp/Hiccup style templating for Facebook's React in ClojureScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2020-08-04T21:21:30Z",
-            "owner": "r0man",
-            "repo": "sablono",
-            "stars": 688
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hickory",
-          "description": "It parses HTML into Clojure data structures, so you can analyze, transform, and output back to HTML.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2026-04-20T09:05:28Z",
-            "owner": "clj-commons",
-            "repo": "hickory",
-            "stars": 678
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kioo",
-          "description": "DOM manipulation and templating library for Facebook's React and Om in ClojureScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2018-05-01T18:25:21Z",
-            "owner": "ckirkendall",
-            "repo": "kioo",
-            "stars": 400
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Freactive",
-          "description": "A high-performance, pure Clojurescript, declarative DOM library inspired by reagent, om, reflex and hiccup.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2015-11-12T03:28:26Z",
-            "owner": "aaronc",
-            "repo": "freactive",
-            "stars": 384
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Respo",
-          "description": "A responsive DOM library, inspired by React.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Cirru",
-            "last_commit": "2025-08-25T16:39:05Z",
-            "owner": "Respo",
-            "repo": "respo.cljs",
-            "stars": 236
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Crate",
-          "description": "A ClojureScript implementation of Hiccup.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2015-11-02T21:08:01Z",
-            "owner": "ibdknox",
-            "repo": "crate",
-            "stars": 223
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hiccups",
-          "description": "A ClojureScript port of the Hiccup.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2020-11-06T18:17:22Z",
-            "owner": "teropa",
-            "repo": "hiccups",
-            "stars": 218
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "json-html",
-          "description": "Provide JSON and get a DOM node with a human representation of that JSON.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2020-05-30T16:06:14Z",
-            "owner": "yogthos",
-            "repo": "json-html",
-            "stars": 164
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dominator",
-          "description": "Virtual-Dom in ClojureScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2015-06-09T02:00:38Z",
-            "owner": "dubiousdavid",
-            "repo": "dominator",
-            "stars": 73
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cljs-binding",
-          "description": "It binds html elements to ClojureScript functions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2012-10-16T14:40:42Z",
-            "owner": "fluentforward",
-            "repo": "cljs-binding",
-            "stars": 57
-          }
-        }
-      ],
-      "title": "Document Object Model"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Quil",
-          "description": "A processing and graphics programming library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2026-04-24T23:37:43Z",
-            "owner": "quil",
-            "repo": "quil",
-            "stars": 3050
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "geom",
-          "description": "A 2D/3D geometry toolkit for Clojure/Clojurescript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2025-03-22T14:59:18Z",
-            "owner": "thi-ng",
-            "repo": "geom",
-            "stars": 997
-          }
-        }
-      ],
-      "title": "Graphics"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Tower",
-          "description": "A Clojure(Script) i18n & L10n library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2024-03-19T14:27:07Z",
-            "owner": "taoensso",
-            "repo": "tower",
-            "stars": 278
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tempura",
-          "description": "A Clojure(Script) i18n library, succeeding Tower",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2024-06-05T10:25:30Z",
-            "owner": "taoensso",
-            "repo": "tempura",
-            "stars": 264
-          }
-        }
-      ],
-      "title": "Internationalization"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Jayq",
-          "description": "A ClojureScript wrapper for jQuery.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2018-02-23T18:47:45Z",
-            "owner": "ibdknox",
-            "repo": "jayq",
-            "stars": 412
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pylon",
-          "description": "A Javascript class system in 100% Clojurescript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2013-01-27T16:07:26Z",
-            "owner": "bodil",
-            "repo": "pylon",
-            "stars": 53
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Purnam",
-          "description": "A ClojureScript library designed to provide better clojurescript/javascript interop, testing and documentation tools.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2018-06-29T15:35:16Z",
-            "owner": "zcaudate",
-            "repo": "purnam",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "JavaScript Interoperability"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Garden",
-          "description": "A library for rendering CSS in Clojure and ClojureScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2024-01-16T21:37:58Z",
-            "owner": "noprompt",
-            "repo": "garden",
-            "stars": 1367
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "stylefy",
-          "description": "stylefy makes it possible to define UI component styles as Clojure data and attach them into components easily without writing CSS selectors",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2025-07-21T10:31:14Z",
-            "owner": "Jarzka",
-            "repo": "stylefy",
-            "stars": 321
-          }
-        }
-      ],
-      "title": "CSS tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "core.async",
-          "description": "A Clojure(Script) library designed to provide facilities for async programming and communication.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2026-06-12T14:30:05Z",
-            "owner": "clojure",
-            "repo": "core.async",
-            "stars": 2049
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Automat",
-          "description": "A Clojure(Script) library for defining and using finite-state automata, inspired by Ragel.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Clojure",
-            "last_commit": "2018-09-09T08:08:06Z",
-            "owner": "ztellman",
-            "repo": "automat",
-            "stars": 591
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "markdown-clj",
-          "description": "Markdown parser in Clojure/ClojureScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2026-08-05T19:35:49Z",
-            "owner": "yogthos",
-            "repo": "markdown-clj",
-            "stars": 575
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "om-tools",
-          "description": "It aims to provide higher-order abstractions and utilities frequently useful when building components with Om's API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2018-07-07T17:28:45Z",
-            "owner": "plumatic",
-            "repo": "om-tools",
-            "stars": 433
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "reagent-forms",
-          "description": "Bootstrap form components for Reagent.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2020-04-27T13:32:54Z",
-            "owner": "reagent-project",
-            "repo": "reagent-forms",
-            "stars": 341
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "inflections-clj",
-          "description": "Rails-like inflection library for Clojure and ClojureScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2025-08-14T10:58:26Z",
-            "owner": "r0man",
-            "repo": "inflections-clj",
-            "stars": 222
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "reforms",
-          "description": "Beautiful Bootstrap 3 forms for Om and Reagent.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2017-02-08T16:30:27Z",
-            "owner": "bilus",
-            "repo": "reforms",
-            "stars": 168
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bardo",
-          "description": "A Clojure(Script) library for functional interpolation and transitions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2018-10-24T21:11:01Z",
-            "owner": "pleasetrythisathome",
-            "repo": "bardo",
-            "stars": 95
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Keybind",
-          "description": "Library for handling key bindings (shortcuts) in browser.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2017-11-27T09:05:33Z",
-            "owner": "sansolovyov",
-            "repo": "keybind",
-            "stars": 85
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Entanglement",
-          "description": "It creates atoms from other atoms and links the data together.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2016-08-22T23:52:29Z",
-            "owner": "Frozenlock",
-            "repo": "entanglement",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sepal.clj",
-          "description": "A library to generate Clojure code from a vector of strings and vectors with macro system.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Cirru",
-            "last_commit": "2025-08-25T16:31:46Z",
-            "owner": "Cirru",
-            "repo": "sepal.clj",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "namespacefy",
-          "description": "A simple Clojure(Script) library which aims to make it easy to keep map keys namespaced, no matter where your data comes from.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2023-03-11T10:38:40Z",
-            "owner": "Jarzka",
-            "repo": "namespacefy",
-            "stars": 21
-          }
-        }
-      ],
-      "title": "Miscellaneous"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Om",
-          "description": "A powerful interface to React, makes use of its object oriented structures.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2020-08-17T12:30:25Z",
-            "owner": "omcljs",
-            "repo": "om",
-            "stars": 6624
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rum",
-          "description": "Decomplected, extensible, simple.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2025-04-14T15:10:29Z",
-            "owner": "tonsky",
-            "repo": "rum",
-            "stars": 1826
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "re-com",
-          "description": "A ClojureScript library of reusable components for Reagent.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2026-08-02T21:25:53Z",
-            "owner": "day8",
-            "repo": "re-com",
-            "stars": 823
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Helix",
-          "description": "A simple, easy to use library for React development in ClojureScript with very few semantics on top of React.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2026-01-05T17:37:44Z",
-            "owner": "lilactown",
-            "repo": "helix",
-            "stars": 675
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quiescent",
-          "description": "It favors functional style, fully stateless.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2017-12-11T21:04:43Z",
-            "owner": "levand",
-            "repo": "quiescent",
-            "stars": 609
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hx",
-          "description": "Another simple, easy to use library for React development in ClojureScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2026-04-15T08:02:52Z",
-            "owner": "nosco",
-            "repo": "hx",
-            "stars": 245
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Brutha",
-          "description": "A simple and functional ClojureScript interface to React.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2016-08-19T22:28:03Z",
-            "owner": "weavejester",
-            "repo": "brutha",
-            "stars": 139
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cljsx",
-          "description": "JSX for Clojure and ClojureScript, also works with Inferno, Nerv, Preact, Snabbdome and others.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2022-06-22T06:25:14Z",
-            "owner": "peterhudec",
-            "repo": "cljsx",
-            "stars": 14
-          }
-        }
-      ],
-      "title": "React.js Interface"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Javelin",
-          "description": "A Functional Reactive Programming library for ClojureScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2023-10-31T12:50:48Z",
-            "owner": "hoplon",
-            "repo": "javelin",
-            "stars": 825
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Reagi",
-          "description": "An FRP library for Clojure and ClojureScript, built on top of core.async.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2016-03-04T19:50:04Z",
-            "owner": "weavejester",
-            "repo": "reagi",
-            "stars": 232
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Manifold-cljs",
-          "description": "A port of Manifold to ClojureScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2019-12-20T14:59:52Z",
-            "owner": "dm3",
-            "repo": "manifold-cljs",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rx-cljs",
-          "description": "A ClojureScript wrapper for Reactive Extensions (Rx) for Javascript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2013-05-21T09:55:34Z",
-            "owner": "theleoborges",
-            "repo": "rx-cljs",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Yolk",
-          "description": "A thin ClojureScript wrapper around bacon.js.",
-          "children": []
-        }
-      ],
-      "title": "Reactive Programming"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Bidi",
-          "description": "A Clojure(script) data driven routing library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2023-03-15T10:46:57Z",
-            "owner": "juxt",
-            "repo": "bidi",
-            "stars": 998
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Secretary",
-          "description": "A client-side router for ClojureScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2020-12-13T18:45:07Z",
-            "owner": "clj-commons",
-            "repo": "secretary",
-            "stars": 773
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Silk",
-          "description": "An isomorphic routing library for Clojure & ClojureScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2022-01-04T23:48:51Z",
-            "owner": "domkm",
-            "repo": "silk",
-            "stars": 224
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Router",
-          "description": "Bidirectional Ring router for Clojure/Script. REST oriented.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2017-04-30T14:48:23Z",
-            "owner": "darkleaf",
-            "repo": "router",
-            "stars": 80
-          }
-        }
-      ],
-      "title": "Routing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "component",
-          "description": "Managed lifecycle of stateful objects in Clojure(Script).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2025-10-25T16:10:36Z",
-            "owner": "stuartsierra",
-            "repo": "component",
-            "stars": 2160
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mount",
-          "description": "A beautifl idiomatic state management library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2026-06-11T01:45:59Z",
-            "owner": "tolitius",
-            "repo": "mount",
-            "stars": 1255
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "storage-atom",
-          "description": "ClojureScript atoms backed by HTML5 web storage.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2022-10-28T09:07:52Z",
-            "owner": "alandipert",
-            "repo": "storage-atom",
-            "stars": 194
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Waltz",
-          "description": "A ClojureScript library that helps manage state in client-side applications using non-deterministic finite state machines.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2012-04-10T12:15:05Z",
-            "owner": "ibdknox",
-            "repo": "waltz",
-            "stars": 90
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "plato",
-          "description": "Incrementally persists atom state to Local Storage in ClojureScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2014-12-11T14:14:14Z",
-            "owner": "eneroth",
-            "repo": "plato",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tuck",
-          "description": "A micro framework for building Reagent apps that have a clean separation of view code and event processing code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2020-08-28T07:47:43Z",
-            "owner": "tatut",
-            "repo": "tuck",
-            "stars": 30
-          }
-        }
-      ],
-      "title": "State Management"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "cljs.test",
-          "description": "Integrated test framework for ClojureScript (merged from clojurescript.test)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2026-08-10T01:25:46Z",
-            "owner": "clojure",
-            "repo": "clojurescript",
-            "stars": 9388
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "test.check",
-          "description": "A generative property-based testing tool inspired by QuickCheck.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2025-12-30T19:39:58Z",
-            "owner": "clojure",
-            "repo": "test.check",
-            "stars": 1151
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Speclj",
-          "description": "A TDD/BDD framework for Clojure and ClojureScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2026-04-30T17:00:36Z",
-            "owner": "slagyr",
-            "repo": "speclj",
-            "stars": 488
-          }
-        }
-      ],
-      "title": "Testing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Bouncer",
-          "description": "A validation DSL for Clojure & Clojurescript applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2021-07-12T03:10:36Z",
-            "owner": "theleoborges",
-            "repo": "bouncer",
-            "stars": 361
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "form-validator-cljs",
-          "description": "Validate forms with spec and fn.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2019-11-22T18:18:07Z",
-            "owner": "kwladyka",
-            "repo": "form-validator-cljs",
-            "stars": 55
-          }
-        }
-      ],
-      "title": "Validation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "re-frame",
-          "description": "A Reagent Framework For Writing SPAs, in Clojurescript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2026-05-05T15:55:07Z",
-            "owner": "day8",
-            "repo": "re-frame",
-            "stars": 5541
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Chestnut",
-          "description": "An Application template for ClojureScript/Om with live reloading.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Clojure",
-            "last_commit": "2022-06-23T20:16:06Z",
-            "owner": "plexus",
-            "repo": "chestnut",
-            "stars": 1303
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Precept",
-          "description": "A declarative programming framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2022-12-06T17:35:30Z",
-            "owner": "CoNarrative",
-            "repo": "precept",
-            "stars": 662
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "descjop",
-          "description": "A template for Web based desktop application with Electron.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Clojure",
-            "last_commit": "2017-10-06T12:45:50Z",
-            "owner": "karad",
-            "repo": "lein_template_descjop",
-            "stars": 394
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Macchiato",
-          "description": "It aims to provide an easy to use platform for Node.js.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2025-12-31T15:19:57Z",
-            "owner": "macchiato-framework",
-            "repo": "macchiato-core",
-            "stars": 385
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mies",
-          "description": "A minimal ClojureScript project template.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2018-07-05T16:09:13Z",
-            "owner": "swannodette",
-            "repo": "mies",
-            "stars": 367
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WebFUI",
-          "description": "Client-Side Web Framework for ClojureScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2013-01-30T18:40:04Z",
-            "owner": "drcode",
-            "repo": "webfui",
-            "stars": 237
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Clops",
-          "description": "An opinionated, full stack and easy to use web framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2020-12-31T20:36:15Z",
-            "owner": "sveri",
-            "repo": "closp",
-            "stars": 175
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electron-template",
-          "description": "A template for creating web based desktop applications with Electron, ClojureScript and Reagent.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2016-03-15T10:41:44Z",
-            "owner": "ducky427",
-            "repo": "electron-template",
-            "stars": 116
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "atw-om",
-          "description": "A web application template with Clojure/Compojure, ClojureScript/Om & core.async.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2014-12-26T23:41:19Z",
-            "owner": "zaiste",
-            "repo": "atw-om",
-            "stars": 41
-          }
-        }
-      ],
-      "title": "Web Framework & Template"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Sente",
-          "description": "Clojure(Script) + core.async + WebSockets/Ajax.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2026-08-06T11:24:30Z",
-            "owner": "taoensso",
-            "repo": "sente",
-            "stars": 1788
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Chord",
-          "description": "Designed to bridge the gap between the triad of CLJ/CLJS, web-sockets and core.async.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2020-07-12T09:57:33Z",
-            "owner": "jarohen",
-            "repo": "chord",
-            "stars": 442
-          }
-        }
-      ],
-      "title": "WebSockets"
-    },
-    {
-      "description": "All contributions are welcome. Please read Contributing before opening a pull request. tl;dr is for bullets, is for seperators between the link and the description and lists should be alphabetically ordered.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "Han Tuzun has dedicated the work to the public domain by waiving all of his rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.\nYou can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T06:30:04.932Z",
+    "last_updated": "2026-08-19T12:19:46.130Z",
     "original_repository": "hantuzun/awesome-clojurescript",
+    "original_repository_id": 34671752,
     "original_repository_sha": "7a0d49986a459d14065c7681903514fca58de221",
     "enhanced_repository": "enhansome/enhansome-clojurescript",
     "enhanced_repository_description": null,
