@@ -128,7 +128,7 @@
                 "last_commit": "2026-08-15T16:29:25Z",
                 "owner": "tonsky",
                 "repo": "datascript",
-                "stars": 5782
+                "stars": 5781
               }
             },
             {
@@ -285,7 +285,7 @@
                 "last_commit": "2024-08-28T05:06:34Z",
                 "owner": "planck-repl",
                 "repo": "planck",
-                "stars": 1040
+                "stars": 1037
               }
             },
             {
@@ -457,7 +457,7 @@
                 "last_commit": "2020-11-06T18:17:22Z",
                 "owner": "teropa",
                 "repo": "hiccups",
-                "stars": 218
+                "stars": 217
               }
             },
             {
@@ -539,7 +539,7 @@
                 "last_commit": "2025-03-22T14:59:18Z",
                 "owner": "thi-ng",
                 "repo": "geom",
-                "stars": 997
+                "stars": 995
               }
             }
           ],
@@ -1001,7 +1001,7 @@
                 "last_commit": "2023-10-31T12:50:48Z",
                 "owner": "hoplon",
                 "repo": "javelin",
-                "stars": 825
+                "stars": 823
               }
             },
             {
@@ -1232,7 +1232,7 @@
                 "last_commit": "2026-08-10T01:25:46Z",
                 "owner": "clojure",
                 "repo": "clojurescript",
-                "stars": 9390
+                "stars": 9389
               }
             },
             {
@@ -1321,7 +1321,7 @@
                 "last_commit": "2026-05-05T15:55:07Z",
                 "owner": "day8",
                 "repo": "re-frame",
-                "stars": 5540
+                "stars": 5541
               }
             },
             {
@@ -1475,7 +1475,7 @@
                 "archived": false,
                 "id": 17054460,
                 "language": "Clojure",
-                "last_commit": "2026-08-06T11:24:30Z",
+                "last_commit": "2026-08-21T05:13:50Z",
                 "owner": "taoensso",
                 "repo": "sente",
                 "stars": 1790
@@ -1506,7 +1506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T06:31:36.009Z",
+    "last_updated": "2026-08-21T06:32:13.622Z",
     "original_repository": "hantuzun/awesome-clojurescript",
     "original_repository_id": 34671752,
     "original_repository_sha": "7a0d49986a459d14065c7681903514fca58de221",
