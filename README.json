@@ -195,7 +195,7 @@
                 "last_commit": "2024-03-26T22:29:38Z",
                 "owner": "bhauman",
                 "repo": "lein-figwheel",
-                "stars": 2875
+                "stars": 2876
               }
             },
             {
@@ -255,7 +255,7 @@
                 "last_commit": "2023-04-08T21:20:05Z",
                 "owner": "binaryage",
                 "repo": "cljs-devtools",
-                "stars": 1127
+                "stars": 1128
               }
             },
             {
@@ -1506,7 +1506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T06:32:13.622Z",
+    "last_updated": "2026-08-22T06:25:09.748Z",
     "original_repository": "hantuzun/awesome-clojurescript",
     "original_repository_id": 34671752,
     "original_repository_sha": "7a0d49986a459d14065c7681903514fca58de221",
