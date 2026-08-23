@@ -140,7 +140,7 @@
                 "archived": false,
                 "id": 41630938,
                 "language": "Clojure",
-                "last_commit": "2026-08-18T05:19:36Z",
+                "last_commit": "2026-08-23T06:12:13Z",
                 "owner": "replikativ",
                 "repo": "konserve",
                 "stars": 317
@@ -195,7 +195,7 @@
                 "last_commit": "2024-03-26T22:29:38Z",
                 "owner": "bhauman",
                 "repo": "lein-figwheel",
-                "stars": 2876
+                "stars": 2877
               }
             },
             {
@@ -687,7 +687,7 @@
                 "last_commit": "2026-06-12T14:30:05Z",
                 "owner": "clojure",
                 "repo": "core.async",
-                "stars": 2050
+                "stars": 2051
               }
             },
             {
@@ -1506,7 +1506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T06:25:09.748Z",
+    "last_updated": "2026-08-23T06:26:38.234Z",
     "original_repository": "hantuzun/awesome-clojurescript",
     "original_repository_id": 34671752,
     "original_repository_sha": "7a0d49986a459d14065c7681903514fca58de221",
