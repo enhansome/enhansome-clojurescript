@@ -70,7 +70,7 @@
 
 ### Client/Server Communication
 
-* [cljs-ajax](https://github.com/JulianBirch/cljs-ajax) ⭐ 676 | 🐛 26 | 🌐 Clojure | 📅 2026-08-05 – A simple Ajax client for ClojureScript and Clojure.
+* [cljs-ajax](https://github.com/JulianBirch/cljs-ajax) ⭐ 677 | 🐛 24 | 🌐 Clojure | 📅 2026-08-23 – A simple Ajax client for ClojureScript and Clojure.
 * [Fetch](https://github.com/LightTable/fetch) ⚠️ Archived – A ClojureScript library that makes client/server interaction painless.
 
 ### Code Analysis
@@ -88,8 +88,8 @@
 
 ### Database
 
-* [Datascript](https://github.com/tonsky/datascript) ⭐ 5,781 | 🐛 75 | 🌐 Clojure | 📅 2026-08-15 – An immutable in-memory database and Datalog query engine in ClojureScript.
-* [Konserve](https://github.com/replikativ/konserve) ⭐ 317 | 🐛 23 | 🌐 Clojure | 📅 2026-08-23 – A clojuresque key-value/document store protocol with core.async.
+* [Datascript](https://github.com/tonsky/datascript) ⭐ 5,783 | 🐛 75 | 🌐 Clojure | 📅 2026-08-15 – An immutable in-memory database and Datalog query engine in ClojureScript.
+* [Konserve](https://github.com/replikativ/konserve) ⭐ 317 | 🐛 21 | 🌐 Clojure | 📅 2026-08-23 – A clojuresque key-value/document store protocol with core.async.
 * [specql](https://github.com/tatut/specql) ⭐ 135 | 🐛 10 | 🌐 Clojure | 📅 2024-09-20 – Library for simple PostgreSQL queries with namespaced keys.
 * [Jaki](https://github.com/pandeiro/jaki) ⭐ 16 | 🐛 0 | 🌐 Clojure | 📅 2012-10-10 – A simple ClojureScript CouchDB client.
 
@@ -128,7 +128,7 @@
 
 ### Graphics
 
-* [Quil](https://github.com/quil/quil) ⭐ 3,050 | 🐛 47 | 🌐 Clojure | 📅 2026-04-24 – A processing and graphics programming library.
+* [Quil](https://github.com/quil/quil) ⭐ 3,051 | 🐛 47 | 🌐 Clojure | 📅 2026-04-24 – A processing and graphics programming library.
 * [geom](https://github.com/thi-ng/geom) ⭐ 995 | 🐛 33 | 🌐 Clojure | 📅 2025-03-22 – A 2D/3D geometry toolkit for Clojure/Clojurescript.
 
 ### HTTP Handler
@@ -206,7 +206,7 @@
 
 ### Testing
 
-* [cljs.test](https://github.com/clojure/clojurescript/wiki/Testing) ⭐ 9,389 | 🐛 7 | 🌐 Clojure | 📅 2026-08-10 – Integrated test framework for ClojureScript (merged from [clojurescript.test](https://github.com/cemerick/clojurescript.test) ⭐ 164 | 🐛 1 | 🌐 Clojure | 📅 2015-11-25)
+* [cljs.test](https://github.com/clojure/clojurescript/wiki/Testing) ⭐ 9,388 | 🐛 7 | 🌐 Clojure | 📅 2026-08-10 – Integrated test framework for ClojureScript (merged from [clojurescript.test](https://github.com/cemerick/clojurescript.test) ⭐ 164 | 🐛 1 | 🌐 Clojure | 📅 2015-11-25)
 * [test.check](https://github.com/clojure/test.check) ⭐ 1,152 | 🐛 0 | 🌐 Clojure | 📅 2025-12-30 – A generative property-based testing tool inspired by QuickCheck.
 * [Speclj](https://github.com/slagyr/speclj) ⭐ 488 | 🐛 29 | 🌐 Clojure | 📅 2026-04-30 – A TDD/BDD framework for Clojure and ClojureScript.
 * [Expectations](http://jayfields.com/expectations/) – A minimalist's unit testing framework.
@@ -238,7 +238,7 @@
 
 ### WebSockets
 
-* [Sente](https://github.com/ptaoussanis/sente) ⭐ 1,790 | 🐛 4 | 🌐 Clojure | 📅 2026-08-21 – Clojure(Script) + core.async + WebSockets/Ajax.
+* [Sente](https://github.com/ptaoussanis/sente) ⭐ 1,791 | 🐛 4 | 🌐 Clojure | 📅 2026-08-21 – Clojure(Script) + core.async + WebSockets/Ajax.
 * [Chord](https://github.com/jarohen/chord) ⭐ 442 | 🐛 7 | 🌐 Clojure | 📅 2020-07-12 – Designed to bridge the gap between the triad of CLJ/CLJS, web-sockets and core.async.
 
 ***
@@ -257,4 +257,4 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
