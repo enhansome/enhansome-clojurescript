@@ -81,6 +81,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "kibit",
+              "description": "Static code analyzer to find patterns of code that could be rewritten with a more idiomatic function or macro.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3620296,
+                "language": "Clojure",
+                "last_commit": "2024-05-22T00:06:30Z",
+                "owner": "clj-commons",
+                "repo": "kibit",
+                "stars": 1755
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Code Analysis"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Transit",
               "description": "A data interchange format and set of libraries for conveying values between applications written in different programming languages.",
               "children": [],
@@ -140,10 +162,10 @@
                 "archived": false,
                 "id": 41630938,
                 "language": "Clojure",
-                "last_commit": "2026-08-23T11:19:17Z",
+                "last_commit": "2026-08-24T10:55:14Z",
                 "owner": "replikativ",
                 "repo": "konserve",
-                "stars": 317
+                "stars": 318
               }
             },
             {
@@ -514,6 +536,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "codox",
+              "description": "A tool for generating API documentation from Clojure or ClojureScript source code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2673869,
+                "language": "Clojure",
+                "last_commit": "2024-08-14T18:05:12Z",
+                "owner": "weavejester",
+                "repo": "codox",
+                "stars": 686
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Documentation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Quil",
               "description": "A processing and graphics programming library.",
               "children": [],
@@ -546,6 +590,28 @@
           "description": null,
           "node_type": "group",
           "title": "Graphics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Castra",
+              "description": "An HTTP remote procedure call handler for Clojure.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10530110,
+                "language": "Clojure",
+                "last_commit": "2020-12-24T19:59:53Z",
+                "owner": "hoplon",
+                "repo": "castra",
+                "stars": 172
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "HTTP Handler"
         },
         {
           "children": [
@@ -1506,7 +1572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T06:39:47.974Z",
+    "last_updated": "2026-08-24T14:16:50.042Z",
     "original_repository": "hantuzun/awesome-clojurescript",
     "original_repository_id": 34671752,
     "original_repository_sha": "7a0d49986a459d14065c7681903514fca58de221",
