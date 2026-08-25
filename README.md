@@ -129,7 +129,7 @@
 ### Graphics
 
 * [Quil](https://github.com/quil/quil) ⭐ 3,051 | 🐛 47 | 🌐 Clojure | 📅 2026-04-24 – A processing and graphics programming library.
-* [geom](https://github.com/thi-ng/geom) ⭐ 995 | 🐛 33 | 🌐 Clojure | 📅 2025-03-22 – A 2D/3D geometry toolkit for Clojure/Clojurescript.
+* [geom](https://github.com/thi-ng/geom) ⭐ 996 | 🐛 33 | 🌐 Clojure | 📅 2025-03-22 – A 2D/3D geometry toolkit for Clojure/Clojurescript.
 
 ### HTTP Handler
 
@@ -257,4 +257,4 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

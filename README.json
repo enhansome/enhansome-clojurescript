@@ -162,7 +162,7 @@
                 "archived": false,
                 "id": 41630938,
                 "language": "Clojure",
-                "last_commit": "2026-08-24T10:55:14Z",
+                "last_commit": "2026-08-24T23:44:29Z",
                 "owner": "replikativ",
                 "repo": "konserve",
                 "stars": 318
@@ -583,7 +583,7 @@
                 "last_commit": "2025-03-22T14:59:18Z",
                 "owner": "thi-ng",
                 "repo": "geom",
-                "stars": 995
+                "stars": 996
               }
             }
           ],
@@ -1572,7 +1572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:16:50.042Z",
+    "last_updated": "2026-08-25T06:11:26.129Z",
     "original_repository": "hantuzun/awesome-clojurescript",
     "original_repository_id": 34671752,
     "original_repository_sha": "7a0d49986a459d14065c7681903514fca58de221",
