@@ -150,7 +150,7 @@
                 "last_commit": "2026-08-15T16:29:25Z",
                 "owner": "tonsky",
                 "repo": "datascript",
-                "stars": 5783
+                "stars": 5784
               }
             },
             {
@@ -1572,7 +1572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:11:26.129Z",
+    "last_updated": "2026-08-25T06:40:54.076Z",
     "original_repository": "hantuzun/awesome-clojurescript",
     "original_repository_id": 34671752,
     "original_repository_sha": "7a0d49986a459d14065c7681903514fca58de221",
