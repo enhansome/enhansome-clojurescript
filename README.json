@@ -162,7 +162,7 @@
                 "archived": false,
                 "id": 41630938,
                 "language": "Clojure",
-                "last_commit": "2026-08-24T23:44:29Z",
+                "last_commit": "2026-08-26T06:11:53Z",
                 "owner": "replikativ",
                 "repo": "konserve",
                 "stars": 318
@@ -229,7 +229,7 @@
                 "archived": false,
                 "id": 43973779,
                 "language": "Clojure",
-                "last_commit": "2026-08-10T17:44:03Z",
+                "last_commit": "2026-08-25T09:13:29Z",
                 "owner": "thheller",
                 "repo": "shadow-cljs",
                 "stars": 2405
@@ -1298,7 +1298,7 @@
                 "last_commit": "2026-08-10T01:25:46Z",
                 "owner": "clojure",
                 "repo": "clojurescript",
-                "stars": 9388
+                "stars": 9390
               }
             },
             {
@@ -1572,7 +1572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:40:54.076Z",
+    "last_updated": "2026-08-26T06:34:08.090Z",
     "original_repository": "hantuzun/awesome-clojurescript",
     "original_repository_id": 34671752,
     "original_repository_sha": "7a0d49986a459d14065c7681903514fca58de221",
