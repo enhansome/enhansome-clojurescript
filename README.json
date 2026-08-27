@@ -229,7 +229,7 @@
                 "archived": false,
                 "id": 43973779,
                 "language": "Clojure",
-                "last_commit": "2026-08-25T09:13:29Z",
+                "last_commit": "2026-08-26T09:06:02Z",
                 "owner": "thheller",
                 "repo": "shadow-cljs",
                 "stars": 2405
@@ -494,7 +494,7 @@
                 "last_commit": "2020-05-30T16:06:14Z",
                 "owner": "yogthos",
                 "repo": "json-html",
-                "stars": 164
+                "stars": 165
               }
             },
             {
@@ -716,7 +716,7 @@
                 "last_commit": "2024-01-16T21:37:58Z",
                 "owner": "noprompt",
                 "repo": "garden",
-                "stars": 1367
+                "stars": 1368
               }
             },
             {
@@ -813,7 +813,7 @@
                 "last_commit": "2020-04-27T13:32:54Z",
                 "owner": "reagent-project",
                 "repo": "reagent-forms",
-                "stars": 341
+                "stars": 342
               }
             },
             {
@@ -940,7 +940,7 @@
                 "last_commit": "2020-08-17T12:30:25Z",
                 "owner": "omcljs",
                 "repo": "om",
-                "stars": 6624
+                "stars": 6623
               }
             },
             {
@@ -1313,7 +1313,7 @@
                 "last_commit": "2025-12-30T19:39:58Z",
                 "owner": "clojure",
                 "repo": "test.check",
-                "stars": 1152
+                "stars": 1153
               }
             },
             {
@@ -1387,7 +1387,7 @@
                 "last_commit": "2026-05-05T15:55:07Z",
                 "owner": "day8",
                 "repo": "re-frame",
-                "stars": 5541
+                "stars": 5542
               }
             },
             {
@@ -1572,9 +1572,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T06:34:08.090Z",
-    "original_repository": "hantuzun/awesome-clojurescript",
-    "original_repository_id": 34671752,
+    "last_updated": "2026-08-27T11:32:35.028Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 34671752,
+      "language": null,
+      "last_commit": "2024-03-10T22:26:15Z",
+      "owner": "hantuzun",
+      "repo": "awesome-clojurescript",
+      "stars": 1087
+    },
     "original_repository_sha": "7a0d49986a459d14065c7681903514fca58de221",
     "enhanced_repository": "enhansome/enhansome-clojurescript",
     "enhanced_repository_description": null,
