@@ -199,7 +199,7 @@
                 "open_issues": 75,
                 "owner": "tonsky",
                 "repo": "datascript",
-                "stars": 5784,
+                "stars": 5785,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T12:01:48.265Z",
+    "last_updated": "2026-08-30T10:58:09.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
