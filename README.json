@@ -196,7 +196,7 @@
                 "language": "Clojure",
                 "license": "EPL-1.0",
                 "last_commit": "2026-08-15T16:29:25Z",
-                "open_issues": 75,
+                "open_issues": 76,
                 "owner": "tonsky",
                 "repo": "datascript",
                 "stars": 5787,
@@ -1433,7 +1433,7 @@
                 "open_issues": 23,
                 "owner": "tonsky",
                 "repo": "rum",
-                "stars": 1827,
+                "stars": 1828,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T10:51:54.062Z",
+    "last_updated": "2026-09-02T10:17:15.727Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
