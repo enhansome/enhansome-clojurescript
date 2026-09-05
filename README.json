@@ -304,7 +304,7 @@
                 "open_issues": 98,
                 "owner": "bhauman",
                 "repo": "lein-figwheel",
-                "stars": 2877,
+                "stars": 2876,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -843,7 +843,7 @@
                 "open_issues": 47,
                 "owner": "quil",
                 "repo": "quil",
-                "stars": 3051,
+                "stars": 3050,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -864,7 +864,7 @@
                 "open_issues": 33,
                 "owner": "thi-ng",
                 "repo": "geom",
-                "stars": 996,
+                "stars": 997,
                 "topics": [
                   "charts",
                   "geometry",
@@ -1959,7 +1959,7 @@
                 "open_issues": 7,
                 "owner": "clojure",
                 "repo": "clojurescript",
-                "stars": 9392,
+                "stars": 9393,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T10:15:12.805Z",
+    "last_updated": "2026-09-05T09:43:35.463Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",

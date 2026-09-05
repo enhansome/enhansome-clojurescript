@@ -95,7 +95,7 @@
 
 ### Development
 
-* [lein-figwheel](https://github.com/bhauman/lein-figwheel) ⭐ 2,877 | 🐛 98 | 🌐 Clojure | 📅 2024-03-26 – Leiningen plugin that pushes ClojureScript code changes to the client.
+* [lein-figwheel](https://github.com/bhauman/lein-figwheel) ⭐ 2,876 | 🐛 98 | 🌐 Clojure | 📅 2024-03-26 – Leiningen plugin that pushes ClojureScript code changes to the client.
 * [shadow-cljs](https://github.com/thheller/shadow-cljs) ⭐ 2,405 | 🐛 43 | 🌐 Clojure | 📅 2026-08-26 – ClojureScript compilation made easy
 * [Lumo](https://github.com/anmonteiro/lumo) ⚠️ Archived – Fast, cross-platform, standalone ClojureScript environment.
 * [Devcards](https://github.com/bhauman/devcards) ⭐ 1,535 | 🐛 30 | 🌐 Clojure | 📅 2023-09-17 – Devcards aims to provide a visual REPL experience for ClojureScript.
@@ -128,8 +128,8 @@
 
 ### Graphics
 
-* [Quil](https://github.com/quil/quil) ⭐ 3,051 | 🐛 47 | 🌐 Clojure | 📅 2026-04-24 – A processing and graphics programming library.
-* [geom](https://github.com/thi-ng/geom) ⭐ 996 | 🐛 33 | 🌐 Clojure | 📅 2025-03-22 – A 2D/3D geometry toolkit for Clojure/Clojurescript.
+* [Quil](https://github.com/quil/quil) ⭐ 3,050 | 🐛 47 | 🌐 Clojure | 📅 2026-04-24 – A processing and graphics programming library.
+* [geom](https://github.com/thi-ng/geom) ⭐ 997 | 🐛 33 | 🌐 Clojure | 📅 2025-03-22 – A 2D/3D geometry toolkit for Clojure/Clojurescript.
 
 ### HTTP Handler
 
@@ -206,7 +206,7 @@
 
 ### Testing
 
-* [cljs.test](https://github.com/clojure/clojurescript/wiki/Testing) ⭐ 9,392 | 🐛 7 | 🌐 Clojure | 📅 2026-08-10 – Integrated test framework for ClojureScript (merged from [clojurescript.test](https://github.com/cemerick/clojurescript.test) ⭐ 164 | 🐛 1 | 🌐 Clojure | 📅 2015-11-25)
+* [cljs.test](https://github.com/clojure/clojurescript/wiki/Testing) ⭐ 9,393 | 🐛 7 | 🌐 Clojure | 📅 2026-08-10 – Integrated test framework for ClojureScript (merged from [clojurescript.test](https://github.com/cemerick/clojurescript.test) ⭐ 164 | 🐛 1 | 🌐 Clojure | 📅 2015-11-25)
 * [test.check](https://github.com/clojure/test.check) ⭐ 1,155 | 🐛 0 | 🌐 Clojure | 📅 2025-12-30 – A generative property-based testing tool inspired by QuickCheck.
 * [Speclj](https://github.com/slagyr/speclj) ⭐ 488 | 🐛 29 | 🌐 Clojure | 📅 2026-04-30 – A TDD/BDD framework for Clojure and ClojureScript.
 * [Expectations](http://jayfields.com/expectations/) – A minimalist's unit testing framework.
@@ -257,4 +257,4 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
