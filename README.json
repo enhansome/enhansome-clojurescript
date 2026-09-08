@@ -222,8 +222,8 @@
                 "id": 41630938,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-09-07T05:04:59Z",
-                "open_issues": 20,
+                "last_commit": "2026-09-08T09:41:00Z",
+                "open_issues": 19,
                 "owner": "replikativ",
                 "repo": "konserve",
                 "stars": 319,
@@ -1412,7 +1412,7 @@
                 "open_issues": 81,
                 "owner": "omcljs",
                 "repo": "om",
-                "stars": 6621,
+                "stars": 6620,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -1980,7 +1980,7 @@
                 "open_issues": 0,
                 "owner": "clojure",
                 "repo": "test.check",
-                "stars": 1155,
+                "stars": 1154,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T11:09:52.012Z",
+    "last_updated": "2026-09-08T10:21:09.677Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
