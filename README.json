@@ -199,7 +199,7 @@
                 "open_issues": 76,
                 "owner": "tonsky",
                 "repo": "datascript",
-                "stars": 5790,
+                "stars": 5791,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -222,7 +222,7 @@
                 "id": 41630938,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-09-08T09:41:00Z",
+                "last_commit": "2026-09-09T00:43:34Z",
                 "open_issues": 19,
                 "owner": "replikativ",
                 "repo": "konserve",
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "thheller",
                 "repo": "shadow-cljs",
-                "stars": 2406,
+                "stars": 2407,
                 "topics": [
                   "cljs",
                   "clojurescript",
@@ -386,7 +386,7 @@
                 "open_issues": 30,
                 "owner": "bhauman",
                 "repo": "devcards",
-                "stars": 1536,
+                "stars": 1535,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -1069,7 +1069,7 @@
                 "open_issues": 45,
                 "owner": "noprompt",
                 "repo": "garden",
-                "stars": 1369,
+                "stars": 1368,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -1412,7 +1412,7 @@
                 "open_issues": 81,
                 "owner": "omcljs",
                 "repo": "om",
-                "stars": 6620,
+                "stars": 6619,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -1630,7 +1630,7 @@
                 "open_issues": 4,
                 "owner": "weavejester",
                 "repo": "reagi",
-                "stars": 232,
+                "stars": 233,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -1707,7 +1707,7 @@
                 "open_issues": 60,
                 "owner": "juxt",
                 "repo": "bidi",
-                "stars": 998,
+                "stars": 997,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -1959,7 +1959,7 @@
                 "open_issues": 7,
                 "owner": "clojure",
                 "repo": "clojurescript",
-                "stars": 9393,
+                "stars": 9391,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -2087,7 +2087,7 @@
                 "open_issues": 23,
                 "owner": "day8",
                 "repo": "re-frame",
-                "stars": 5541,
+                "stars": 5540,
                 "topics": [
                   "clojurescript",
                   "re-frame",
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T10:21:09.677Z",
+    "last_updated": "2026-09-09T10:29:34.007Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
