@@ -96,7 +96,7 @@
 ### Development
 
 * [lein-figwheel](https://github.com/bhauman/lein-figwheel) ⭐ 2,875 | 🐛 98 | 🌐 Clojure | 📅 2024-03-26 – Leiningen plugin that pushes ClojureScript code changes to the client.
-* [shadow-cljs](https://github.com/thheller/shadow-cljs) ⭐ 2,407 | 🐛 43 | 🌐 Clojure | 📅 2026-08-26 – ClojureScript compilation made easy
+* [shadow-cljs](https://github.com/thheller/shadow-cljs) ⭐ 2,407 | 🐛 43 | 🌐 Clojure | 📅 2026-09-10 – ClojureScript compilation made easy
 * [Lumo](https://github.com/anmonteiro/lumo) ⚠️ Archived – Fast, cross-platform, standalone ClojureScript environment.
 * [Devcards](https://github.com/bhauman/devcards) ⭐ 1,535 | 🐛 30 | 🌐 Clojure | 📅 2023-09-17 – Devcards aims to provide a visual REPL experience for ClojureScript.
 * [cljs-devtools](https://github.com/binaryage/cljs-devtools) ⭐ 1,128 | 🐛 19 | 🌐 Clojure | 📅 2023-04-08 – Better presentation of ClojureScript values in Chrome Devtools.
@@ -176,7 +176,7 @@
 * [Quiescent](https://github.com/levand/quiescent) ⭐ 609 | 🐛 4 | 🌐 Clojure | 📅 2017-12-11 – It favors functional style, fully stateless.
 * [hx](https://github.com/Lokeh/hx) ⭐ 245 | 🐛 12 | 🌐 Clojure | 📅 2026-04-15 – Another simple, easy to use library for React development in ClojureScript.
 * [Brutha](https://github.com/weavejester/brutha) ⭐ 139 | 🐛 1 | 🌐 Clojure | 📅 2016-08-19 – A simple and functional ClojureScript interface to React.
-* [cljsx](https://github.com/peterhudec/cljsx) ⭐ 14 | 🐛 7 | 🌐 Clojure | 📅 2022-06-22 – [JSX](https://reactjs.org/docs/introducing-jsx.html) for Clojure and ClojureScript, also works with [Inferno](https://infernojs.org), [Nerv](https://nerv.aotu.io/), [Preact](https://preactjs.com/), [Snabbdome](https://github.com/snabbdom/snabbdom) ⭐ 12,394 | 🐛 86 | 🌐 TypeScript | 📅 2026-06-17 and others.
+* [cljsx](https://github.com/peterhudec/cljsx) ⭐ 14 | 🐛 7 | 🌐 Clojure | 📅 2022-06-22 – [JSX](https://reactjs.org/docs/introducing-jsx.html) for Clojure and ClojureScript, also works with [Inferno](https://infernojs.org), [Nerv](https://nerv.aotu.io/), [Preact](https://preactjs.com/), [Snabbdome](https://github.com/snabbdom/snabbdom) ⭐ 12,397 | 🐛 86 | 🌐 TypeScript | 📅 2026-06-17 and others.
 * [Reagent](http://reagent-project.github.io/) – Minimalistic, feature complete.
 
 ### Reactive Programming
@@ -257,4 +257,4 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
