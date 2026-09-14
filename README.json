@@ -1959,7 +1959,7 @@
                 "open_issues": 7,
                 "owner": "clojure",
                 "repo": "clojurescript",
-                "stars": 9391,
+                "stars": 9392,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -2087,7 +2087,7 @@
                 "open_issues": 23,
                 "owner": "day8",
                 "repo": "re-frame",
-                "stars": 5540,
+                "stars": 5541,
                 "topics": [
                   "clojurescript",
                   "re-frame",
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T10:51:21.864Z",
+    "last_updated": "2026-09-14T11:20:33.151Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
