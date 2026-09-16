@@ -89,21 +89,21 @@
 ### Database
 
 * [Datascript](https://github.com/tonsky/datascript) ⭐ 5,791 | 🐛 76 | 🌐 Clojure | 📅 2026-08-15 – An immutable in-memory database and Datalog query engine in ClojureScript.
-* [Konserve](https://github.com/replikativ/konserve) ⭐ 319 | 🐛 19 | 🌐 Clojure | 📅 2026-09-12 – A clojuresque key-value/document store protocol with core.async.
+* [Konserve](https://github.com/replikativ/konserve) ⭐ 320 | 🐛 19 | 🌐 Clojure | 📅 2026-09-12 – A clojuresque key-value/document store protocol with core.async.
 * [specql](https://github.com/tatut/specql) ⭐ 135 | 🐛 10 | 🌐 Clojure | 📅 2024-09-20 – Library for simple PostgreSQL queries with namespaced keys.
 * [Jaki](https://github.com/pandeiro/jaki) ⭐ 16 | 🐛 0 | 🌐 Clojure | 📅 2012-10-10 – A simple ClojureScript CouchDB client.
 
 ### Development
 
 * [lein-figwheel](https://github.com/bhauman/lein-figwheel) ⭐ 2,875 | 🐛 98 | 🌐 Clojure | 📅 2024-03-26 – Leiningen plugin that pushes ClojureScript code changes to the client.
-* [shadow-cljs](https://github.com/thheller/shadow-cljs) ⭐ 2,407 | 🐛 45 | 🌐 Clojure | 📅 2026-09-12 – ClojureScript compilation made easy
+* [shadow-cljs](https://github.com/thheller/shadow-cljs) ⭐ 2,407 | 🐛 43 | 🌐 Clojure | 📅 2026-09-16 – ClojureScript compilation made easy
 * [Lumo](https://github.com/anmonteiro/lumo) ⚠️ Archived – Fast, cross-platform, standalone ClojureScript environment.
 * [Devcards](https://github.com/bhauman/devcards) ⭐ 1,535 | 🐛 30 | 🌐 Clojure | 📅 2023-09-17 – Devcards aims to provide a visual REPL experience for ClojureScript.
 * [cljs-devtools](https://github.com/binaryage/cljs-devtools) ⭐ 1,128 | 🐛 19 | 🌐 Clojure | 📅 2023-04-08 – Better presentation of ClojureScript values in Chrome Devtools.
 * [lein-cljsbuild](https://github.com/emezeske/lein-cljsbuild) ⭐ 1,093 | 🐛 49 | 🌐 Clojure | 📅 2021-03-19 – A Leiningen plugin to make ClojureScript development easy.
 * [Planck](https://github.com/mfikes/planck) ⭐ 1,037 | 🐛 94 | 🌐 C | 📅 2024-08-28 – A stand-alone ClojureScript REPL for macOS and Linux based on JavaScriptCore.
 * [Ambly](https://github.com/omcljs/ambly) ⭐ 538 | 🐛 9 | 🌐 Objective-C | 📅 2022-07-29 – A ClojureScript REPL into iOS JavaScriptCore.
-* [Truss](https://github.com/ptaoussanis/truss) ⭐ 328 | 🐛 0 | 🌐 Clojure | 📅 2026-07-29 – An opinionated assertions API for Clojure/ClojureScript.
+* [Truss](https://github.com/ptaoussanis/truss) ⭐ 329 | 🐛 0 | 🌐 Clojure | 📅 2026-07-29 – An opinionated assertions API for Clojure/ClojureScript.
 * [Instaparse](https://github.com/lbradstreet/instaparse-cljs) ⚠️ Archived – It aims to be the simplest way to build parsers in ClojureScript.
 * [Ribol](http://docs.caudate.me/ribol/) – Conditional restarts for clojure/clojurescript.
 
@@ -113,10 +113,10 @@
 * [Sablono](https://github.com/r0man/sablono) ⭐ 688 | 🐛 16 | 🌐 Clojure | 📅 2020-08-04 – Lisp/Hiccup style templating for Facebook's React in ClojureScript.
 * [Hickory](https://github.com/davidsantiago/hickory) ⭐ 678 | 🐛 14 | 🌐 Clojure | 📅 2026-04-20 – It parses HTML into Clojure data structures, so you can analyze, transform, and output back to HTML.
 * [Kioo](https://github.com/ckirkendall/kioo) ⭐ 400 | 🐛 11 | 🌐 Clojure | 📅 2018-05-01 – DOM manipulation and templating library for Facebook's React and Om in ClojureScript.
-* [Freactive](https://github.com/aaronc/freactive) ⭐ 384 | 🐛 20 | 🌐 Clojure | 📅 2015-11-12 – A high-performance, pure Clojurescript, declarative DOM library inspired by reagent, om, reflex and hiccup.
+* [Freactive](https://github.com/aaronc/freactive) ⭐ 385 | 🐛 20 | 🌐 Clojure | 📅 2015-11-12 – A high-performance, pure Clojurescript, declarative DOM library inspired by reagent, om, reflex and hiccup.
 * [Respo](https://github.com/mvc-works/respo) ⭐ 236 | 🐛 0 | 🌐 Cirru | 📅 2025-08-25 – A responsive DOM library, inspired by React.
 * [Crate](https://github.com/ibdknox/crate) ⭐ 223 | 🐛 5 | 🌐 Clojure | 📅 2015-11-02 – A ClojureScript implementation of Hiccup.
-* [Hiccups](https://github.com/teropa/hiccups) ⭐ 218 | 🐛 3 | 🌐 Clojure | 📅 2020-11-06 – A ClojureScript port of the Hiccup.
+* [Hiccups](https://github.com/teropa/hiccups) ⭐ 219 | 🐛 3 | 🌐 Clojure | 📅 2020-11-06 – A ClojureScript port of the Hiccup.
 * [json-html](https://github.com/yogthos/json-html) ⭐ 165 | 🐛 0 | 🌐 Clojure | 📅 2020-05-30 – Provide JSON and get a DOM node with a human representation of that JSON.
 * [Dominator](https://github.com/dubiousdavid/dominator) ⭐ 73 | 🐛 2 | 🌐 JavaScript | 📅 2015-06-09 – Virtual-Dom in ClojureScript.
 * [cljs-binding](https://github.com/fluentsoftware/cljs-binding) ⭐ 57 | 🐛 2 | 🌐 JavaScript | 📅 2012-10-16 – It binds html elements to ClojureScript functions.
@@ -124,7 +124,7 @@
 
 ### Documentation
 
-* [codox](https://github.com/weavejester/codox) ⭐ 686 | 🐛 48 | 🌐 Clojure | 📅 2024-08-14 – A tool for generating API documentation from Clojure or ClojureScript source code.
+* [codox](https://github.com/weavejester/codox) ⭐ 687 | 🐛 48 | 🌐 Clojure | 📅 2024-08-14 – A tool for generating API documentation from Clojure or ClojureScript source code.
 
 ### Graphics
 
@@ -133,12 +133,12 @@
 
 ### HTTP Handler
 
-* [Castra](https://github.com/hoplon/castra) ⭐ 172 | 🐛 10 | 🌐 Clojure | 📅 2020-12-24 – An HTTP remote procedure call handler for Clojure.
+* [Castra](https://github.com/hoplon/castra) ⭐ 173 | 🐛 10 | 🌐 Clojure | 📅 2020-12-24 – An HTTP remote procedure call handler for Clojure.
 
 ### Internationalization
 
-* [Tower](https://github.com/ptaoussanis/tower) ⭐ 278 | 🐛 11 | 🌐 Clojure | 📅 2024-03-19 – A Clojure(Script) i18n & L10n library.
-* [Tempura](https://github.com/ptaoussanis/tempura) ⭐ 264 | 🐛 6 | 🌐 Clojure | 📅 2024-06-05 – A Clojure(Script) i18n library, succeeding Tower
+* [Tower](https://github.com/ptaoussanis/tower) ⭐ 279 | 🐛 11 | 🌐 Clojure | 📅 2024-03-19 – A Clojure(Script) i18n & L10n library.
+* [Tempura](https://github.com/ptaoussanis/tempura) ⭐ 265 | 🐛 6 | 🌐 Clojure | 📅 2024-06-05 – A Clojure(Script) i18n library, succeeding Tower
 
 ### JavaScript Interoperability
 
@@ -150,7 +150,7 @@
 ### CSS tools
 
 * [Garden](https://github.com/noprompt/garden) ⭐ 1,368 | 🐛 45 | 🌐 Clojure | 📅 2024-01-16 – A library for rendering CSS in Clojure and ClojureScript.
-* [stylefy](https://github.com/jarzka/stylefy) ⭐ 321 | 🐛 13 | 🌐 Clojure | 📅 2025-07-21 – stylefy makes it possible to define UI component styles as Clojure data and attach them into components easily without writing CSS selectors
+* [stylefy](https://github.com/jarzka/stylefy) ⭐ 322 | 🐛 13 | 🌐 Clojure | 📅 2025-07-21 – stylefy makes it possible to define UI component styles as Clojure data and attach them into components easily without writing CSS selectors
 
 ### Miscellaneous
 
@@ -159,7 +159,7 @@
 * [markdown-clj](https://github.com/yogthos/markdown-clj) ⭐ 575 | 🐛 21 | 🌐 Clojure | 📅 2026-08-28 – Markdown parser in Clojure/ClojureScript.
 * [om-tools](https://github.com/plumatic/om-tools) ⭐ 433 | 🐛 9 | 🌐 Clojure | 📅 2018-07-07 – It aims to provide higher-order abstractions and utilities frequently useful when building components with Om's API.
 * [reagent-forms](https://github.com/reagent-project/reagent-forms/) ⭐ 342 | 🐛 9 | 🌐 HTML | 📅 2020-04-27 – Bootstrap form components for Reagent.
-* [inflections-clj](https://github.com/r0man/inflections-clj) ⭐ 222 | 🐛 4 | 🌐 Clojure | 📅 2025-08-14 – Rails-like inflection library for Clojure and ClojureScript.
+* [inflections-clj](https://github.com/r0man/inflections-clj) ⭐ 223 | 🐛 4 | 🌐 Clojure | 📅 2025-08-14 – Rails-like inflection library for Clojure and ClojureScript.
 * [reforms](https://github.com/bilus/reforms) ⭐ 168 | 🐛 4 | 🌐 Clojure | 📅 2017-02-08 – Beautiful Bootstrap 3 forms for Om and Reagent.
 * [Bardo](https://github.com/pleasetrythisathome/bardo) ⭐ 95 | 🐛 1 | 🌐 Clojure | 📅 2018-10-24 – A Clojure(Script) library for functional interpolation and transitions.
 * [Keybind](https://github.com/piranha/keybind) ⭐ 85 | 🐛 0 | 🌐 Clojure | 📅 2017-11-27 – Library for handling key bindings (shortcuts) in browser.
@@ -206,14 +206,14 @@
 
 ### Testing
 
-* [cljs.test](https://github.com/clojure/clojurescript/wiki/Testing) ⭐ 9,392 | 🐛 7 | 🌐 Clojure | 📅 2026-08-10 – Integrated test framework for ClojureScript (merged from [clojurescript.test](https://github.com/cemerick/clojurescript.test) ⭐ 164 | 🐛 1 | 🌐 Clojure | 📅 2015-11-25)
-* [test.check](https://github.com/clojure/test.check) ⭐ 1,154 | 🐛 0 | 🌐 Clojure | 📅 2025-12-30 – A generative property-based testing tool inspired by QuickCheck.
+* [cljs.test](https://github.com/clojure/clojurescript/wiki/Testing) ⭐ 9,391 | 🐛 7 | 🌐 Clojure | 📅 2026-08-10 – Integrated test framework for ClojureScript (merged from [clojurescript.test](https://github.com/cemerick/clojurescript.test) ⭐ 164 | 🐛 1 | 🌐 Clojure | 📅 2015-11-25)
+* [test.check](https://github.com/clojure/test.check) ⭐ 1,155 | 🐛 0 | 🌐 Clojure | 📅 2025-12-30 – A generative property-based testing tool inspired by QuickCheck.
 * [Speclj](https://github.com/slagyr/speclj) ⭐ 488 | 🐛 29 | 🌐 Clojure | 📅 2026-04-30 – A TDD/BDD framework for Clojure and ClojureScript.
 * [Expectations](http://jayfields.com/expectations/) – A minimalist's unit testing framework.
 
 ### Validation
 
-* [Bouncer](https://github.com/leonardoborges/bouncer) ⭐ 361 | 🐛 10 | 🌐 Clojure | 📅 2021-07-12 – A validation DSL for Clojure & Clojurescript applications.
+* [Bouncer](https://github.com/leonardoborges/bouncer) ⭐ 362 | 🐛 10 | 🌐 Clojure | 📅 2021-07-12 – A validation DSL for Clojure & Clojurescript applications.
 * [form-validator-cljs](https://github.com/kwladyka/form-validator-cljs) ⭐ 55 | 🐛 0 | 🌐 Clojure | 📅 2019-11-22 – Validate forms with spec and fn.
 * [Validateur](http://clojurevalidations.info/) – A Clojure validation library inspired by Ruby's ActiveModel.
 
@@ -225,7 +225,7 @@
 * [descjop](https://github.com/karad/lein_template_descjop) ⚠️ Archived – A template for Web based desktop application with Electron.
 * [Macchiato](https://github.com/macchiato-framework/macchiato-core) ⭐ 385 | 🐛 16 | 🌐 Clojure | 📅 2025-12-31 – It aims to provide an easy to use platform for Node.js.
 * [Mies](https://github.com/swannodette/mies) ⭐ 367 | 🐛 2 | 🌐 Clojure | 📅 2018-07-05 – A minimal ClojureScript project template.
-* [WebFUI](https://github.com/drcode/webfui) ⭐ 237 | 🐛 4 | 🌐 Clojure | 📅 2013-01-30 – Client-Side Web Framework for ClojureScript.
+* [WebFUI](https://github.com/drcode/webfui) ⭐ 238 | 🐛 4 | 🌐 Clojure | 📅 2013-01-30 – Client-Side Web Framework for ClojureScript.
 * [Clops](https://github.com/sveri/closp) ⭐ 175 | 🐛 0 | 🌐 Clojure | 📅 2020-12-31 – An opinionated, full stack and easy to use web framework.
 * [electron-template](https://github.com/ducky427/electron-template) ⭐ 116 | 🐛 3 | 🌐 JavaScript | 📅 2016-03-15 – A template for creating web based desktop applications with Electron, ClojureScript and Reagent.
 * [atw-om](https://github.com/zaiste/atw-om) ⭐ 41 | 🐛 0 | 🌐 Clojure | 📅 2014-12-26 – A web application template with Clojure/Compojure, ClojureScript/Om & core.async.
@@ -257,4 +257,4 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
