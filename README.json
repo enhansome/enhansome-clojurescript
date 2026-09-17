@@ -199,7 +199,7 @@
                 "open_issues": 76,
                 "owner": "tonsky",
                 "repo": "datascript",
-                "stars": 5791,
+                "stars": 5790,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -603,7 +603,7 @@
                 "open_issues": 14,
                 "owner": "clj-commons",
                 "repo": "hickory",
-                "stars": 678,
+                "stars": 679,
                 "topics": [
                   "clojure",
                   "html-parser"
@@ -864,7 +864,7 @@
                 "open_issues": 33,
                 "owner": "thi-ng",
                 "repo": "geom",
-                "stars": 997,
+                "stars": 998,
                 "topics": [
                   "charts",
                   "geometry",
@@ -1172,7 +1172,7 @@
                 "open_issues": 21,
                 "owner": "yogthos",
                 "repo": "markdown-clj",
-                "stars": 575,
+                "stars": 576,
                 "topics": [
                   "clojure-library",
                   "clojurescript",
@@ -1609,7 +1609,7 @@
                 "open_issues": 7,
                 "owner": "hoplon",
                 "repo": "javelin",
-                "stars": 823,
+                "stars": 824,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -2135,7 +2135,7 @@
                 "open_issues": 38,
                 "owner": "CoNarrative",
                 "repo": "precept",
-                "stars": 662,
+                "stars": 663,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T10:33:44.987Z",
+    "last_updated": "2026-09-17T10:43:39.005Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
