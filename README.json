@@ -199,7 +199,7 @@
                 "open_issues": 76,
                 "owner": "tonsky",
                 "repo": "datascript",
-                "stars": 5790,
+                "stars": 5791,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -304,7 +304,7 @@
                 "open_issues": 98,
                 "owner": "bhauman",
                 "repo": "lein-figwheel",
-                "stars": 2875,
+                "stars": 2874,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -2114,7 +2114,7 @@
                 "open_issues": 11,
                 "owner": "plexus",
                 "repo": "chestnut",
-                "stars": 1303,
+                "stars": 1300,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -2164,7 +2164,7 @@
                 "open_issues": 5,
                 "owner": "karad",
                 "repo": "lein_template_descjop",
-                "stars": 394,
+                "stars": 392,
                 "topics": [
                   "atom",
                   "clojure",
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T10:43:39.005Z",
+    "last_updated": "2026-09-18T10:18:54.011Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
@@ -2404,7 +2404,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2024-03-10T22:26:15Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "hantuzun",
       "repo": "awesome-clojurescript",
       "stars": 1087,
