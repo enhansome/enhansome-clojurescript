@@ -88,14 +88,14 @@
 
 ### Database
 
-* [Datascript](https://github.com/tonsky/datascript) ⭐ 5,791 | 🐛 76 | 🌐 Clojure | 📅 2026-08-15 – An immutable in-memory database and Datalog query engine in ClojureScript.
+* [Datascript](https://github.com/tonsky/datascript) ⭐ 5,790 | 🐛 76 | 🌐 Clojure | 📅 2026-08-15 – An immutable in-memory database and Datalog query engine in ClojureScript.
 * [Konserve](https://github.com/replikativ/konserve) ⭐ 320 | 🐛 19 | 🌐 Clojure | 📅 2026-09-12 – A clojuresque key-value/document store protocol with core.async.
 * [specql](https://github.com/tatut/specql) ⭐ 135 | 🐛 10 | 🌐 Clojure | 📅 2024-09-20 – Library for simple PostgreSQL queries with namespaced keys.
 * [Jaki](https://github.com/pandeiro/jaki) ⭐ 16 | 🐛 0 | 🌐 Clojure | 📅 2012-10-10 – A simple ClojureScript CouchDB client.
 
 ### Development
 
-* [lein-figwheel](https://github.com/bhauman/lein-figwheel) ⭐ 2,874 | 🐛 98 | 🌐 Clojure | 📅 2024-03-26 – Leiningen plugin that pushes ClojureScript code changes to the client.
+* [lein-figwheel](https://github.com/bhauman/lein-figwheel) ⭐ 2,873 | 🐛 98 | 🌐 Clojure | 📅 2024-03-26 – Leiningen plugin that pushes ClojureScript code changes to the client.
 * [shadow-cljs](https://github.com/thheller/shadow-cljs) ⭐ 2,407 | 🐛 43 | 🌐 Clojure | 📅 2026-09-16 – ClojureScript compilation made easy
 * [Lumo](https://github.com/anmonteiro/lumo) ⚠️ Archived – Fast, cross-platform, standalone ClojureScript environment.
 * [Devcards](https://github.com/bhauman/devcards) ⭐ 1,535 | 🐛 30 | 🌐 Clojure | 📅 2023-09-17 – Devcards aims to provide a visual REPL experience for ClojureScript.
@@ -128,7 +128,7 @@
 
 ### Graphics
 
-* [Quil](https://github.com/quil/quil) ⭐ 3,050 | 🐛 47 | 🌐 Clojure | 📅 2026-04-24 – A processing and graphics programming library.
+* [Quil](https://github.com/quil/quil) ⭐ 3,051 | 🐛 47 | 🌐 Clojure | 📅 2026-04-24 – A processing and graphics programming library.
 * [geom](https://github.com/thi-ng/geom) ⭐ 998 | 🐛 33 | 🌐 Clojure | 📅 2025-03-22 – A 2D/3D geometry toolkit for Clojure/Clojurescript.
 
 ### HTTP Handler
@@ -169,7 +169,7 @@
 
 ### [React.js](https://facebook.github.io/react/) Interface
 
-* [Om](https://github.com/omcljs/om) ⭐ 6,619 | 🐛 81 | 🌐 Clojure | 📅 2020-08-17 – A powerful interface to React, makes use of its object oriented structures.
+* [Om](https://github.com/omcljs/om) ⭐ 6,618 | 🐛 81 | 🌐 Clojure | 📅 2020-08-17 – A powerful interface to React, makes use of its object oriented structures.
 * [Rum](https://github.com/tonsky/rum) ⭐ 1,829 | 🐛 23 | 🌐 HTML | 📅 2025-04-14 – Decomplected, extensible, simple.
 * [re-com](https://github.com/Day8/re-com) ⭐ 823 | 🐛 51 | 🌐 Clojure | 📅 2026-08-02 – A ClojureScript library of reusable components for Reagent.
 * [Helix](https://github.com/lilactown/helix) ⭐ 675 | 🐛 15 | 🌐 Clojure | 📅 2026-01-05 – A simple, easy to use library for React development in ClojureScript with very few semantics on top of React.
@@ -189,7 +189,7 @@
 
 ### Routing
 
-* [Bidi](https://github.com/juxt/bidi) ⭐ 997 | 🐛 60 | 🌐 Clojure | 📅 2023-03-15 – A Clojure(script) data driven routing library.
+* [Bidi](https://github.com/juxt/bidi) ⭐ 998 | 🐛 60 | 🌐 Clojure | 📅 2023-03-15 – A Clojure(script) data driven routing library.
 * [Secretary](https://github.com/gf3/secretary) ⭐ 773 | 🐛 23 | 🌐 Clojure | 📅 2020-12-13 – A client-side router for ClojureScript.
 * [Silk](https://github.com/DomKM/silk) ⭐ 225 | 🐛 4 | 🌐 Clojure | 📅 2022-01-04 – An isomorphic routing library for Clojure & ClojureScript.
 * [Router](https://github.com/darkleaf/router) ⭐ 80 | 🐛 0 | 🌐 Clojure | 📅 2017-04-30 – Bidirectional Ring router for Clojure/Script. REST oriented.
@@ -206,7 +206,7 @@
 
 ### Testing
 
-* [cljs.test](https://github.com/clojure/clojurescript/wiki/Testing) ⭐ 9,391 | 🐛 7 | 🌐 Clojure | 📅 2026-08-10 – Integrated test framework for ClojureScript (merged from [clojurescript.test](https://github.com/cemerick/clojurescript.test) ⭐ 164 | 🐛 1 | 🌐 Clojure | 📅 2015-11-25)
+* [cljs.test](https://github.com/clojure/clojurescript/wiki/Testing) ⭐ 9,390 | 🐛 7 | 🌐 Clojure | 📅 2026-08-10 – Integrated test framework for ClojureScript (merged from [clojurescript.test](https://github.com/cemerick/clojurescript.test) ⭐ 164 | 🐛 1 | 🌐 Clojure | 📅 2015-11-25)
 * [test.check](https://github.com/clojure/test.check) ⭐ 1,155 | 🐛 0 | 🌐 Clojure | 📅 2025-12-30 – A generative property-based testing tool inspired by QuickCheck.
 * [Speclj](https://github.com/slagyr/speclj) ⭐ 488 | 🐛 29 | 🌐 Clojure | 📅 2026-04-30 – A TDD/BDD framework for Clojure and ClojureScript.
 * [Expectations](http://jayfields.com/expectations/) – A minimalist's unit testing framework.
@@ -219,7 +219,7 @@
 
 ### Web Framework & Template
 
-* [re-frame](https://github.com/Day8/re-frame) ⭐ 5,541 | 🐛 23 | 🌐 Clojure | 📅 2026-05-05 – A Reagent Framework For Writing SPAs, in Clojurescript.
+* [re-frame](https://github.com/Day8/re-frame) ⭐ 5,540 | 🐛 23 | 🌐 Clojure | 📅 2026-05-05 – A Reagent Framework For Writing SPAs, in Clojurescript.
 * [Chestnut](https://github.com/plexus/chestnut) ⚠️ Archived – An Application template for ClojureScript/Om with live reloading.
 * [Precept](https://github.com/CoNarrative/precept) ⭐ 663 | 🐛 38 | 🌐 Clojure | 📅 2022-12-06 – A declarative programming framework.
 * [descjop](https://github.com/karad/lein_template_descjop) ⚠️ Archived – A template for Web based desktop application with Electron.
@@ -257,4 +257,4 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
