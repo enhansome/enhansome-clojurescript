@@ -1959,7 +1959,7 @@
                 "open_issues": 7,
                 "owner": "clojure",
                 "repo": "clojurescript",
-                "stars": 9390,
+                "stars": 9391,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T10:01:56.062Z",
+    "last_updated": "2026-09-20T10:21:20.752Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
