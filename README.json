@@ -36,9 +36,9 @@
                 "description": "Experimental canvas animation library with persistent data at core",
                 "homepage": "http://r.quamolit.org/quamolit.calcit/",
                 "id": 341102081,
-                "language": "Cirru",
+                "language": "JavaScript",
                 "license": null,
-                "last_commit": "2024-04-01T07:31:27Z",
+                "last_commit": "2026-09-23T08:04:14Z",
                 "open_issues": 0,
                 "owner": "Quamolit",
                 "repo": "quamolit",
@@ -199,7 +199,7 @@
                 "open_issues": 76,
                 "owner": "tonsky",
                 "repo": "datascript",
-                "stars": 5790,
+                "stars": 5791,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T10:40:27.155Z",
+    "last_updated": "2026-09-23T10:32:14.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
