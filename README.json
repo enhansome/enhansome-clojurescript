@@ -38,7 +38,7 @@
                 "id": 341102081,
                 "language": "Cirru",
                 "license": null,
-                "last_commit": "2026-09-29T07:46:01Z",
+                "last_commit": "2026-09-30T11:39:00Z",
                 "open_issues": 19,
                 "owner": "Quamolit",
                 "repo": "quamolit",
@@ -199,7 +199,7 @@
                 "open_issues": 76,
                 "owner": "tonsky",
                 "repo": "datascript",
-                "stars": 5795,
+                "stars": 5796,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -222,8 +222,8 @@
                 "id": 41630938,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-09-12T12:40:56Z",
-                "open_issues": 19,
+                "last_commit": "2026-09-30T10:18:45Z",
+                "open_issues": 20,
                 "owner": "replikativ",
                 "repo": "konserve",
                 "stars": 320,
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "thheller",
                 "repo": "shadow-cljs",
-                "stars": 2407,
+                "stars": 2408,
                 "topics": [
                   "cljs",
                   "clojurescript",
@@ -407,7 +407,7 @@
                 "open_issues": 19,
                 "owner": "binaryage",
                 "repo": "cljs-devtools",
-                "stars": 1128,
+                "stars": 1129,
                 "topics": [
                   "chrome-devtools",
                   "clojurescript",
@@ -603,7 +603,7 @@
                 "open_issues": 14,
                 "owner": "clj-commons",
                 "repo": "hickory",
-                "stars": 679,
+                "stars": 678,
                 "topics": [
                   "clojure",
                   "html-parser"
@@ -1450,7 +1450,7 @@
                 "id": 21813295,
                 "language": "Clojure",
                 "license": "MIT",
-                "last_commit": "2026-08-02T21:25:53Z",
+                "last_commit": "2026-09-30T01:50:30Z",
                 "open_issues": 51,
                 "owner": "day8",
                 "repo": "re-com",
@@ -1955,7 +1955,7 @@
                 "id": 2080922,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-09-20T15:43:53Z",
+                "last_commit": "2026-09-30T10:26:37Z",
                 "open_issues": 8,
                 "owner": "clojure",
                 "repo": "clojurescript",
@@ -2087,7 +2087,7 @@
                 "open_issues": 23,
                 "owner": "day8",
                 "repo": "re-frame",
-                "stars": 5540,
+                "stars": 5541,
                 "topics": [
                   "clojurescript",
                   "re-frame",
@@ -2348,7 +2348,7 @@
                 "open_issues": 4,
                 "owner": "taoensso",
                 "repo": "sente",
-                "stars": 1793,
+                "stars": 1794,
                 "topics": [
                   "ajax",
                   "async",
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T11:52:40.498Z",
+    "last_updated": "2026-09-30T11:39:40.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
