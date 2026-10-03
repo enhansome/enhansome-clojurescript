@@ -38,8 +38,8 @@
                 "id": 341102081,
                 "language": "Cirru",
                 "license": null,
-                "last_commit": "2026-10-02T08:54:58Z",
-                "open_issues": 24,
+                "last_commit": "2026-10-03T02:18:18Z",
+                "open_issues": 27,
                 "owner": "Quamolit",
                 "repo": "quamolit",
                 "stars": 7,
@@ -199,7 +199,7 @@
                 "open_issues": 76,
                 "owner": "tonsky",
                 "repo": "datascript",
-                "stars": 5796,
+                "stars": 5795,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -811,7 +811,7 @@
                 "open_issues": 48,
                 "owner": "weavejester",
                 "repo": "codox",
-                "stars": 687,
+                "stars": 686,
                 "topics": [
                   "clojure",
                   "docs-generator",
@@ -2087,7 +2087,7 @@
                 "open_issues": 23,
                 "owner": "day8",
                 "repo": "re-frame",
-                "stars": 5541,
+                "stars": 5540,
                 "topics": [
                   "clojurescript",
                   "re-frame",
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:39:15.091Z",
+    "last_updated": "2026-10-03T04:38:18.462Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
