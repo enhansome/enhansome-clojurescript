@@ -38,8 +38,8 @@
                 "id": 341102081,
                 "language": "Cirru",
                 "license": null,
-                "last_commit": "2026-10-03T02:18:18Z",
-                "open_issues": 27,
+                "last_commit": "2026-10-03T10:44:09Z",
+                "open_issues": 26,
                 "owner": "Quamolit",
                 "repo": "quamolit",
                 "stars": 7,
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:38:18.462Z",
+    "last_updated": "2026-10-03T10:52:42.169Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
