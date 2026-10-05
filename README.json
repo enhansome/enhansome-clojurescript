@@ -38,8 +38,8 @@
                 "id": 341102081,
                 "language": "Cirru",
                 "license": null,
-                "last_commit": "2026-10-04T09:11:38Z",
-                "open_issues": 28,
+                "last_commit": "2026-10-05T09:41:23Z",
+                "open_issues": 27,
                 "owner": "Quamolit",
                 "repo": "quamolit",
                 "stars": 7,
@@ -327,8 +327,8 @@
                 "id": 43973779,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-10-01T08:26:47Z",
-                "open_issues": 44,
+                "last_commit": "2026-10-04T13:55:58Z",
+                "open_issues": 43,
                 "owner": "thheller",
                 "repo": "shadow-cljs",
                 "stars": 2407,
@@ -1130,7 +1130,7 @@
                 "open_issues": 2,
                 "owner": "clojure",
                 "repo": "core.async",
-                "stars": 2051,
+                "stars": 2052,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -1843,7 +1843,7 @@
                 "open_issues": 30,
                 "owner": "tolitius",
                 "repo": "mount",
-                "stars": 1254,
+                "stars": 1255,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -1955,8 +1955,8 @@
                 "id": 2080922,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-10-03T19:56:39Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-04T15:57:54Z",
+                "open_issues": 9,
                 "owner": "clojure",
                 "repo": "clojurescript",
                 "stars": 9391,
@@ -2087,7 +2087,7 @@
                 "open_issues": 23,
                 "owner": "day8",
                 "repo": "re-frame",
-                "stars": 5540,
+                "stars": 5539,
                 "topics": [
                   "clojurescript",
                   "re-frame",
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T11:35:03.703Z",
+    "last_updated": "2026-10-05T13:10:05.226Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
