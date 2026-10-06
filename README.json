@@ -843,7 +843,7 @@
                 "open_issues": 47,
                 "owner": "quil",
                 "repo": "quil",
-                "stars": 3052,
+                "stars": 3051,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -1955,11 +1955,11 @@
                 "id": 2080922,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-10-04T15:57:54Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-05T19:18:36Z",
+                "open_issues": 10,
                 "owner": "clojure",
                 "repo": "clojurescript",
-                "stars": 9391,
+                "stars": 9392,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T13:10:05.226Z",
+    "last_updated": "2026-10-06T10:54:02.256Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",

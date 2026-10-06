@@ -128,7 +128,7 @@
 
 ### Graphics
 
-* [Quil](https://github.com/quil/quil) ⭐ 3,052 | 🐛 47 | 🌐 Clojure | 📅 2026-04-24 – A processing and graphics programming library.
+* [Quil](https://github.com/quil/quil) ⭐ 3,051 | 🐛 47 | 🌐 Clojure | 📅 2026-04-24 – A processing and graphics programming library.
 * [geom](https://github.com/thi-ng/geom) ⭐ 998 | 🐛 33 | 🌐 Clojure | 📅 2025-03-22 – A 2D/3D geometry toolkit for Clojure/Clojurescript.
 
 ### HTTP Handler
@@ -183,7 +183,7 @@
 
 * [Javelin](https://github.com/hoplon/javelin) ⭐ 825 | 🐛 7 | 🌐 Clojure | 📅 2023-10-31 – A Functional Reactive Programming library for ClojureScript.
 * [Reagi](https://github.com/weavejester/reagi) ⭐ 233 | 🐛 4 | 🌐 Clojure | 📅 2016-03-04 – An FRP library for Clojure and ClojureScript, built on top of core.async.
-* [Manifold-cljs](https://github.com/dm3/manifold-cljs) ⭐ 50 | 🐛 1 | 🌐 Clojure | 📅 2019-12-20 – A port of [Manifold](https://github.com/ztellman/manifold) ⭐ 1,053 | 🐛 33 | 🌐 Clojure | 📅 2026-03-16 to ClojureScript.
+* [Manifold-cljs](https://github.com/dm3/manifold-cljs) ⭐ 50 | 🐛 1 | 🌐 Clojure | 📅 2019-12-20 – A port of [Manifold](https://github.com/ztellman/manifold) ⭐ 1,054 | 🐛 33 | 🌐 Clojure | 📅 2026-03-16 to ClojureScript.
 * [rx-cljs](https://github.com/leonardoborges/rx-cljs) ⭐ 44 | 🐛 0 | 🌐 Clojure | 📅 2013-05-21 – A ClojureScript wrapper for Reactive Extensions (Rx) for Javascript.
 * [Yolk](https://github.com/Cicayda/yolk) – A thin ClojureScript wrapper around bacon.js.
 
@@ -206,7 +206,7 @@
 
 ### Testing
 
-* [cljs.test](https://github.com/clojure/clojurescript/wiki/Testing) ⭐ 9,391 | 🐛 9 | 🌐 Clojure | 📅 2026-10-04 – Integrated test framework for ClojureScript (merged from [clojurescript.test](https://github.com/cemerick/clojurescript.test) ⭐ 164 | 🐛 1 | 🌐 Clojure | 📅 2015-11-25)
+* [cljs.test](https://github.com/clojure/clojurescript/wiki/Testing) ⭐ 9,392 | 🐛 10 | 🌐 Clojure | 📅 2026-10-05 – Integrated test framework for ClojureScript (merged from [clojurescript.test](https://github.com/cemerick/clojurescript.test) ⭐ 164 | 🐛 1 | 🌐 Clojure | 📅 2015-11-25)
 * [test.check](https://github.com/clojure/test.check) ⭐ 1,155 | 🐛 0 | 🌐 Clojure | 📅 2025-12-30 – A generative property-based testing tool inspired by QuickCheck.
 * [Speclj](https://github.com/slagyr/speclj) ⭐ 488 | 🐛 29 | 🌐 Clojure | 📅 2026-04-30 – A TDD/BDD framework for Clojure and ClojureScript.
 * [Expectations](http://jayfields.com/expectations/) – A minimalist's unit testing framework.
@@ -257,4 +257,4 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
