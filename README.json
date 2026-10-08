@@ -328,7 +328,7 @@
                 "language": "Clojure",
                 "license": "EPL-1.0",
                 "last_commit": "2026-10-04T13:55:58Z",
-                "open_issues": 44,
+                "open_issues": 43,
                 "owner": "thheller",
                 "repo": "shadow-cljs",
                 "stars": 2407,
@@ -1956,10 +1956,10 @@
                 "language": "Clojure",
                 "license": "EPL-1.0",
                 "last_commit": "2026-10-05T19:18:36Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "clojure",
                 "repo": "clojurescript",
-                "stars": 9392,
+                "stars": 9391,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T12:23:14.120Z",
+    "last_updated": "2026-10-08T12:32:53.609Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
