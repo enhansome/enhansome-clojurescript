@@ -1130,7 +1130,7 @@
                 "open_issues": 2,
                 "owner": "clojure",
                 "repo": "core.async",
-                "stars": 2053,
+                "stars": 2054,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -1454,7 +1454,7 @@
                 "open_issues": 51,
                 "owner": "day8",
                 "repo": "re-com",
-                "stars": 823,
+                "stars": 824,
                 "topics": [
                   "clojurescript",
                   "re-frame",
@@ -2114,7 +2114,7 @@
                 "open_issues": 11,
                 "owner": "plexus",
                 "repo": "chestnut",
-                "stars": 1300,
+                "stars": 1301,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -2348,7 +2348,7 @@
                 "open_issues": 4,
                 "owner": "taoensso",
                 "repo": "sente",
-                "stars": 1794,
+                "stars": 1795,
                 "topics": [
                   "ajax",
                   "async",
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T12:32:53.609Z",
+    "last_updated": "2026-10-09T12:20:52.959Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
@@ -2404,7 +2404,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2024-03-10T22:26:15Z",
-      "open_issues": 6,
+      "open_issues": 5,
       "owner": "hantuzun",
       "repo": "awesome-clojurescript",
       "stars": 1088,
