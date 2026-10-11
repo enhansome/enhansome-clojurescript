@@ -222,7 +222,7 @@
                 "id": 41630938,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-09-30T10:18:45Z",
+                "last_commit": "2026-10-10T13:46:05Z",
                 "open_issues": 20,
                 "owner": "replikativ",
                 "repo": "konserve",
@@ -331,7 +331,7 @@
                 "open_issues": 44,
                 "owner": "thheller",
                 "repo": "shadow-cljs",
-                "stars": 2407,
+                "stars": 2406,
                 "topics": [
                   "cljs",
                   "clojurescript",
@@ -496,7 +496,7 @@
                 "open_issues": 0,
                 "owner": "taoensso",
                 "repo": "truss",
-                "stars": 330,
+                "stars": 331,
                 "topics": [
                   "assertions",
                   "clojure",
@@ -2087,7 +2087,7 @@
                 "open_issues": 23,
                 "owner": "day8",
                 "repo": "re-frame",
-                "stars": 5539,
+                "stars": 5540,
                 "topics": [
                   "clojurescript",
                   "re-frame",
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T11:39:25.942Z",
+    "last_updated": "2026-10-11T11:52:39.620Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
@@ -2407,7 +2407,7 @@
       "open_issues": 5,
       "owner": "hantuzun",
       "repo": "awesome-clojurescript",
-      "stars": 1088,
+      "stars": 1087,
       "topics": [
         "awesome",
         "awesome-list",
