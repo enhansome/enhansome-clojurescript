@@ -169,7 +169,7 @@
 
 ### [React.js](https://facebook.github.io/react/) Interface
 
-* [Om](https://github.com/omcljs/om) ⭐ 6,617 | 🐛 81 | 🌐 Clojure | 📅 2020-08-17 – A powerful interface to React, makes use of its object oriented structures.
+* [Om](https://github.com/omcljs/om) ⭐ 6,616 | 🐛 81 | 🌐 Clojure | 📅 2020-08-17 – A powerful interface to React, makes use of its object oriented structures.
 * [Rum](https://github.com/tonsky/rum) ⭐ 1,829 | 🐛 23 | 🌐 HTML | 📅 2025-04-14 – Decomplected, extensible, simple.
 * [re-com](https://github.com/Day8/re-com) ⭐ 824 | 🐛 51 | 🌐 Clojure | 📅 2026-09-30 – A ClojureScript library of reusable components for Reagent.
 * [Helix](https://github.com/lilactown/helix) ⭐ 675 | 🐛 15 | 🌐 Clojure | 📅 2026-01-05 – A simple, easy to use library for React development in ClojureScript with very few semantics on top of React.
@@ -197,7 +197,7 @@
 ### State Management
 
 * [component](https://github.com/stuartsierra/component) ⭐ 2,164 | 🐛 3 | 🌐 Clojure | 📅 2025-10-25 – Managed lifecycle of stateful objects in Clojure(Script).
-* [mount](https://github.com/tolitius/mount) ⭐ 1,255 | 🐛 30 | 🌐 Clojure | 📅 2026-06-11 – A beautifl idiomatic state management library.
+* [mount](https://github.com/tolitius/mount) ⭐ 1,254 | 🐛 30 | 🌐 Clojure | 📅 2026-06-11 – A beautifl idiomatic state management library.
 * [storage-atom](https://github.com/alandipert/storage-atom) ⭐ 194 | 🐛 10 | 🌐 Clojure | 📅 2022-10-28 – ClojureScript atoms backed by HTML5 web storage.
 * [Waltz](https://github.com/ibdknox/waltz) ⭐ 90 | 🐛 2 | 🌐 Clojure | 📅 2012-04-10 – A ClojureScript library that helps manage state in client-side applications using non-deterministic finite state machines.
 * [plato](https://github.com/eneroth/plato) ⭐ 30 | 🐛 1 | 🌐 Clojure | 📅 2014-12-11 – Incrementally persists atom state to Local Storage in ClojureScript.
@@ -223,7 +223,7 @@
 * [Chestnut](https://github.com/plexus/chestnut) ⚠️ Archived – An Application template for ClojureScript/Om with live reloading.
 * [Precept](https://github.com/CoNarrative/precept) ⭐ 663 | 🐛 38 | 🌐 Clojure | 📅 2022-12-06 – A declarative programming framework.
 * [descjop](https://github.com/karad/lein_template_descjop) ⚠️ Archived – A template for Web based desktop application with Electron.
-* [Macchiato](https://github.com/macchiato-framework/macchiato-core) ⭐ 385 | 🐛 16 | 🌐 Clojure | 📅 2025-12-31 – It aims to provide an easy to use platform for Node.js.
+* [Macchiato](https://github.com/macchiato-framework/macchiato-core) ⭐ 384 | 🐛 16 | 🌐 Clojure | 📅 2025-12-31 – It aims to provide an easy to use platform for Node.js.
 * [Mies](https://github.com/swannodette/mies) ⭐ 367 | 🐛 2 | 🌐 Clojure | 📅 2018-07-05 – A minimal ClojureScript project template.
 * [WebFUI](https://github.com/drcode/webfui) ⭐ 238 | 🐛 4 | 🌐 Clojure | 📅 2013-01-30 – Client-Side Web Framework for ClojureScript.
 * [Clops](https://github.com/sveri/closp) ⭐ 175 | 🐛 0 | 🌐 Clojure | 📅 2020-12-31 – An opinionated, full stack and easy to use web framework.
@@ -257,4 +257,4 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._

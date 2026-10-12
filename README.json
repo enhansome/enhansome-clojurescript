@@ -1412,7 +1412,7 @@
                 "open_issues": 81,
                 "owner": "omcljs",
                 "repo": "om",
-                "stars": 6617,
+                "stars": 6616,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -1843,7 +1843,7 @@
                 "open_issues": 30,
                 "owner": "tolitius",
                 "repo": "mount",
-                "stars": 1255,
+                "stars": 1254,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -2206,7 +2206,7 @@
                 "open_issues": 16,
                 "owner": "macchiato-framework",
                 "repo": "macchiato-core",
-                "stars": 385,
+                "stars": 384,
                 "topics": [
                   "clojurescript",
                   "nodejs",
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T11:52:39.620Z",
+    "last_updated": "2026-10-12T14:00:45.249Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
