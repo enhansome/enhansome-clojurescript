@@ -327,8 +327,8 @@
                 "id": 43973779,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-10-04T13:55:58Z",
-                "open_issues": 44,
+                "last_commit": "2026-10-12T15:43:36Z",
+                "open_issues": 43,
                 "owner": "thheller",
                 "repo": "shadow-cljs",
                 "stars": 2406,
@@ -454,7 +454,7 @@
                 "open_issues": 94,
                 "owner": "planck-repl",
                 "repo": "planck",
-                "stars": 1037,
+                "stars": 1038,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -554,7 +554,7 @@
                 "open_issues": 12,
                 "owner": "plumatic",
                 "repo": "dommy",
-                "stars": 755,
+                "stars": 756,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -1609,7 +1609,7 @@
                 "open_issues": 7,
                 "owner": "hoplon",
                 "repo": "javelin",
-                "stars": 825,
+                "stars": 824,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T14:00:45.249Z",
+    "last_updated": "2026-10-13T13:15:39.929Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
