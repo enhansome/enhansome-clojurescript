@@ -38,8 +38,8 @@
                 "id": 341102081,
                 "language": "Cirru",
                 "license": null,
-                "last_commit": "2026-10-14T10:53:23Z",
-                "open_issues": 30,
+                "last_commit": "2026-10-15T10:23:47Z",
+                "open_issues": 27,
                 "owner": "Quamolit",
                 "repo": "quamolit",
                 "stars": 7,
@@ -122,7 +122,7 @@
                 "open_issues": 54,
                 "owner": "clj-commons",
                 "repo": "kibit",
-                "stars": 1755,
+                "stars": 1754,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -1732,7 +1732,7 @@
                 "language": "Clojure",
                 "license": null,
                 "last_commit": "2020-12-13T18:45:07Z",
-                "open_issues": 23,
+                "open_issues": 22,
                 "owner": "clj-commons",
                 "repo": "secretary",
                 "stars": 773,
@@ -1959,7 +1959,7 @@
                 "open_issues": 11,
                 "owner": "clojure",
                 "repo": "clojurescript",
-                "stars": 9391,
+                "stars": 9390,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T10:55:31.125Z",
+    "last_updated": "2026-10-15T10:37:18.582Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
@@ -2404,7 +2404,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2024-03-10T22:26:15Z",
-      "open_issues": 5,
+      "open_issues": 6,
       "owner": "hantuzun",
       "repo": "awesome-clojurescript",
       "stars": 1087,
