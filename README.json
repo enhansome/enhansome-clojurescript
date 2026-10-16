@@ -36,10 +36,10 @@
                 "description": "Experimental canvas animation library with persistent data at core",
                 "homepage": "http://r.quamolit.org/quamolit.calcit/",
                 "id": 341102081,
-                "language": "Cirru",
+                "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-15T10:23:47Z",
-                "open_issues": 27,
+                "last_commit": "2026-10-15T11:14:09Z",
+                "open_issues": 25,
                 "owner": "Quamolit",
                 "repo": "quamolit",
                 "stars": 7,
@@ -328,10 +328,10 @@
                 "language": "Clojure",
                 "license": "EPL-1.0",
                 "last_commit": "2026-10-12T15:43:36Z",
-                "open_issues": 43,
+                "open_issues": 44,
                 "owner": "thheller",
                 "repo": "shadow-cljs",
-                "stars": 2406,
+                "stars": 2407,
                 "topics": [
                   "cljs",
                   "clojurescript",
@@ -1412,7 +1412,7 @@
                 "open_issues": 81,
                 "owner": "omcljs",
                 "repo": "om",
-                "stars": 6616,
+                "stars": 6615,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -1451,7 +1451,7 @@
                 "language": "Clojure",
                 "license": "MIT",
                 "last_commit": "2026-09-30T01:50:30Z",
-                "open_issues": 51,
+                "open_issues": 52,
                 "owner": "day8",
                 "repo": "re-com",
                 "stars": 824,
@@ -1955,11 +1955,11 @@
                 "id": 2080922,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-10-13T16:28:02Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-15T15:41:32Z",
+                "open_issues": 7,
                 "owner": "clojure",
                 "repo": "clojurescript",
-                "stars": 9390,
+                "stars": 9389,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -2084,7 +2084,7 @@
                 "language": "Clojure",
                 "license": "MIT",
                 "last_commit": "2026-05-05T15:55:07Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "day8",
                 "repo": "re-frame",
                 "stars": 5542,
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T10:37:18.582Z",
+    "last_updated": "2026-10-16T10:24:17.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
