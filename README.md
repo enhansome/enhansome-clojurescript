@@ -66,7 +66,7 @@
 ### Canvas
 
 * [Monet](https://github.com/rm-hull/monet) ⭐ 170 | 🐛 5 | 🌐 Clojure | 📅 2017-01-06 – A small ClojureScript library to make it easier to work with canvas and visuals.
-* [Quamolit](https://github.com/Quamolit/quamolit) ⭐ 7 | 🐛 25 | 🌐 JavaScript | 📅 2026-10-15 – A tiny declarative animation library , inspired by React.
+* [Quamolit](https://github.com/Quamolit/quamolit) ⭐ 7 | 🐛 25 | 🌐 JavaScript | 📅 2026-10-16 – A tiny declarative animation library , inspired by React.
 
 ### Client/Server Communication
 
@@ -169,7 +169,7 @@
 
 ### [React.js](https://facebook.github.io/react/) Interface
 
-* [Om](https://github.com/omcljs/om) ⭐ 6,615 | 🐛 81 | 🌐 Clojure | 📅 2020-08-17 – A powerful interface to React, makes use of its object oriented structures.
+* [Om](https://github.com/omcljs/om) ⭐ 6,614 | 🐛 81 | 🌐 Clojure | 📅 2020-08-17 – A powerful interface to React, makes use of its object oriented structures.
 * [Rum](https://github.com/tonsky/rum) ⭐ 1,829 | 🐛 23 | 🌐 HTML | 📅 2025-04-14 – Decomplected, extensible, simple.
 * [re-com](https://github.com/Day8/re-com) ⭐ 824 | 🐛 52 | 🌐 Clojure | 📅 2026-09-30 – A ClojureScript library of reusable components for Reagent.
 * [Helix](https://github.com/lilactown/helix) ⭐ 675 | 🐛 15 | 🌐 Clojure | 📅 2026-01-05 – A simple, easy to use library for React development in ClojureScript with very few semantics on top of React.
@@ -196,7 +196,7 @@
 
 ### State Management
 
-* [component](https://github.com/stuartsierra/component) ⭐ 2,164 | 🐛 3 | 🌐 Clojure | 📅 2025-10-25 – Managed lifecycle of stateful objects in Clojure(Script).
+* [component](https://github.com/stuartsierra/component) ⭐ 2,165 | 🐛 3 | 🌐 Clojure | 📅 2025-10-25 – Managed lifecycle of stateful objects in Clojure(Script).
 * [mount](https://github.com/tolitius/mount) ⭐ 1,254 | 🐛 30 | 🌐 Clojure | 📅 2026-06-11 – A beautifl idiomatic state management library.
 * [storage-atom](https://github.com/alandipert/storage-atom) ⭐ 194 | 🐛 10 | 🌐 Clojure | 📅 2022-10-28 – ClojureScript atoms backed by HTML5 web storage.
 * [Waltz](https://github.com/ibdknox/waltz) ⭐ 90 | 🐛 2 | 🌐 Clojure | 📅 2012-04-10 – A ClojureScript library that helps manage state in client-side applications using non-deterministic finite state machines.
@@ -257,4 +257,4 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
