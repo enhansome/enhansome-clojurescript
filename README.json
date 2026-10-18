@@ -69,7 +69,7 @@
                 "id": 9328057,
                 "language": "Clojure",
                 "license": null,
-                "last_commit": "2026-08-23T09:03:11Z",
+                "last_commit": "2026-10-18T03:21:19Z",
                 "open_issues": 24,
                 "owner": "JulianBirch",
                 "repo": "cljs-ajax",
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T09:56:16.335Z",
+    "last_updated": "2026-10-18T10:09:10.360Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",

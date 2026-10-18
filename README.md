@@ -70,7 +70,7 @@
 
 ### Client/Server Communication
 
-* [cljs-ajax](https://github.com/JulianBirch/cljs-ajax) ⭐ 677 | 🐛 24 | 🌐 Clojure | 📅 2026-08-23 – A simple Ajax client for ClojureScript and Clojure.
+* [cljs-ajax](https://github.com/JulianBirch/cljs-ajax) ⭐ 677 | 🐛 24 | 🌐 Clojure | 📅 2026-10-18 – A simple Ajax client for ClojureScript and Clojure.
 * [Fetch](https://github.com/LightTable/fetch) ⚠️ Archived – A ClojureScript library that makes client/server interaction painless.
 
 ### Code Analysis
@@ -257,4 +257,4 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
