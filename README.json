@@ -38,7 +38,7 @@
                 "id": 341102081,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-16T17:40:49Z",
+                "last_commit": "2026-10-19T05:50:00Z",
                 "open_issues": 25,
                 "owner": "Quamolit",
                 "repo": "quamolit",
@@ -199,7 +199,7 @@
                 "open_issues": 76,
                 "owner": "tonsky",
                 "repo": "datascript",
-                "stars": 5796,
+                "stars": 5797,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -603,7 +603,7 @@
                 "open_issues": 14,
                 "owner": "clj-commons",
                 "repo": "hickory",
-                "stars": 678,
+                "stars": 679,
                 "topics": [
                   "clojure",
                   "html-parser"
@@ -1172,7 +1172,7 @@
                 "open_issues": 21,
                 "owner": "yogthos",
                 "repo": "markdown-clj",
-                "stars": 576,
+                "stars": 577,
                 "topics": [
                   "clojure-library",
                   "clojurescript",
@@ -1630,7 +1630,7 @@
                 "open_issues": 4,
                 "owner": "weavejester",
                 "repo": "reagi",
-                "stars": 233,
+                "stars": 234,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -1843,7 +1843,7 @@
                 "open_issues": 30,
                 "owner": "tolitius",
                 "repo": "mount",
-                "stars": 1254,
+                "stars": 1255,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -1959,7 +1959,7 @@
                 "open_issues": 7,
                 "owner": "clojure",
                 "repo": "clojurescript",
-                "stars": 9389,
+                "stars": 9390,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T10:09:10.360Z",
+    "last_updated": "2026-10-19T11:41:30.527Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
