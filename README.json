@@ -69,8 +69,8 @@
                 "id": 9328057,
                 "language": "Clojure",
                 "license": null,
-                "last_commit": "2026-10-18T03:21:19Z",
-                "open_issues": 24,
+                "last_commit": "2026-10-20T17:56:35Z",
+                "open_issues": 25,
                 "owner": "JulianBirch",
                 "repo": "cljs-ajax",
                 "stars": 677,
@@ -404,7 +404,7 @@
                 "language": "Clojure",
                 "license": "NOASSERTION",
                 "last_commit": "2023-04-08T21:20:05Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "binaryage",
                 "repo": "cljs-devtools",
                 "stars": 1129,
@@ -1822,7 +1822,7 @@
                 "open_issues": 3,
                 "owner": "stuartsierra",
                 "repo": "component",
-                "stars": 2166,
+                "stars": 2167,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -2087,7 +2087,7 @@
                 "open_issues": 24,
                 "owner": "day8",
                 "repo": "re-frame",
-                "stars": 5543,
+                "stars": 5544,
                 "topics": [
                   "clojurescript",
                   "re-frame",
@@ -2206,7 +2206,7 @@
                 "open_issues": 16,
                 "owner": "macchiato-framework",
                 "repo": "macchiato-core",
-                "stars": 384,
+                "stars": 385,
                 "topics": [
                   "clojurescript",
                   "nodejs",
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T10:43:31.414Z",
+    "last_updated": "2026-10-21T10:54:51.017Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",

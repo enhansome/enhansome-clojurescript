@@ -70,7 +70,7 @@
 
 ### Client/Server Communication
 
-* [cljs-ajax](https://github.com/JulianBirch/cljs-ajax) ⭐ 677 | 🐛 24 | 🌐 Clojure | 📅 2026-10-18 – A simple Ajax client for ClojureScript and Clojure.
+* [cljs-ajax](https://github.com/JulianBirch/cljs-ajax) ⭐ 677 | 🐛 25 | 🌐 Clojure | 📅 2026-10-20 – A simple Ajax client for ClojureScript and Clojure.
 * [Fetch](https://github.com/LightTable/fetch) ⚠️ Archived – A ClojureScript library that makes client/server interaction painless.
 
 ### Code Analysis
@@ -99,7 +99,7 @@
 * [shadow-cljs](https://github.com/thheller/shadow-cljs) ⭐ 2,407 | 🐛 44 | 🌐 Clojure | 📅 2026-10-12 – ClojureScript compilation made easy
 * [Lumo](https://github.com/anmonteiro/lumo) ⚠️ Archived – Fast, cross-platform, standalone ClojureScript environment.
 * [Devcards](https://github.com/bhauman/devcards) ⭐ 1,535 | 🐛 30 | 🌐 Clojure | 📅 2023-09-17 – Devcards aims to provide a visual REPL experience for ClojureScript.
-* [cljs-devtools](https://github.com/binaryage/cljs-devtools) ⭐ 1,129 | 🐛 19 | 🌐 Clojure | 📅 2023-04-08 – Better presentation of ClojureScript values in Chrome Devtools.
+* [cljs-devtools](https://github.com/binaryage/cljs-devtools) ⭐ 1,129 | 🐛 20 | 🌐 Clojure | 📅 2023-04-08 – Better presentation of ClojureScript values in Chrome Devtools.
 * [lein-cljsbuild](https://github.com/emezeske/lein-cljsbuild) ⭐ 1,093 | 🐛 49 | 🌐 Clojure | 📅 2021-03-19 – A Leiningen plugin to make ClojureScript development easy.
 * [Planck](https://github.com/mfikes/planck) ⭐ 1,038 | 🐛 94 | 🌐 C | 📅 2024-08-28 – A stand-alone ClojureScript REPL for macOS and Linux based on JavaScriptCore.
 * [Ambly](https://github.com/omcljs/ambly) ⭐ 538 | 🐛 9 | 🌐 Objective-C | 📅 2022-07-29 – A ClojureScript REPL into iOS JavaScriptCore.
@@ -196,7 +196,7 @@
 
 ### State Management
 
-* [component](https://github.com/stuartsierra/component) ⭐ 2,166 | 🐛 3 | 🌐 Clojure | 📅 2025-10-25 – Managed lifecycle of stateful objects in Clojure(Script).
+* [component](https://github.com/stuartsierra/component) ⭐ 2,167 | 🐛 3 | 🌐 Clojure | 📅 2025-10-25 – Managed lifecycle of stateful objects in Clojure(Script).
 * [mount](https://github.com/tolitius/mount) ⭐ 1,255 | 🐛 30 | 🌐 Clojure | 📅 2026-06-11 – A beautifl idiomatic state management library.
 * [storage-atom](https://github.com/alandipert/storage-atom) ⭐ 194 | 🐛 10 | 🌐 Clojure | 📅 2022-10-28 – ClojureScript atoms backed by HTML5 web storage.
 * [Waltz](https://github.com/ibdknox/waltz) ⭐ 90 | 🐛 2 | 🌐 Clojure | 📅 2012-04-10 – A ClojureScript library that helps manage state in client-side applications using non-deterministic finite state machines.
@@ -219,11 +219,11 @@
 
 ### Web Framework & Template
 
-* [re-frame](https://github.com/Day8/re-frame) ⭐ 5,543 | 🐛 24 | 🌐 Clojure | 📅 2026-05-05 – A Reagent Framework For Writing SPAs, in Clojurescript.
+* [re-frame](https://github.com/Day8/re-frame) ⭐ 5,544 | 🐛 24 | 🌐 Clojure | 📅 2026-05-05 – A Reagent Framework For Writing SPAs, in Clojurescript.
 * [Chestnut](https://github.com/plexus/chestnut) ⚠️ Archived – An Application template for ClojureScript/Om with live reloading.
 * [Precept](https://github.com/CoNarrative/precept) ⭐ 664 | 🐛 38 | 🌐 Clojure | 📅 2022-12-06 – A declarative programming framework.
 * [descjop](https://github.com/karad/lein_template_descjop) ⚠️ Archived – A template for Web based desktop application with Electron.
-* [Macchiato](https://github.com/macchiato-framework/macchiato-core) ⭐ 384 | 🐛 16 | 🌐 Clojure | 📅 2025-12-31 – It aims to provide an easy to use platform for Node.js.
+* [Macchiato](https://github.com/macchiato-framework/macchiato-core) ⭐ 385 | 🐛 16 | 🌐 Clojure | 📅 2025-12-31 – It aims to provide an easy to use platform for Node.js.
 * [Mies](https://github.com/swannodette/mies) ⭐ 367 | 🐛 2 | 🌐 Clojure | 📅 2018-07-05 – A minimal ClojureScript project template.
 * [WebFUI](https://github.com/drcode/webfui) ⭐ 238 | 🐛 4 | 🌐 Clojure | 📅 2013-01-30 – Client-Side Web Framework for ClojureScript.
 * [Clops](https://github.com/sveri/closp) ⭐ 175 | 🐛 0 | 🌐 Clojure | 📅 2020-12-31 – An opinionated, full stack and easy to use web framework.
@@ -257,4 +257,4 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
