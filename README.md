@@ -89,7 +89,7 @@
 ### Database
 
 * [Datascript](https://github.com/tonsky/datascript) ⭐ 5,797 | 🐛 76 | 🌐 Clojure | 📅 2026-08-15 – An immutable in-memory database and Datalog query engine in ClojureScript.
-* [Konserve](https://github.com/replikativ/konserve) ⭐ 320 | 🐛 20 | 🌐 Clojure | 📅 2026-10-10 – A clojuresque key-value/document store protocol with core.async.
+* [Konserve](https://github.com/replikativ/konserve) ⭐ 320 | 🐛 21 | 🌐 Clojure | 📅 2026-10-23 – A clojuresque key-value/document store protocol with core.async.
 * [specql](https://github.com/tatut/specql) ⭐ 135 | 🐛 10 | 🌐 Clojure | 📅 2024-09-20 – Library for simple PostgreSQL queries with namespaced keys.
 * [Jaki](https://github.com/pandeiro/jaki) ⭐ 16 | 🐛 0 | 🌐 Clojure | 📅 2012-10-10 – A simple ClojureScript CouchDB client.
 
@@ -98,11 +98,11 @@
 * [lein-figwheel](https://github.com/bhauman/lein-figwheel) ⭐ 2,873 | 🐛 98 | 🌐 Clojure | 📅 2024-03-26 – Leiningen plugin that pushes ClojureScript code changes to the client.
 * [shadow-cljs](https://github.com/thheller/shadow-cljs) ⭐ 2,407 | 🐛 44 | 🌐 Clojure | 📅 2026-10-12 – ClojureScript compilation made easy
 * [Lumo](https://github.com/anmonteiro/lumo) ⚠️ Archived – Fast, cross-platform, standalone ClojureScript environment.
-* [Devcards](https://github.com/bhauman/devcards) ⭐ 1,535 | 🐛 30 | 🌐 Clojure | 📅 2023-09-17 – Devcards aims to provide a visual REPL experience for ClojureScript.
+* [Devcards](https://github.com/bhauman/devcards) ⭐ 1,534 | 🐛 30 | 🌐 Clojure | 📅 2023-09-17 – Devcards aims to provide a visual REPL experience for ClojureScript.
 * [cljs-devtools](https://github.com/binaryage/cljs-devtools) ⭐ 1,129 | 🐛 20 | 🌐 Clojure | 📅 2023-04-08 – Better presentation of ClojureScript values in Chrome Devtools.
 * [lein-cljsbuild](https://github.com/emezeske/lein-cljsbuild) ⭐ 1,093 | 🐛 49 | 🌐 Clojure | 📅 2021-03-19 – A Leiningen plugin to make ClojureScript development easy.
 * [Planck](https://github.com/mfikes/planck) ⭐ 1,038 | 🐛 94 | 🌐 C | 📅 2024-08-28 – A stand-alone ClojureScript REPL for macOS and Linux based on JavaScriptCore.
-* [Ambly](https://github.com/omcljs/ambly) ⭐ 538 | 🐛 9 | 🌐 Objective-C | 📅 2022-07-29 – A ClojureScript REPL into iOS JavaScriptCore.
+* [Ambly](https://github.com/omcljs/ambly) ⭐ 537 | 🐛 9 | 🌐 Objective-C | 📅 2022-07-29 – A ClojureScript REPL into iOS JavaScriptCore.
 * [Truss](https://github.com/ptaoussanis/truss) ⭐ 331 | 🐛 0 | 🌐 Clojure | 📅 2026-07-29 – An opinionated assertions API for Clojure/ClojureScript.
 * [Instaparse](https://github.com/lbradstreet/instaparse-cljs) ⚠️ Archived – It aims to be the simplest way to build parsers in ClojureScript.
 * [Ribol](http://docs.caudate.me/ribol/) – Conditional restarts for clojure/clojurescript.
@@ -206,7 +206,7 @@
 
 ### Testing
 
-* [cljs.test](https://github.com/clojure/clojurescript/wiki/Testing) ⭐ 9,390 | 🐛 7 | 🌐 Clojure | 📅 2026-10-15 – Integrated test framework for ClojureScript (merged from [clojurescript.test](https://github.com/cemerick/clojurescript.test) ⭐ 165 | 🐛 1 | 🌐 Clojure | 📅 2015-11-25)
+* [cljs.test](https://github.com/clojure/clojurescript/wiki/Testing) ⭐ 9,391 | 🐛 7 | 🌐 Clojure | 📅 2026-10-15 – Integrated test framework for ClojureScript (merged from [clojurescript.test](https://github.com/cemerick/clojurescript.test) ⭐ 165 | 🐛 1 | 🌐 Clojure | 📅 2015-11-25)
 * [test.check](https://github.com/clojure/test.check) ⭐ 1,155 | 🐛 0 | 🌐 Clojure | 📅 2025-12-30 – A generative property-based testing tool inspired by QuickCheck.
 * [Speclj](https://github.com/slagyr/speclj) ⭐ 488 | 🐛 30 | 🌐 Clojure | 📅 2026-04-30 – A TDD/BDD framework for Clojure and ClojureScript.
 * [Expectations](http://jayfields.com/expectations/) – A minimalist's unit testing framework.
@@ -257,4 +257,4 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
