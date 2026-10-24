@@ -66,7 +66,7 @@
 ### Canvas
 
 * [Monet](https://github.com/rm-hull/monet) ⭐ 170 | 🐛 5 | 🌐 Clojure | 📅 2017-01-06 – A small ClojureScript library to make it easier to work with canvas and visuals.
-* [Quamolit](https://github.com/Quamolit/quamolit) ⭐ 7 | 🐛 26 | 🌐 JavaScript | 📅 2026-10-22 – A tiny declarative animation library , inspired by React.
+* [Quamolit](https://github.com/Quamolit/quamolit) ⭐ 7 | 🐛 27 | 🌐 JavaScript | 📅 2026-10-24 – A tiny declarative animation library , inspired by React.
 
 ### Client/Server Communication
 
@@ -257,4 +257,4 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._

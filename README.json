@@ -38,8 +38,8 @@
                 "id": 341102081,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-22T05:24:40Z",
-                "open_issues": 26,
+                "last_commit": "2026-10-24T08:27:20Z",
+                "open_issues": 27,
                 "owner": "Quamolit",
                 "repo": "quamolit",
                 "stars": 7,
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T10:46:38.706Z",
+    "last_updated": "2026-10-24T10:02:54.622Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
@@ -2407,7 +2407,7 @@
       "open_issues": 6,
       "owner": "hantuzun",
       "repo": "awesome-clojurescript",
-      "stars": 1087,
+      "stars": 1088,
       "topics": [
         "awesome",
         "awesome-list",
