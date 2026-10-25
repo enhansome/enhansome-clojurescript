@@ -66,7 +66,7 @@
 ### Canvas
 
 * [Monet](https://github.com/rm-hull/monet) ⭐ 170 | 🐛 5 | 🌐 Clojure | 📅 2017-01-06 – A small ClojureScript library to make it easier to work with canvas and visuals.
-* [Quamolit](https://github.com/Quamolit/quamolit) ⭐ 7 | 🐛 27 | 🌐 JavaScript | 📅 2026-10-24 – A tiny declarative animation library , inspired by React.
+* [Quamolit](https://github.com/Quamolit/quamolit) ⭐ 7 | 🐛 26 | 🌐 JavaScript | 📅 2026-10-24 – A tiny declarative animation library , inspired by React.
 
 ### Client/Server Communication
 
@@ -88,7 +88,7 @@
 
 ### Database
 
-* [Datascript](https://github.com/tonsky/datascript) ⭐ 5,797 | 🐛 76 | 🌐 Clojure | 📅 2026-08-15 – An immutable in-memory database and Datalog query engine in ClojureScript.
+* [Datascript](https://github.com/tonsky/datascript) ⭐ 5,798 | 🐛 76 | 🌐 Clojure | 📅 2026-08-15 – An immutable in-memory database and Datalog query engine in ClojureScript.
 * [Konserve](https://github.com/replikativ/konserve) ⭐ 320 | 🐛 21 | 🌐 Clojure | 📅 2026-10-23 – A clojuresque key-value/document store protocol with core.async.
 * [specql](https://github.com/tatut/specql) ⭐ 135 | 🐛 10 | 🌐 Clojure | 📅 2024-09-20 – Library for simple PostgreSQL queries with namespaced keys.
 * [Jaki](https://github.com/pandeiro/jaki) ⭐ 16 | 🐛 0 | 🌐 Clojure | 📅 2012-10-10 – A simple ClojureScript CouchDB client.
@@ -176,7 +176,7 @@
 * [Quiescent](https://github.com/levand/quiescent) ⭐ 609 | 🐛 4 | 🌐 Clojure | 📅 2017-12-11 – It favors functional style, fully stateless.
 * [hx](https://github.com/Lokeh/hx) ⭐ 245 | 🐛 12 | 🌐 Clojure | 📅 2026-04-15 – Another simple, easy to use library for React development in ClojureScript.
 * [Brutha](https://github.com/weavejester/brutha) ⭐ 139 | 🐛 1 | 🌐 Clojure | 📅 2016-08-19 – A simple and functional ClojureScript interface to React.
-* [cljsx](https://github.com/peterhudec/cljsx) ⭐ 14 | 🐛 7 | 🌐 Clojure | 📅 2022-06-22 – [JSX](https://reactjs.org/docs/introducing-jsx.html) for Clojure and ClojureScript, also works with [Inferno](https://infernojs.org), [Nerv](https://nerv.aotu.io/), [Preact](https://preactjs.com/), [Snabbdome](https://github.com/snabbdom/snabbdom) ⭐ 12,385 | 🐛 86 | 🌐 TypeScript | 📅 2026-06-17 and others.
+* [cljsx](https://github.com/peterhudec/cljsx) ⭐ 14 | 🐛 7 | 🌐 Clojure | 📅 2022-06-22 – [JSX](https://reactjs.org/docs/introducing-jsx.html) for Clojure and ClojureScript, also works with [Inferno](https://infernojs.org), [Nerv](https://nerv.aotu.io/), [Preact](https://preactjs.com/), [Snabbdome](https://github.com/snabbdom/snabbdom) ⭐ 12,386 | 🐛 86 | 🌐 TypeScript | 📅 2026-06-17 and others.
 * [Reagent](http://reagent-project.github.io/) – Minimalistic, feature complete.
 
 ### Reactive Programming
@@ -196,7 +196,7 @@
 
 ### State Management
 
-* [component](https://github.com/stuartsierra/component) ⭐ 2,167 | 🐛 3 | 🌐 Clojure | 📅 2025-10-25 – Managed lifecycle of stateful objects in Clojure(Script).
+* [component](https://github.com/stuartsierra/component) ⭐ 2,168 | 🐛 3 | 🌐 Clojure | 📅 2025-10-25 – Managed lifecycle of stateful objects in Clojure(Script).
 * [mount](https://github.com/tolitius/mount) ⭐ 1,255 | 🐛 30 | 🌐 Clojure | 📅 2026-06-11 – A beautifl idiomatic state management library.
 * [storage-atom](https://github.com/alandipert/storage-atom) ⭐ 194 | 🐛 10 | 🌐 Clojure | 📅 2022-10-28 – ClojureScript atoms backed by HTML5 web storage.
 * [Waltz](https://github.com/ibdknox/waltz) ⭐ 90 | 🐛 2 | 🌐 Clojure | 📅 2012-04-10 – A ClojureScript library that helps manage state in client-side applications using non-deterministic finite state machines.
@@ -206,7 +206,7 @@
 
 ### Testing
 
-* [cljs.test](https://github.com/clojure/clojurescript/wiki/Testing) ⭐ 9,391 | 🐛 7 | 🌐 Clojure | 📅 2026-10-15 – Integrated test framework for ClojureScript (merged from [clojurescript.test](https://github.com/cemerick/clojurescript.test) ⭐ 165 | 🐛 1 | 🌐 Clojure | 📅 2015-11-25)
+* [cljs.test](https://github.com/clojure/clojurescript/wiki/Testing) ⭐ 9,392 | 🐛 8 | 🌐 Clojure | 📅 2026-10-24 – Integrated test framework for ClojureScript (merged from [clojurescript.test](https://github.com/cemerick/clojurescript.test) ⭐ 165 | 🐛 1 | 🌐 Clojure | 📅 2015-11-25)
 * [test.check](https://github.com/clojure/test.check) ⭐ 1,155 | 🐛 0 | 🌐 Clojure | 📅 2025-12-30 – A generative property-based testing tool inspired by QuickCheck.
 * [Speclj](https://github.com/slagyr/speclj) ⭐ 488 | 🐛 30 | 🌐 Clojure | 📅 2026-04-30 – A TDD/BDD framework for Clojure and ClojureScript.
 * [Expectations](http://jayfields.com/expectations/) – A minimalist's unit testing framework.
@@ -219,7 +219,7 @@
 
 ### Web Framework & Template
 
-* [re-frame](https://github.com/Day8/re-frame) ⭐ 5,544 | 🐛 24 | 🌐 Clojure | 📅 2026-05-05 – A Reagent Framework For Writing SPAs, in Clojurescript.
+* [re-frame](https://github.com/Day8/re-frame) ⭐ 5,545 | 🐛 24 | 🌐 Clojure | 📅 2026-05-05 – A Reagent Framework For Writing SPAs, in Clojurescript.
 * [Chestnut](https://github.com/plexus/chestnut) ⚠️ Archived – An Application template for ClojureScript/Om with live reloading.
 * [Precept](https://github.com/CoNarrative/precept) ⭐ 664 | 🐛 38 | 🌐 Clojure | 📅 2022-12-06 – A declarative programming framework.
 * [descjop](https://github.com/karad/lein_template_descjop) ⚠️ Archived – A template for Web based desktop application with Electron.
@@ -257,4 +257,4 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._

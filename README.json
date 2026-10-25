@@ -38,8 +38,8 @@
                 "id": 341102081,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-24T08:27:20Z",
-                "open_issues": 27,
+                "last_commit": "2026-10-24T10:49:08Z",
+                "open_issues": 26,
                 "owner": "Quamolit",
                 "repo": "quamolit",
                 "stars": 7,
@@ -199,7 +199,7 @@
                 "open_issues": 76,
                 "owner": "tonsky",
                 "repo": "datascript",
-                "stars": 5797,
+                "stars": 5798,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -1822,7 +1822,7 @@
                 "open_issues": 3,
                 "owner": "stuartsierra",
                 "repo": "component",
-                "stars": 2167,
+                "stars": 2168,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -1955,11 +1955,11 @@
                 "id": 2080922,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-10-15T15:41:32Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-24T18:09:55Z",
+                "open_issues": 8,
                 "owner": "clojure",
                 "repo": "clojurescript",
-                "stars": 9391,
+                "stars": 9392,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -2087,7 +2087,7 @@
                 "open_issues": 24,
                 "owner": "day8",
                 "repo": "re-frame",
-                "stars": 5544,
+                "stars": 5545,
                 "topics": [
                   "clojurescript",
                   "re-frame",
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T10:02:54.622Z",
+    "last_updated": "2026-10-25T10:27:54.502Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
