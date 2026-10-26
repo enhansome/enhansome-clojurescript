@@ -66,7 +66,7 @@
 ### Canvas
 
 * [Monet](https://github.com/rm-hull/monet) ⭐ 170 | 🐛 5 | 🌐 Clojure | 📅 2017-01-06 – A small ClojureScript library to make it easier to work with canvas and visuals.
-* [Quamolit](https://github.com/Quamolit/quamolit) ⭐ 7 | 🐛 26 | 🌐 JavaScript | 📅 2026-10-24 – A tiny declarative animation library , inspired by React.
+* [Quamolit](https://github.com/Quamolit/quamolit) ⭐ 7 | 🐛 26 | 🌐 JavaScript | 📅 2026-10-26 – A tiny declarative animation library , inspired by React.
 
 ### Client/Server Communication
 
@@ -206,7 +206,7 @@
 
 ### Testing
 
-* [cljs.test](https://github.com/clojure/clojurescript/wiki/Testing) ⭐ 9,392 | 🐛 8 | 🌐 Clojure | 📅 2026-10-24 – Integrated test framework for ClojureScript (merged from [clojurescript.test](https://github.com/cemerick/clojurescript.test) ⭐ 165 | 🐛 1 | 🌐 Clojure | 📅 2015-11-25)
+* [cljs.test](https://github.com/clojure/clojurescript/wiki/Testing) ⭐ 9,393 | 🐛 8 | 🌐 Clojure | 📅 2026-10-24 – Integrated test framework for ClojureScript (merged from [clojurescript.test](https://github.com/cemerick/clojurescript.test) ⭐ 165 | 🐛 1 | 🌐 Clojure | 📅 2015-11-25)
 * [test.check](https://github.com/clojure/test.check) ⭐ 1,155 | 🐛 0 | 🌐 Clojure | 📅 2025-12-30 – A generative property-based testing tool inspired by QuickCheck.
 * [Speclj](https://github.com/slagyr/speclj) ⭐ 488 | 🐛 30 | 🌐 Clojure | 📅 2026-04-30 – A TDD/BDD framework for Clojure and ClojureScript.
 * [Expectations](http://jayfields.com/expectations/) – A minimalist's unit testing framework.
@@ -257,4 +257,4 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
