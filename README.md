@@ -96,7 +96,7 @@
 ### Development
 
 * [lein-figwheel](https://github.com/bhauman/lein-figwheel) ⭐ 2,873 | 🐛 98 | 🌐 Clojure | 📅 2024-03-26 – Leiningen plugin that pushes ClojureScript code changes to the client.
-* [shadow-cljs](https://github.com/thheller/shadow-cljs) ⭐ 2,407 | 🐛 44 | 🌐 Clojure | 📅 2026-10-12 – ClojureScript compilation made easy
+* [shadow-cljs](https://github.com/thheller/shadow-cljs) ⭐ 2,407 | 🐛 43 | 🌐 Clojure | 📅 2026-10-26 – ClojureScript compilation made easy
 * [Lumo](https://github.com/anmonteiro/lumo) ⚠️ Archived – Fast, cross-platform, standalone ClojureScript environment.
 * [Devcards](https://github.com/bhauman/devcards) ⭐ 1,534 | 🐛 30 | 🌐 Clojure | 📅 2023-09-17 – Devcards aims to provide a visual REPL experience for ClojureScript.
 * [cljs-devtools](https://github.com/binaryage/cljs-devtools) ⭐ 1,129 | 🐛 20 | 🌐 Clojure | 📅 2023-04-08 – Better presentation of ClojureScript values in Chrome Devtools.
@@ -154,7 +154,7 @@
 
 ### Miscellaneous
 
-* [core.async](https://github.com/clojure/core.async/) ⭐ 2,054 | 🐛 2 | 🌐 Clojure | 📅 2026-06-12 – A Clojure(Script) library designed to provide facilities for async programming and communication.
+* [core.async](https://github.com/clojure/core.async/) ⭐ 2,055 | 🐛 2 | 🌐 Clojure | 📅 2026-06-12 – A Clojure(Script) library designed to provide facilities for async programming and communication.
 * [Automat](https://github.com/ztellman/automat) ⚠️ Archived – A Clojure(Script) library for defining and using finite-state automata, inspired by Ragel.
 * [markdown-clj](https://github.com/yogthos/markdown-clj) ⭐ 577 | 🐛 21 | 🌐 Clojure | 📅 2026-08-28 – Markdown parser in Clojure/ClojureScript.
 * [om-tools](https://github.com/plumatic/om-tools) ⭐ 433 | 🐛 9 | 🌐 Clojure | 📅 2018-07-07 – It aims to provide higher-order abstractions and utilities frequently useful when building components with Om's API.
@@ -257,4 +257,4 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
