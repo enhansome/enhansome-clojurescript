@@ -357,7 +357,7 @@
                 "open_issues": 111,
                 "owner": "anmonteiro",
                 "repo": "lumo",
-                "stars": 1873,
+                "stars": 1872,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -2348,7 +2348,7 @@
                 "open_issues": 4,
                 "owner": "taoensso",
                 "repo": "sente",
-                "stars": 1795,
+                "stars": 1796,
                 "topics": [
                   "ajax",
                   "async",
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T12:01:24.396Z",
+    "last_updated": "2026-10-30T11:55:06.263Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
