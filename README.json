@@ -357,7 +357,7 @@
                 "open_issues": 111,
                 "owner": "anmonteiro",
                 "repo": "lumo",
-                "stars": 1872,
+                "stars": 1873,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T11:55:06.263Z",
+    "last_updated": "2026-10-31T11:29:01.353Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
