@@ -1412,7 +1412,7 @@
                 "open_issues": 81,
                 "owner": "omcljs",
                 "repo": "om",
-                "stars": 6614,
+                "stars": 6615,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -1980,7 +1980,7 @@
                 "open_issues": 0,
                 "owner": "clojure",
                 "repo": "test.check",
-                "stars": 1156,
+                "stars": 1157,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T12:24:42.860Z",
+    "last_updated": "2026-11-02T14:20:57.111Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
