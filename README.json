@@ -327,7 +327,7 @@
                 "id": 43973779,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-10-29T11:25:44Z",
+                "last_commit": "2026-11-02T15:36:40Z",
                 "open_issues": 43,
                 "owner": "thheller",
                 "repo": "shadow-cljs",
@@ -1378,7 +1378,7 @@
                 "open_issues": 0,
                 "owner": "Jarzka",
                 "repo": "namespacefy",
-                "stars": 21,
+                "stars": 23,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -1412,7 +1412,7 @@
                 "open_issues": 81,
                 "owner": "omcljs",
                 "repo": "om",
-                "stars": 6615,
+                "stars": 6613,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -1959,7 +1959,7 @@
                 "open_issues": 8,
                 "owner": "clojure",
                 "repo": "clojurescript",
-                "stars": 9394,
+                "stars": 9393,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T14:20:57.111Z",
+    "last_updated": "2026-11-03T13:20:40.464Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
