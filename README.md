@@ -96,7 +96,7 @@
 ### Development
 
 * [lein-figwheel](https://github.com/bhauman/lein-figwheel) ⭐ 2,873 | 🐛 97 | 🌐 Clojure | 📅 2024-03-26 – Leiningen plugin that pushes ClojureScript code changes to the client.
-* [shadow-cljs](https://github.com/thheller/shadow-cljs) ⭐ 2,407 | 🐛 43 | 🌐 Clojure | 📅 2026-11-02 – ClojureScript compilation made easy
+* [shadow-cljs](https://github.com/thheller/shadow-cljs) ⭐ 2,408 | 🐛 43 | 🌐 Clojure | 📅 2026-11-02 – ClojureScript compilation made easy
 * [Lumo](https://github.com/anmonteiro/lumo) ⚠️ Archived – Fast, cross-platform, standalone ClojureScript environment.
 * [Devcards](https://github.com/bhauman/devcards) ⭐ 1,534 | 🐛 30 | 🌐 Clojure | 📅 2023-09-17 – Devcards aims to provide a visual REPL experience for ClojureScript.
 * [cljs-devtools](https://github.com/binaryage/cljs-devtools) ⭐ 1,129 | 🐛 20 | 🌐 Clojure | 📅 2023-04-08 – Better presentation of ClojureScript values in Chrome Devtools.
@@ -128,7 +128,7 @@
 
 ### Graphics
 
-* [Quil](https://github.com/quil/quil) ⭐ 3,052 | 🐛 47 | 🌐 Clojure | 📅 2026-04-24 – A processing and graphics programming library.
+* [Quil](https://github.com/quil/quil) ⭐ 3,050 | 🐛 47 | 🌐 Clojure | 📅 2026-04-24 – A processing and graphics programming library.
 * [geom](https://github.com/thi-ng/geom) ⭐ 998 | 🐛 33 | 🌐 Clojure | 📅 2025-03-22 – A 2D/3D geometry toolkit for Clojure/Clojurescript.
 
 ### HTTP Handler
@@ -170,8 +170,8 @@
 ### [React.js](https://facebook.github.io/react/) Interface
 
 * [Om](https://github.com/omcljs/om) ⭐ 6,613 | 🐛 81 | 🌐 Clojure | 📅 2020-08-17 – A powerful interface to React, makes use of its object oriented structures.
-* [Rum](https://github.com/tonsky/rum) ⭐ 1,829 | 🐛 23 | 🌐 HTML | 📅 2025-04-14 – Decomplected, extensible, simple.
-* [re-com](https://github.com/Day8/re-com) ⭐ 824 | 🐛 52 | 🌐 Clojure | 📅 2026-09-30 – A ClojureScript library of reusable components for Reagent.
+* [Rum](https://github.com/tonsky/rum) ⭐ 1,830 | 🐛 23 | 🌐 HTML | 📅 2025-04-14 – Decomplected, extensible, simple.
+* [re-com](https://github.com/Day8/re-com) ⭐ 825 | 🐛 52 | 🌐 Clojure | 📅 2026-09-30 – A ClojureScript library of reusable components for Reagent.
 * [Helix](https://github.com/lilactown/helix) ⭐ 675 | 🐛 15 | 🌐 Clojure | 📅 2026-01-05 – A simple, easy to use library for React development in ClojureScript with very few semantics on top of React.
 * [Quiescent](https://github.com/levand/quiescent) ⭐ 610 | 🐛 4 | 🌐 Clojure | 📅 2017-12-11 – It favors functional style, fully stateless.
 * [hx](https://github.com/Lokeh/hx) ⭐ 244 | 🐛 12 | 🌐 Clojure | 📅 2026-04-15 – Another simple, easy to use library for React development in ClojureScript.
@@ -183,7 +183,7 @@
 
 * [Javelin](https://github.com/hoplon/javelin) ⭐ 826 | 🐛 7 | 🌐 Clojure | 📅 2023-10-31 – A Functional Reactive Programming library for ClojureScript.
 * [Reagi](https://github.com/weavejester/reagi) ⭐ 234 | 🐛 4 | 🌐 Clojure | 📅 2016-03-04 – An FRP library for Clojure and ClojureScript, built on top of core.async.
-* [Manifold-cljs](https://github.com/dm3/manifold-cljs) ⭐ 50 | 🐛 1 | 🌐 Clojure | 📅 2019-12-20 – A port of [Manifold](https://github.com/ztellman/manifold) ⭐ 1,056 | 🐛 33 | 🌐 Clojure | 📅 2026-03-16 to ClojureScript.
+* [Manifold-cljs](https://github.com/dm3/manifold-cljs) ⭐ 50 | 🐛 1 | 🌐 Clojure | 📅 2019-12-20 – A port of [Manifold](https://github.com/ztellman/manifold) ⭐ 1,057 | 🐛 33 | 🌐 Clojure | 📅 2026-03-16 to ClojureScript.
 * [rx-cljs](https://github.com/leonardoborges/rx-cljs) ⭐ 44 | 🐛 0 | 🌐 Clojure | 📅 2013-05-21 – A ClojureScript wrapper for Reactive Extensions (Rx) for Javascript.
 * [Yolk](https://github.com/Cicayda/yolk) – A thin ClojureScript wrapper around bacon.js.
 
@@ -219,7 +219,7 @@
 
 ### Web Framework & Template
 
-* [re-frame](https://github.com/Day8/re-frame) ⭐ 5,545 | 🐛 24 | 🌐 Clojure | 📅 2026-05-05 – A Reagent Framework For Writing SPAs, in Clojurescript.
+* [re-frame](https://github.com/Day8/re-frame) ⭐ 5,546 | 🐛 24 | 🌐 Clojure | 📅 2026-05-05 – A Reagent Framework For Writing SPAs, in Clojurescript.
 * [Chestnut](https://github.com/plexus/chestnut) ⚠️ Archived – An Application template for ClojureScript/Om with live reloading.
 * [Precept](https://github.com/CoNarrative/precept) ⭐ 663 | 🐛 38 | 🌐 Clojure | 📅 2022-12-06 – A declarative programming framework.
 * [descjop](https://github.com/karad/lein_template_descjop) ⚠️ Archived – A template for Web based desktop application with Electron.
@@ -257,4 +257,4 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
