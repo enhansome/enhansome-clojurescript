@@ -66,7 +66,7 @@
 ### Canvas
 
 * [Monet](https://github.com/rm-hull/monet) ⭐ 170 | 🐛 5 | 🌐 Clojure | 📅 2017-01-06 – A small ClojureScript library to make it easier to work with canvas and visuals.
-* [Quamolit](https://github.com/Quamolit/quamolit) ⭐ 7 | 🐛 28 | 🌐 JavaScript | 📅 2026-11-03 – A tiny declarative animation library , inspired by React.
+* [Quamolit](https://github.com/Quamolit/quamolit) ⭐ 7 | 🐛 28 | 🌐 JavaScript | 📅 2026-11-06 – A tiny declarative animation library , inspired by React.
 
 ### Client/Server Communication
 
@@ -88,7 +88,7 @@
 
 ### Database
 
-* [Datascript](https://github.com/tonsky/datascript) ⭐ 5,798 | 🐛 76 | 🌐 Clojure | 📅 2026-08-15 – An immutable in-memory database and Datalog query engine in ClojureScript.
+* [Datascript](https://github.com/tonsky/datascript) ⭐ 5,799 | 🐛 76 | 🌐 Clojure | 📅 2026-08-15 – An immutable in-memory database and Datalog query engine in ClojureScript.
 * [Konserve](https://github.com/replikativ/konserve) ⭐ 320 | 🐛 21 | 🌐 Clojure | 📅 2026-10-23 – A clojuresque key-value/document store protocol with core.async.
 * [specql](https://github.com/tatut/specql) ⭐ 135 | 🐛 10 | 🌐 Clojure | 📅 2024-09-20 – Library for simple PostgreSQL queries with namespaced keys.
 * [Jaki](https://github.com/pandeiro/jaki) ⭐ 16 | 🐛 0 | 🌐 Clojure | 📅 2012-10-10 – A simple ClojureScript CouchDB client.
@@ -176,7 +176,7 @@
 * [Quiescent](https://github.com/levand/quiescent) ⭐ 610 | 🐛 4 | 🌐 Clojure | 📅 2017-12-11 – It favors functional style, fully stateless.
 * [hx](https://github.com/Lokeh/hx) ⭐ 244 | 🐛 12 | 🌐 Clojure | 📅 2026-04-15 – Another simple, easy to use library for React development in ClojureScript.
 * [Brutha](https://github.com/weavejester/brutha) ⭐ 139 | 🐛 1 | 🌐 Clojure | 📅 2016-08-19 – A simple and functional ClojureScript interface to React.
-* [cljsx](https://github.com/peterhudec/cljsx) ⭐ 14 | 🐛 7 | 🌐 Clojure | 📅 2022-06-22 – [JSX](https://reactjs.org/docs/introducing-jsx.html) for Clojure and ClojureScript, also works with [Inferno](https://infernojs.org), [Nerv](https://nerv.aotu.io/), [Preact](https://preactjs.com/), [Snabbdome](https://github.com/snabbdom/snabbdom) ⭐ 12,387 | 🐛 86 | 🌐 TypeScript | 📅 2026-06-17 and others.
+* [cljsx](https://github.com/peterhudec/cljsx) ⭐ 14 | 🐛 7 | 🌐 Clojure | 📅 2022-06-22 – [JSX](https://reactjs.org/docs/introducing-jsx.html) for Clojure and ClojureScript, also works with [Inferno](https://infernojs.org), [Nerv](https://nerv.aotu.io/), [Preact](https://preactjs.com/), [Snabbdome](https://github.com/snabbdom/snabbdom) ⭐ 12,384 | 🐛 86 | 🌐 TypeScript | 📅 2026-06-17 and others.
 * [Reagent](http://reagent-project.github.io/) – Minimalistic, feature complete.
 
 ### Reactive Programming
@@ -238,7 +238,7 @@
 
 ### WebSockets
 
-* [Sente](https://github.com/ptaoussanis/sente) ⭐ 1,796 | 🐛 4 | 🌐 Clojure | 📅 2026-08-21 – Clojure(Script) + core.async + WebSockets/Ajax.
+* [Sente](https://github.com/ptaoussanis/sente) ⭐ 1,795 | 🐛 4 | 🌐 Clojure | 📅 2026-08-21 – Clojure(Script) + core.async + WebSockets/Ajax.
 * [Chord](https://github.com/jarohen/chord) ⭐ 442 | 🐛 7 | 🌐 Clojure | 📅 2020-07-12 – Designed to bridge the gap between the triad of CLJ/CLJS, web-sockets and core.async.
 
 ***
@@ -257,4 +257,4 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
