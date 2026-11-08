@@ -38,7 +38,7 @@
                 "id": 341102081,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-11-07T10:07:23Z",
+                "last_commit": "2026-11-08T10:03:25Z",
                 "open_issues": 28,
                 "owner": "Quamolit",
                 "repo": "quamolit",
@@ -843,7 +843,7 @@
                 "open_issues": 47,
                 "owner": "quil",
                 "repo": "quil",
-                "stars": 3050,
+                "stars": 3052,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -1707,7 +1707,7 @@
                 "open_issues": 60,
                 "owner": "juxt",
                 "repo": "bidi",
-                "stars": 999,
+                "stars": 998,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -1955,11 +1955,11 @@
                 "id": 2080922,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-10-24T18:09:55Z",
+                "last_commit": "2026-11-07T12:28:04Z",
                 "open_issues": 8,
                 "owner": "clojure",
                 "repo": "clojurescript",
-                "stars": 9394,
+                "stars": 9393,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T12:10:36.383Z",
+    "last_updated": "2026-11-08T12:31:00.397Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
