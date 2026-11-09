@@ -66,7 +66,7 @@
 ### Canvas
 
 * [Monet](https://github.com/rm-hull/monet) ⭐ 170 | 🐛 5 | 🌐 Clojure | 📅 2017-01-06 – A small ClojureScript library to make it easier to work with canvas and visuals.
-* [Quamolit](https://github.com/Quamolit/quamolit) ⭐ 7 | 🐛 28 | 🌐 JavaScript | 📅 2026-11-08 – A tiny declarative animation library , inspired by React.
+* [Quamolit](https://github.com/Quamolit/quamolit) ⭐ 7 | 🐛 28 | 🌐 JavaScript | 📅 2026-11-09 – A tiny declarative animation library , inspired by React.
 
 ### Client/Server Communication
 
@@ -111,7 +111,7 @@
 
 * [Dommy](https://github.com/plumatic/dommy) ⭐ 756 | 🐛 12 | 🌐 Clojure | 📅 2018-01-07 – A no-nonsense ClojureScript templating and DOM manipulation library.
 * [Sablono](https://github.com/r0man/sablono) ⭐ 688 | 🐛 16 | 🌐 Clojure | 📅 2020-08-04 – Lisp/Hiccup style templating for Facebook's React in ClojureScript.
-* [Hickory](https://github.com/davidsantiago/hickory) ⭐ 679 | 🐛 14 | 🌐 Clojure | 📅 2026-04-20 – It parses HTML into Clojure data structures, so you can analyze, transform, and output back to HTML.
+* [Hickory](https://github.com/davidsantiago/hickory) ⭐ 679 | 🐛 13 | 🌐 Clojure | 📅 2026-11-09 – It parses HTML into Clojure data structures, so you can analyze, transform, and output back to HTML.
 * [Kioo](https://github.com/ckirkendall/kioo) ⭐ 400 | 🐛 11 | 🌐 Clojure | 📅 2018-05-01 – DOM manipulation and templating library for Facebook's React and Om in ClojureScript.
 * [Freactive](https://github.com/aaronc/freactive) ⭐ 385 | 🐛 20 | 🌐 Clojure | 📅 2015-11-12 – A high-performance, pure Clojurescript, declarative DOM library inspired by reagent, om, reflex and hiccup.
 * [Respo](https://github.com/mvc-works/respo) ⭐ 236 | 🐛 0 | 🌐 Cirru | 📅 2025-08-25 – A responsive DOM library, inspired by React.
@@ -128,7 +128,7 @@
 
 ### Graphics
 
-* [Quil](https://github.com/quil/quil) ⭐ 3,052 | 🐛 47 | 🌐 Clojure | 📅 2026-04-24 – A processing and graphics programming library.
+* [Quil](https://github.com/quil/quil) ⭐ 3,053 | 🐛 47 | 🌐 Clojure | 📅 2026-04-24 – A processing and graphics programming library.
 * [geom](https://github.com/thi-ng/geom) ⭐ 999 | 🐛 33 | 🌐 Clojure | 📅 2025-03-22 – A 2D/3D geometry toolkit for Clojure/Clojurescript.
 
 ### HTTP Handler
@@ -257,4 +257,4 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
