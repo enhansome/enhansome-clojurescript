@@ -38,7 +38,7 @@
                 "id": 341102081,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-11-13T09:13:22Z",
+                "last_commit": "2026-11-14T04:49:03Z",
                 "open_issues": 28,
                 "owner": "Quamolit",
                 "repo": "quamolit",
@@ -407,7 +407,7 @@
                 "open_issues": 20,
                 "owner": "binaryage",
                 "repo": "cljs-devtools",
-                "stars": 1130,
+                "stars": 1129,
                 "topics": [
                   "chrome-devtools",
                   "clojurescript",
@@ -1130,7 +1130,7 @@
                 "open_issues": 2,
                 "owner": "clojure",
                 "repo": "core.async",
-                "stars": 2055,
+                "stars": 2056,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -1168,7 +1168,7 @@
                 "id": 2551308,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-08-28T18:44:48Z",
+                "last_commit": "2026-11-13T23:26:16Z",
                 "open_issues": 23,
                 "owner": "yogthos",
                 "repo": "markdown-clj",
@@ -1412,7 +1412,7 @@
                 "open_issues": 81,
                 "owner": "omcljs",
                 "repo": "om",
-                "stars": 6614,
+                "stars": 6612,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -1482,7 +1482,7 @@
                 "open_issues": 14,
                 "owner": "lilactown",
                 "repo": "helix",
-                "stars": 675,
+                "stars": 676,
                 "topics": [
                   "cljs",
                   "clojurescript",
@@ -1822,7 +1822,7 @@
                 "open_issues": 3,
                 "owner": "stuartsierra",
                 "repo": "component",
-                "stars": 2169,
+                "stars": 2167,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -1997,8 +1997,8 @@
                 "id": 1063787,
                 "language": "Clojure",
                 "license": "MIT",
-                "last_commit": "2026-04-30T17:00:36Z",
-                "open_issues": 31,
+                "last_commit": "2026-11-13T21:59:01Z",
+                "open_issues": 29,
                 "owner": "slagyr",
                 "repo": "speclj",
                 "stars": 487,
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T13:42:01.141Z",
+    "last_updated": "2026-11-14T12:46:16.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
