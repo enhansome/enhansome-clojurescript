@@ -199,7 +199,7 @@
                 "open_issues": 76,
                 "owner": "tonsky",
                 "repo": "datascript",
-                "stars": 5798,
+                "stars": 5799,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -603,7 +603,7 @@
                 "open_issues": 13,
                 "owner": "clj-commons",
                 "repo": "hickory",
-                "stars": 679,
+                "stars": 680,
                 "topics": [
                   "clojure",
                   "html-parser"
@@ -1168,8 +1168,8 @@
                 "id": 2551308,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-11-14T20:18:22Z",
-                "open_issues": 23,
+                "last_commit": "2026-11-15T14:07:07Z",
+                "open_issues": 22,
                 "owner": "yogthos",
                 "repo": "markdown-clj",
                 "stars": 577,
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T13:14:05.919Z",
+    "last_updated": "2026-11-16T14:23:49.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",

@@ -88,7 +88,7 @@
 
 ### Database
 
-* [Datascript](https://github.com/tonsky/datascript) ⭐ 5,798 | 🐛 76 | 🌐 Clojure | 📅 2026-08-15 – An immutable in-memory database and Datalog query engine in ClojureScript.
+* [Datascript](https://github.com/tonsky/datascript) ⭐ 5,799 | 🐛 76 | 🌐 Clojure | 📅 2026-08-15 – An immutable in-memory database and Datalog query engine in ClojureScript.
 * [Konserve](https://github.com/replikativ/konserve) ⭐ 321 | 🐛 21 | 🌐 Clojure | 📅 2026-10-23 – A clojuresque key-value/document store protocol with core.async.
 * [specql](https://github.com/tatut/specql) ⭐ 135 | 🐛 10 | 🌐 Clojure | 📅 2024-09-20 – Library for simple PostgreSQL queries with namespaced keys.
 * [Jaki](https://github.com/pandeiro/jaki) ⭐ 16 | 🐛 0 | 🌐 Clojure | 📅 2012-10-10 – A simple ClojureScript CouchDB client.
@@ -111,7 +111,7 @@
 
 * [Dommy](https://github.com/plumatic/dommy) ⭐ 756 | 🐛 12 | 🌐 Clojure | 📅 2018-01-07 – A no-nonsense ClojureScript templating and DOM manipulation library.
 * [Sablono](https://github.com/r0man/sablono) ⭐ 688 | 🐛 16 | 🌐 Clojure | 📅 2020-08-04 – Lisp/Hiccup style templating for Facebook's React in ClojureScript.
-* [Hickory](https://github.com/davidsantiago/hickory) ⭐ 679 | 🐛 13 | 🌐 Clojure | 📅 2026-11-09 – It parses HTML into Clojure data structures, so you can analyze, transform, and output back to HTML.
+* [Hickory](https://github.com/davidsantiago/hickory) ⭐ 680 | 🐛 13 | 🌐 Clojure | 📅 2026-11-09 – It parses HTML into Clojure data structures, so you can analyze, transform, and output back to HTML.
 * [Kioo](https://github.com/ckirkendall/kioo) ⭐ 400 | 🐛 11 | 🌐 Clojure | 📅 2018-05-01 – DOM manipulation and templating library for Facebook's React and Om in ClojureScript.
 * [Freactive](https://github.com/aaronc/freactive) ⭐ 385 | 🐛 20 | 🌐 Clojure | 📅 2015-11-12 – A high-performance, pure Clojurescript, declarative DOM library inspired by reagent, om, reflex and hiccup.
 * [Respo](https://github.com/mvc-works/respo) ⭐ 236 | 🐛 0 | 🌐 Cirru | 📅 2025-08-25 – A responsive DOM library, inspired by React.
@@ -156,7 +156,7 @@
 
 * [core.async](https://github.com/clojure/core.async/) ⭐ 2,055 | 🐛 2 | 🌐 Clojure | 📅 2026-06-12 – A Clojure(Script) library designed to provide facilities for async programming and communication.
 * [Automat](https://github.com/ztellman/automat) ⚠️ Archived – A Clojure(Script) library for defining and using finite-state automata, inspired by Ragel.
-* [markdown-clj](https://github.com/yogthos/markdown-clj) ⭐ 577 | 🐛 23 | 🌐 Clojure | 📅 2026-11-14 – Markdown parser in Clojure/ClojureScript.
+* [markdown-clj](https://github.com/yogthos/markdown-clj) ⭐ 577 | 🐛 22 | 🌐 Clojure | 📅 2026-11-15 – Markdown parser in Clojure/ClojureScript.
 * [om-tools](https://github.com/plumatic/om-tools) ⭐ 433 | 🐛 9 | 🌐 Clojure | 📅 2018-07-07 – It aims to provide higher-order abstractions and utilities frequently useful when building components with Om's API.
 * [reagent-forms](https://github.com/reagent-project/reagent-forms/) ⭐ 342 | 🐛 9 | 🌐 HTML | 📅 2020-04-27 – Bootstrap form components for Reagent.
 * [inflections-clj](https://github.com/r0man/inflections-clj) ⭐ 223 | 🐛 4 | 🌐 Clojure | 📅 2025-08-14 – Rails-like inflection library for Clojure and ClojureScript.
@@ -176,7 +176,7 @@
 * [Quiescent](https://github.com/levand/quiescent) ⭐ 610 | 🐛 4 | 🌐 Clojure | 📅 2017-12-11 – It favors functional style, fully stateless.
 * [hx](https://github.com/Lokeh/hx) ⭐ 244 | 🐛 12 | 🌐 Clojure | 📅 2026-04-15 – Another simple, easy to use library for React development in ClojureScript.
 * [Brutha](https://github.com/weavejester/brutha) ⭐ 139 | 🐛 1 | 🌐 Clojure | 📅 2016-08-19 – A simple and functional ClojureScript interface to React.
-* [cljsx](https://github.com/peterhudec/cljsx) ⭐ 14 | 🐛 7 | 🌐 Clojure | 📅 2022-06-22 – [JSX](https://reactjs.org/docs/introducing-jsx.html) for Clojure and ClojureScript, also works with [Inferno](https://infernojs.org), [Nerv](https://nerv.aotu.io/), [Preact](https://preactjs.com/), [Snabbdome](https://github.com/snabbdom/snabbdom) ⭐ 12,385 | 🐛 86 | 🌐 TypeScript | 📅 2026-06-17 and others.
+* [cljsx](https://github.com/peterhudec/cljsx) ⭐ 14 | 🐛 7 | 🌐 Clojure | 📅 2022-06-22 – [JSX](https://reactjs.org/docs/introducing-jsx.html) for Clojure and ClojureScript, also works with [Inferno](https://infernojs.org), [Nerv](https://nerv.aotu.io/), [Preact](https://preactjs.com/), [Snabbdome](https://github.com/snabbdom/snabbdom) ⭐ 12,384 | 🐛 86 | 🌐 TypeScript | 📅 2026-06-17 and others.
 * [Reagent](http://reagent-project.github.io/) – Minimalistic, feature complete.
 
 ### Reactive Programming
@@ -257,4 +257,4 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
