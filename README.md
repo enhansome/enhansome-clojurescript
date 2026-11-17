@@ -66,7 +66,7 @@
 ### Canvas
 
 * [Monet](https://github.com/rm-hull/monet) ⭐ 170 | 🐛 5 | 🌐 Clojure | 📅 2017-01-06 – A small ClojureScript library to make it easier to work with canvas and visuals.
-* [Quamolit](https://github.com/Quamolit/quamolit) ⭐ 7 | 🐛 28 | 🌐 JavaScript | 📅 2026-11-15 – A tiny declarative animation library , inspired by React.
+* [Quamolit](https://github.com/Quamolit/quamolit) ⭐ 7 | 🐛 29 | 🌐 JavaScript | 📅 2026-11-17 – A tiny declarative animation library , inspired by React.
 
 ### Client/Server Communication
 
@@ -95,7 +95,7 @@
 
 ### Development
 
-* [lein-figwheel](https://github.com/bhauman/lein-figwheel) ⭐ 2,873 | 🐛 97 | 🌐 Clojure | 📅 2024-03-26 – Leiningen plugin that pushes ClojureScript code changes to the client.
+* [lein-figwheel](https://github.com/bhauman/lein-figwheel) ⭐ 2,874 | 🐛 97 | 🌐 Clojure | 📅 2024-03-26 – Leiningen plugin that pushes ClojureScript code changes to the client.
 * [shadow-cljs](https://github.com/thheller/shadow-cljs) ⭐ 2,408 | 🐛 43 | 🌐 Clojure | 📅 2026-11-12 – ClojureScript compilation made easy
 * [Lumo](https://github.com/anmonteiro/lumo) ⚠️ Archived – Fast, cross-platform, standalone ClojureScript environment.
 * [Devcards](https://github.com/bhauman/devcards) ⭐ 1,534 | 🐛 30 | 🌐 Clojure | 📅 2023-09-17 – Devcards aims to provide a visual REPL experience for ClojureScript.
@@ -128,7 +128,7 @@
 
 ### Graphics
 
-* [Quil](https://github.com/quil/quil) ⭐ 3,054 | 🐛 47 | 🌐 Clojure | 📅 2026-04-24 – A processing and graphics programming library.
+* [Quil](https://github.com/quil/quil) ⭐ 3,055 | 🐛 47 | 🌐 Clojure | 📅 2026-04-24 – A processing and graphics programming library.
 * [geom](https://github.com/thi-ng/geom) ⭐ 999 | 🐛 33 | 🌐 Clojure | 📅 2025-03-22 – A 2D/3D geometry toolkit for Clojure/Clojurescript.
 
 ### HTTP Handler
@@ -156,7 +156,7 @@
 
 * [core.async](https://github.com/clojure/core.async/) ⭐ 2,055 | 🐛 2 | 🌐 Clojure | 📅 2026-06-12 – A Clojure(Script) library designed to provide facilities for async programming and communication.
 * [Automat](https://github.com/ztellman/automat) ⚠️ Archived – A Clojure(Script) library for defining and using finite-state automata, inspired by Ragel.
-* [markdown-clj](https://github.com/yogthos/markdown-clj) ⭐ 577 | 🐛 22 | 🌐 Clojure | 📅 2026-11-15 – Markdown parser in Clojure/ClojureScript.
+* [markdown-clj](https://github.com/yogthos/markdown-clj) ⭐ 577 | 🐛 21 | 🌐 Clojure | 📅 2026-11-16 – Markdown parser in Clojure/ClojureScript.
 * [om-tools](https://github.com/plumatic/om-tools) ⭐ 433 | 🐛 9 | 🌐 Clojure | 📅 2018-07-07 – It aims to provide higher-order abstractions and utilities frequently useful when building components with Om's API.
 * [reagent-forms](https://github.com/reagent-project/reagent-forms/) ⭐ 342 | 🐛 9 | 🌐 HTML | 📅 2020-04-27 – Bootstrap form components for Reagent.
 * [inflections-clj](https://github.com/r0man/inflections-clj) ⭐ 223 | 🐛 4 | 🌐 Clojure | 📅 2025-08-14 – Rails-like inflection library for Clojure and ClojureScript.
@@ -170,13 +170,13 @@
 ### [React.js](https://facebook.github.io/react/) Interface
 
 * [Om](https://github.com/omcljs/om) ⭐ 6,612 | 🐛 81 | 🌐 Clojure | 📅 2020-08-17 – A powerful interface to React, makes use of its object oriented structures.
-* [Rum](https://github.com/tonsky/rum) ⭐ 1,830 | 🐛 23 | 🌐 HTML | 📅 2025-04-14 – Decomplected, extensible, simple.
+* [Rum](https://github.com/tonsky/rum) ⭐ 1,831 | 🐛 23 | 🌐 HTML | 📅 2025-04-14 – Decomplected, extensible, simple.
 * [re-com](https://github.com/Day8/re-com) ⭐ 825 | 🐛 52 | 🌐 Clojure | 📅 2026-09-30 – A ClojureScript library of reusable components for Reagent.
 * [Helix](https://github.com/lilactown/helix) ⭐ 676 | 🐛 14 | 🌐 Clojure | 📅 2026-11-11 – A simple, easy to use library for React development in ClojureScript with very few semantics on top of React.
 * [Quiescent](https://github.com/levand/quiescent) ⭐ 610 | 🐛 4 | 🌐 Clojure | 📅 2017-12-11 – It favors functional style, fully stateless.
 * [hx](https://github.com/Lokeh/hx) ⭐ 244 | 🐛 12 | 🌐 Clojure | 📅 2026-04-15 – Another simple, easy to use library for React development in ClojureScript.
 * [Brutha](https://github.com/weavejester/brutha) ⭐ 139 | 🐛 1 | 🌐 Clojure | 📅 2016-08-19 – A simple and functional ClojureScript interface to React.
-* [cljsx](https://github.com/peterhudec/cljsx) ⭐ 14 | 🐛 7 | 🌐 Clojure | 📅 2022-06-22 – [JSX](https://reactjs.org/docs/introducing-jsx.html) for Clojure and ClojureScript, also works with [Inferno](https://infernojs.org), [Nerv](https://nerv.aotu.io/), [Preact](https://preactjs.com/), [Snabbdome](https://github.com/snabbdom/snabbdom) ⭐ 12,384 | 🐛 86 | 🌐 TypeScript | 📅 2026-06-17 and others.
+* [cljsx](https://github.com/peterhudec/cljsx) ⭐ 14 | 🐛 7 | 🌐 Clojure | 📅 2022-06-22 – [JSX](https://reactjs.org/docs/introducing-jsx.html) for Clojure and ClojureScript, also works with [Inferno](https://infernojs.org), [Nerv](https://nerv.aotu.io/), [Preact](https://preactjs.com/), [Snabbdome](https://github.com/snabbdom/snabbdom) ⭐ 12,384 | 🐛 88 | 🌐 TypeScript | 📅 2026-06-17 and others.
 * [Reagent](http://reagent-project.github.io/) – Minimalistic, feature complete.
 
 ### Reactive Programming
@@ -206,7 +206,7 @@
 
 ### Testing
 
-* [cljs.test](https://github.com/clojure/clojurescript/wiki/Testing) ⭐ 9,389 | 🐛 9 | 🌐 Clojure | 📅 2026-11-12 – Integrated test framework for ClojureScript (merged from [clojurescript.test](https://github.com/cemerick/clojurescript.test) ⭐ 165 | 🐛 1 | 🌐 Clojure | 📅 2015-11-25)
+* [cljs.test](https://github.com/clojure/clojurescript/wiki/Testing) ⭐ 9,390 | 🐛 9 | 🌐 Clojure | 📅 2026-11-12 – Integrated test framework for ClojureScript (merged from [clojurescript.test](https://github.com/cemerick/clojurescript.test) ⭐ 165 | 🐛 1 | 🌐 Clojure | 📅 2015-11-25)
 * [test.check](https://github.com/clojure/test.check) ⭐ 1,158 | 🐛 0 | 🌐 Clojure | 📅 2025-12-30 – A generative property-based testing tool inspired by QuickCheck.
 * [Speclj](https://github.com/slagyr/speclj) ⭐ 487 | 🐛 29 | 🌐 Clojure | 📅 2026-11-13 – A TDD/BDD framework for Clojure and ClojureScript.
 * [Expectations](http://jayfields.com/expectations/) – A minimalist's unit testing framework.
@@ -257,4 +257,4 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
