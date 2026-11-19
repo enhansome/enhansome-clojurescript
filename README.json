@@ -199,7 +199,7 @@
                 "open_issues": 76,
                 "owner": "tonsky",
                 "repo": "datascript",
-                "stars": 5799,
+                "stars": 5800,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "thheller",
                 "repo": "shadow-cljs",
-                "stars": 2408,
+                "stars": 2410,
                 "topics": [
                   "cljs",
                   "clojurescript",
@@ -603,7 +603,7 @@
                 "open_issues": 13,
                 "owner": "clj-commons",
                 "repo": "hickory",
-                "stars": 680,
+                "stars": 681,
                 "topics": [
                   "clojure",
                   "html-parser"
@@ -1822,7 +1822,7 @@
                 "open_issues": 3,
                 "owner": "stuartsierra",
                 "repo": "component",
-                "stars": 2167,
+                "stars": 2168,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -2087,7 +2087,7 @@
                 "open_issues": 24,
                 "owner": "day8",
                 "repo": "re-frame",
-                "stars": 5545,
+                "stars": 5544,
                 "topics": [
                   "clojurescript",
                   "re-frame",
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T14:52:49.791Z",
+    "last_updated": "2026-11-19T14:58:19.438Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
