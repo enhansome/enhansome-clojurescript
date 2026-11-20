@@ -38,7 +38,7 @@
                 "id": 341102081,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-11-17T19:21:43Z",
+                "last_commit": "2026-11-20T05:24:04Z",
                 "open_issues": 28,
                 "owner": "Quamolit",
                 "repo": "quamolit",
@@ -199,7 +199,7 @@
                 "open_issues": 76,
                 "owner": "tonsky",
                 "repo": "datascript",
-                "stars": 5800,
+                "stars": 5799,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -226,7 +226,7 @@
                 "open_issues": 21,
                 "owner": "replikativ",
                 "repo": "konserve",
-                "stars": 321,
+                "stars": 320,
                 "topics": [
                   "clojure",
                   "key-value-store",
@@ -304,7 +304,7 @@
                 "open_issues": 97,
                 "owner": "bhauman",
                 "repo": "lein-figwheel",
-                "stars": 2874,
+                "stars": 2871,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -357,7 +357,7 @@
                 "open_issues": 111,
                 "owner": "anmonteiro",
                 "repo": "lumo",
-                "stars": 1873,
+                "stars": 1871,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -407,7 +407,7 @@
                 "open_issues": 20,
                 "owner": "binaryage",
                 "repo": "cljs-devtools",
-                "stars": 1130,
+                "stars": 1129,
                 "topics": [
                   "chrome-devtools",
                   "clojurescript",
@@ -496,7 +496,7 @@
                 "open_issues": 0,
                 "owner": "taoensso",
                 "repo": "truss",
-                "stars": 332,
+                "stars": 331,
                 "topics": [
                   "assertions",
                   "clojure",
@@ -843,7 +843,7 @@
                 "open_issues": 47,
                 "owner": "quil",
                 "repo": "quil",
-                "stars": 3055,
+                "stars": 3053,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -1094,7 +1094,7 @@
                 "open_issues": 13,
                 "owner": "Jarzka",
                 "repo": "stylefy",
-                "stars": 322,
+                "stars": 321,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -1130,7 +1130,7 @@
                 "open_issues": 2,
                 "owner": "clojure",
                 "repo": "core.async",
-                "stars": 2055,
+                "stars": 2053,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -1169,7 +1169,7 @@
                 "language": "Clojure",
                 "license": "EPL-1.0",
                 "last_commit": "2026-11-17T16:47:35Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "yogthos",
                 "repo": "markdown-clj",
                 "stars": 578,
@@ -2029,7 +2029,7 @@
                 "open_issues": 10,
                 "owner": "theleoborges",
                 "repo": "bouncer",
-                "stars": 363,
+                "stars": 361,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -2114,7 +2114,7 @@
                 "open_issues": 11,
                 "owner": "plexus",
                 "repo": "chestnut",
-                "stars": 1301,
+                "stars": 1299,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -2164,7 +2164,7 @@
                 "open_issues": 5,
                 "owner": "karad",
                 "repo": "lein_template_descjop",
-                "stars": 393,
+                "stars": 392,
                 "topics": [
                   "atom",
                   "clojure",
@@ -2348,7 +2348,7 @@
                 "open_issues": 4,
                 "owner": "taoensso",
                 "repo": "sente",
-                "stars": 1794,
+                "stars": 1793,
                 "topics": [
                   "ajax",
                   "async",
@@ -2380,7 +2380,7 @@
                 "open_issues": 7,
                 "owner": "jarohen",
                 "repo": "chord",
-                "stars": 443,
+                "stars": 441,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T14:58:19.438Z",
+    "last_updated": "2026-11-20T14:40:34.690Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
@@ -2407,7 +2407,7 @@
       "open_issues": 6,
       "owner": "hantuzun",
       "repo": "awesome-clojurescript",
-      "stars": 1091,
+      "stars": 1090,
       "topics": [
         "awesome",
         "awesome-list",
