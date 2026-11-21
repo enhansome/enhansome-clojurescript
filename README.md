@@ -66,7 +66,7 @@
 ### Canvas
 
 * [Monet](https://github.com/rm-hull/monet) ⭐ 170 | 🐛 5 | 🌐 Clojure | 📅 2017-01-06 – A small ClojureScript library to make it easier to work with canvas and visuals.
-* [Quamolit](https://github.com/Quamolit/quamolit) ⭐ 7 | 🐛 28 | 🌐 JavaScript | 📅 2026-11-20 – A tiny declarative animation library , inspired by React.
+* [Quamolit](https://github.com/Quamolit/quamolit) ⭐ 7 | 🐛 28 | 🌐 JavaScript | 📅 2026-11-21 – A tiny declarative animation library , inspired by React.
 
 ### Client/Server Communication
 
@@ -149,14 +149,14 @@
 
 ### CSS tools
 
-* [Garden](https://github.com/noprompt/garden) ⭐ 1,369 | 🐛 45 | 🌐 Clojure | 📅 2024-01-16 – A library for rendering CSS in Clojure and ClojureScript.
+* [Garden](https://github.com/noprompt/garden) ⭐ 1,370 | 🐛 45 | 🌐 Clojure | 📅 2024-01-16 – A library for rendering CSS in Clojure and ClojureScript.
 * [stylefy](https://github.com/jarzka/stylefy) ⭐ 321 | 🐛 13 | 🌐 Clojure | 📅 2025-07-21 – stylefy makes it possible to define UI component styles as Clojure data and attach them into components easily without writing CSS selectors
 
 ### Miscellaneous
 
 * [core.async](https://github.com/clojure/core.async/) ⭐ 2,053 | 🐛 2 | 🌐 Clojure | 📅 2026-06-12 – A Clojure(Script) library designed to provide facilities for async programming and communication.
 * [Automat](https://github.com/ztellman/automat) ⚠️ Archived – A Clojure(Script) library for defining and using finite-state automata, inspired by Ragel.
-* [markdown-clj](https://github.com/yogthos/markdown-clj) ⭐ 578 | 🐛 22 | 🌐 Clojure | 📅 2026-11-17 – Markdown parser in Clojure/ClojureScript.
+* [markdown-clj](https://github.com/yogthos/markdown-clj) ⭐ 578 | 🐛 21 | 🌐 Clojure | 📅 2026-11-20 – Markdown parser in Clojure/ClojureScript.
 * [om-tools](https://github.com/plumatic/om-tools) ⭐ 433 | 🐛 9 | 🌐 Clojure | 📅 2018-07-07 – It aims to provide higher-order abstractions and utilities frequently useful when building components with Om's API.
 * [reagent-forms](https://github.com/reagent-project/reagent-forms/) ⭐ 342 | 🐛 9 | 🌐 HTML | 📅 2020-04-27 – Bootstrap form components for Reagent.
 * [inflections-clj](https://github.com/r0man/inflections-clj) ⭐ 223 | 🐛 4 | 🌐 Clojure | 📅 2025-08-14 – Rails-like inflection library for Clojure and ClojureScript.
@@ -183,14 +183,14 @@
 
 * [Javelin](https://github.com/hoplon/javelin) ⭐ 826 | 🐛 7 | 🌐 Clojure | 📅 2023-10-31 – A Functional Reactive Programming library for ClojureScript.
 * [Reagi](https://github.com/weavejester/reagi) ⭐ 234 | 🐛 4 | 🌐 Clojure | 📅 2016-03-04 – An FRP library for Clojure and ClojureScript, built on top of core.async.
-* [Manifold-cljs](https://github.com/dm3/manifold-cljs) ⭐ 50 | 🐛 1 | 🌐 Clojure | 📅 2019-12-20 – A port of [Manifold](https://github.com/ztellman/manifold) ⭐ 1,056 | 🐛 33 | 🌐 Clojure | 📅 2026-03-16 to ClojureScript.
+* [Manifold-cljs](https://github.com/dm3/manifold-cljs) ⭐ 50 | 🐛 1 | 🌐 Clojure | 📅 2019-12-20 – A port of [Manifold](https://github.com/ztellman/manifold) ⭐ 1,057 | 🐛 33 | 🌐 Clojure | 📅 2026-03-16 to ClojureScript.
 * [rx-cljs](https://github.com/leonardoborges/rx-cljs) ⭐ 44 | 🐛 0 | 🌐 Clojure | 📅 2013-05-21 – A ClojureScript wrapper for Reactive Extensions (Rx) for Javascript.
 * [Yolk](https://github.com/Cicayda/yolk) – A thin ClojureScript wrapper around bacon.js.
 
 ### Routing
 
 * [Bidi](https://github.com/juxt/bidi) ⭐ 998 | 🐛 60 | 🌐 Clojure | 📅 2023-03-15 – A Clojure(script) data driven routing library.
-* [Secretary](https://github.com/gf3/secretary) ⭐ 773 | 🐛 21 | 🌐 Clojure | 📅 2020-12-13 – A client-side router for ClojureScript.
+* [Secretary](https://github.com/gf3/secretary) ⭐ 774 | 🐛 21 | 🌐 Clojure | 📅 2020-12-13 – A client-side router for ClojureScript.
 * [Silk](https://github.com/DomKM/silk) ⭐ 225 | 🐛 4 | 🌐 Clojure | 📅 2022-01-04 – An isomorphic routing library for Clojure & ClojureScript.
 * [Router](https://github.com/darkleaf/router) ⭐ 80 | 🐛 0 | 🌐 Clojure | 📅 2017-04-30 – Bidirectional Ring router for Clojure/Script. REST oriented.
 
@@ -207,7 +207,7 @@
 ### Testing
 
 * [cljs.test](https://github.com/clojure/clojurescript/wiki/Testing) ⭐ 9,390 | 🐛 9 | 🌐 Clojure | 📅 2026-11-12 – Integrated test framework for ClojureScript (merged from [clojurescript.test](https://github.com/cemerick/clojurescript.test) ⭐ 165 | 🐛 1 | 🌐 Clojure | 📅 2015-11-25)
-* [test.check](https://github.com/clojure/test.check) ⭐ 1,158 | 🐛 0 | 🌐 Clojure | 📅 2025-12-30 – A generative property-based testing tool inspired by QuickCheck.
+* [test.check](https://github.com/clojure/test.check) ⭐ 1,159 | 🐛 0 | 🌐 Clojure | 📅 2025-12-30 – A generative property-based testing tool inspired by QuickCheck.
 * [Speclj](https://github.com/slagyr/speclj) ⭐ 487 | 🐛 29 | 🌐 Clojure | 📅 2026-11-13 – A TDD/BDD framework for Clojure and ClojureScript.
 * [Expectations](http://jayfields.com/expectations/) – A minimalist's unit testing framework.
 
@@ -257,4 +257,4 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
