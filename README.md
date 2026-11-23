@@ -88,7 +88,7 @@
 
 ### Database
 
-* [Datascript](https://github.com/tonsky/datascript) ⭐ 5,799 | 🐛 76 | 🌐 Clojure | 📅 2026-08-15 – An immutable in-memory database and Datalog query engine in ClojureScript.
+* [Datascript](https://github.com/tonsky/datascript) ⭐ 5,797 | 🐛 76 | 🌐 Clojure | 📅 2026-08-15 – An immutable in-memory database and Datalog query engine in ClojureScript.
 * [Konserve](https://github.com/replikativ/konserve) ⭐ 320 | 🐛 21 | 🌐 Clojure | 📅 2026-10-23 – A clojuresque key-value/document store protocol with core.async.
 * [specql](https://github.com/tatut/specql) ⭐ 135 | 🐛 10 | 🌐 Clojure | 📅 2024-09-20 – Library for simple PostgreSQL queries with namespaced keys.
 * [Jaki](https://github.com/pandeiro/jaki) ⭐ 16 | 🐛 0 | 🌐 Clojure | 📅 2012-10-10 – A simple ClojureScript CouchDB client.
@@ -171,7 +171,7 @@
 
 * [Om](https://github.com/omcljs/om) ⭐ 6,612 | 🐛 81 | 🌐 Clojure | 📅 2020-08-17 – A powerful interface to React, makes use of its object oriented structures.
 * [Rum](https://github.com/tonsky/rum) ⭐ 1,831 | 🐛 23 | 🌐 HTML | 📅 2025-04-14 – Decomplected, extensible, simple.
-* [re-com](https://github.com/Day8/re-com) ⭐ 825 | 🐛 52 | 🌐 Clojure | 📅 2026-09-30 – A ClojureScript library of reusable components for Reagent.
+* [re-com](https://github.com/Day8/re-com) ⭐ 825 | 🐛 60 | 🌐 Clojure | 📅 2026-09-30 – A ClojureScript library of reusable components for Reagent.
 * [Helix](https://github.com/lilactown/helix) ⭐ 676 | 🐛 15 | 🌐 Clojure | 📅 2026-11-11 – A simple, easy to use library for React development in ClojureScript with very few semantics on top of React.
 * [Quiescent](https://github.com/levand/quiescent) ⭐ 610 | 🐛 4 | 🌐 Clojure | 📅 2017-12-11 – It favors functional style, fully stateless.
 * [hx](https://github.com/Lokeh/hx) ⭐ 244 | 🐛 12 | 🌐 Clojure | 📅 2026-04-15 – Another simple, easy to use library for React development in ClojureScript.
@@ -183,7 +183,7 @@
 
 * [Javelin](https://github.com/hoplon/javelin) ⭐ 826 | 🐛 7 | 🌐 Clojure | 📅 2023-10-31 – A Functional Reactive Programming library for ClojureScript.
 * [Reagi](https://github.com/weavejester/reagi) ⭐ 234 | 🐛 4 | 🌐 Clojure | 📅 2016-03-04 – An FRP library for Clojure and ClojureScript, built on top of core.async.
-* [Manifold-cljs](https://github.com/dm3/manifold-cljs) ⭐ 50 | 🐛 1 | 🌐 Clojure | 📅 2019-12-20 – A port of [Manifold](https://github.com/ztellman/manifold) ⭐ 1,057 | 🐛 33 | 🌐 Clojure | 📅 2026-03-16 to ClojureScript.
+* [Manifold-cljs](https://github.com/dm3/manifold-cljs) ⭐ 50 | 🐛 1 | 🌐 Clojure | 📅 2019-12-20 – A port of [Manifold](https://github.com/ztellman/manifold) ⭐ 1,058 | 🐛 33 | 🌐 Clojure | 📅 2026-03-16 to ClojureScript.
 * [rx-cljs](https://github.com/leonardoborges/rx-cljs) ⭐ 44 | 🐛 0 | 🌐 Clojure | 📅 2013-05-21 – A ClojureScript wrapper for Reactive Extensions (Rx) for Javascript.
 * [Yolk](https://github.com/Cicayda/yolk) – A thin ClojureScript wrapper around bacon.js.
 
@@ -206,7 +206,7 @@
 
 ### Testing
 
-* [cljs.test](https://github.com/clojure/clojurescript/wiki/Testing) ⭐ 9,390 | 🐛 9 | 🌐 Clojure | 📅 2026-11-21 – Integrated test framework for ClojureScript (merged from [clojurescript.test](https://github.com/cemerick/clojurescript.test) ⭐ 165 | 🐛 1 | 🌐 Clojure | 📅 2015-11-25)
+* [cljs.test](https://github.com/clojure/clojurescript/wiki/Testing) ⭐ 9,391 | 🐛 9 | 🌐 Clojure | 📅 2026-11-22 – Integrated test framework for ClojureScript (merged from [clojurescript.test](https://github.com/cemerick/clojurescript.test) ⭐ 165 | 🐛 1 | 🌐 Clojure | 📅 2015-11-25)
 * [test.check](https://github.com/clojure/test.check) ⭐ 1,159 | 🐛 0 | 🌐 Clojure | 📅 2025-12-30 – A generative property-based testing tool inspired by QuickCheck.
 * [Speclj](https://github.com/slagyr/speclj) ⭐ 487 | 🐛 29 | 🌐 Clojure | 📅 2026-11-13 – A TDD/BDD framework for Clojure and ClojureScript.
 * [Expectations](http://jayfields.com/expectations/) – A minimalist's unit testing framework.
@@ -219,7 +219,7 @@
 
 ### Web Framework & Template
 
-* [re-frame](https://github.com/Day8/re-frame) ⭐ 5,544 | 🐛 24 | 🌐 Clojure | 📅 2026-05-05 – A Reagent Framework For Writing SPAs, in Clojurescript.
+* [re-frame](https://github.com/Day8/re-frame) ⭐ 5,544 | 🐛 23 | 🌐 Clojure | 📅 2026-05-05 – A Reagent Framework For Writing SPAs, in Clojurescript.
 * [Chestnut](https://github.com/plexus/chestnut) ⚠️ Archived – An Application template for ClojureScript/Om with live reloading.
 * [Precept](https://github.com/CoNarrative/precept) ⭐ 663 | 🐛 38 | 🌐 Clojure | 📅 2022-12-06 – A declarative programming framework.
 * [descjop](https://github.com/karad/lein_template_descjop) ⚠️ Archived – A template for Web based desktop application with Electron.
@@ -238,7 +238,7 @@
 
 ### WebSockets
 
-* [Sente](https://github.com/ptaoussanis/sente) ⭐ 1,793 | 🐛 4 | 🌐 Clojure | 📅 2026-08-21 – Clojure(Script) + core.async + WebSockets/Ajax.
+* [Sente](https://github.com/ptaoussanis/sente) ⭐ 1,793 | 🐛 2 | 🌐 Clojure | 📅 2026-11-23 – Clojure(Script) + core.async + WebSockets/Ajax.
 * [Chord](https://github.com/jarohen/chord) ⭐ 441 | 🐛 7 | 🌐 Clojure | 📅 2020-07-12 – Designed to bridge the gap between the triad of CLJ/CLJS, web-sockets and core.async.
 
 ***
@@ -257,4 +257,4 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
