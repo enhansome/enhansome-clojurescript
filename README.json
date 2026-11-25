@@ -39,7 +39,7 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2026-11-24T12:27:02Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "Quamolit",
                 "repo": "quamolit",
                 "stars": 7,
@@ -1168,7 +1168,7 @@
                 "id": 2551308,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-11-20T15:02:21Z",
+                "last_commit": "2026-11-25T14:40:40Z",
                 "open_issues": 21,
                 "owner": "yogthos",
                 "repo": "markdown-clj",
@@ -2087,7 +2087,7 @@
                 "open_issues": 23,
                 "owner": "day8",
                 "repo": "re-frame",
-                "stars": 5544,
+                "stars": 5543,
                 "topics": [
                   "clojurescript",
                   "re-frame",
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T16:46:08.750Z",
+    "last_updated": "2026-11-25T16:33:48.783Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
