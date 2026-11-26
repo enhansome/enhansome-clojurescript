@@ -38,7 +38,7 @@
                 "id": 341102081,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-11-24T12:27:02Z",
+                "last_commit": "2026-11-25T18:10:23Z",
                 "open_issues": 29,
                 "owner": "Quamolit",
                 "repo": "quamolit",
@@ -1412,7 +1412,7 @@
                 "open_issues": 81,
                 "owner": "omcljs",
                 "repo": "om",
-                "stars": 6612,
+                "stars": 6613,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:56:56.515Z"
@@ -1752,8 +1752,8 @@
                 "id": 21293746,
                 "language": "Clojure",
                 "license": null,
-                "last_commit": "2026-11-23T23:20:19Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-26T05:07:25Z",
+                "open_issues": 2,
                 "owner": "domkm",
                 "repo": "silk",
                 "stars": 225,
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T16:33:48.783Z",
+    "last_updated": "2026-11-26T16:05:47.222Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
